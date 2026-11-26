@@ -1,0 +1,1421 @@
+offset / scene id,original Japanese,literal translation,final English
+"D01_8A6F (file 0x02A7F, PRG bank 1 $8A6F)","サイカードの　さしこみぐちが　5つあります。
+あしたの　レッスンデータが
+はいっているところを　とうししてください。
+カーソルで　ここだとおもう　ばしょをえらび
+Ａボタンで　けっていしてください。",There are 5 Psi Card insertion slots. Please use clairvoyance on the place where tomorrow's lesson data is. Choose the place you think it is with the cursor and confirm with the A Button.,There are five Psi Card slots. Please use Clairvoyance to find tomorrow's lesson data. Pick it with the cursor and press the A Button.
+"D01_8AD2 (file 0x02AE2, PRG bank 1 $8AD2)","とうし　せいこう！
+サイカードに　データがかきこまれたぞ！
+
+",Clairvoyance success! The data has been written onto the Psi Card!,Clairvoyance: Success! The data is now on your Psi Card!
+"D01_8AF2 (file 0x02B02, PRG bank 1 $8AF2)","とうし　しっぱい！
+もういちど　やりなおしますか？
+ただし　データのばしょは　かわります。","Clairvoyance failure! Will you try again? However, the data's location will change.","Clairvoyance: Failed! Would you like to try again? The data will move to a different slot, though."
+"D01_8D38 (file 0x02D48, PRG bank 1 $8D38)","シューターの　とりだしぐちが　5つあるぞ！
+けんていようの　プレートが　おちてくるばしょを
+よちする　ひつようがあるぞ！
+カーソルで
+ここだと　かんじるばしょを　えらぼう！","There are 5 Chute outlets! It's necessary to foresee the place where the exam plate will fall! With the cursor, let's choose the place you feel is the one!",There are five Chute outlets! Use Precognition to sense where the Exam Plate drops. Pick it with the cursor!
+"D01_8D8F (file 0x02D9F, PRG bank 1 $8D8F)","よち　せいこう！
+
+
+",Precognition success!,Precognition: Success!
+"D01_8D9B (file 0x02DAB, PRG bank 1 $8D9B)","よち　しっぱい！
+もういちど　やりなおしますか？
+
+",Precognition failure! Will you try again?,Precognition: Failed! Would you like to try again?
+"D01_8FE1 (file 0x02FF1, PRG bank 1 $8FE1)","ドアの　サイロックを
+ねんりきをつかって　はずすひつようがあります。
+
+とびらが　あくように　ねんじながら
+Ａボタンを　おしてください。","It's necessary to undo the door's Psi Lock using psychokinesis. While willing the door to open, please press the A Button.",You need to undo the door's Psi Lock with Psychokinesis. Please press the A Button as you will the door to open.
+"D01_9026 (file 0x03036, PRG bank 1 $9026)","サイロックがはずれて　ドアがあいたぞ！
+
+
+",The Psi Lock came off and the door opened!,The Psi Lock gives way and the door opens!
+"D01_903D (file 0x0304D, PRG bank 1 $903D)","ねんりき　しっぱい！
+もういちど　やりなおしますか？",Psychokinesis failure! Will you try again?,Psychokinesis: Failed! Would you like to try again?
+"D01_9462 (file 0x03472, PRG bank 1 $9462)","それでは　きほんしせいから　れんしゅうしよう。
+いちばんらくだと　おもう　しせいをつくるんだ
+そして　そのまま　ぜんしんに　ちからをいれる！
+これいじょう　がまんできないと　かんじたら
+いっきに　ぜんしんの　ちからをぬくんだ。
+これが　リラックスの　ポーズだぞ！
+それでは　もういちど　れんしゅうしよう
+ちゃんとできたら　Ａボタンでつぎにいこう。","Well then, let's practice starting from the basic posture. Make the posture you think is most comfortable. Then, staying like that, put strength into your whole body! When you feel you can't bear it any more, release the strength from your whole body all at once. This is the relax pose! Now, let's practice once more. When you can do it properly, let's go on with the A Button.","Let's start with the basic posture. Get into a comfortable position.{P}Hold that position, and tense up your whole body!{P}When you can't hold it any longer, let all that tension go at once.{P}That's the relaxation pose! Now let's try it once more.{P}When you've got it, press the A Button to move on."
+"D01_9510 (file 0x03520, PRG bank 1 $9510)","こら　ちゃんとれんしゅうしないと　だめだぞ！
+もういちど　しっかりやるように！","Hey! It's no good if you don't practice properly! Do it once more, properly!","Hey now, that's no good! Practice properly! Try again, and do it right!"
+"D01_9538 (file 0x03548, PRG bank 1 $9538)","リラックスのポーズは　できたかな？
+つぎは　こきゅうほうの　れんしゅうだぞ
+こきゅうは　トリップするための　いりぐちだ。
+まず　からだにエネルギーを　とりこむつもりで
+ゆっくりと　おおきく　いきをすいこむんだ。
+そのまま　すこしのあいだ　いきをとめる……………そして　すったときよりも　
+ややゆっくりと　すこしづつ　いきを　はくんだ。
+あせらず　なんども　くりかえすことがだいじだぞ！それでは　がめんにあわせて　れんしゅうしよう
+なお　やめるときは　Ｂボタンをおすこと。","Could you do the relax pose? Next is practice of the breathing method. Breathing is the entrance for tripping. First, intending to take energy into your body, slowly and deeply breathe in. Hold your breath like that for a little while... and then, a bit more slowly than when you breathed in, breathe out little by little. Without hurrying, repeating it many times is important! Now, let's practice along with the screen. To stop, press the B Button.","Got the relaxation pose down? Next, let's practice breathing. Breathing is the doorway to a Mind Trip.{P}First, breathe in slowly and deeply, drawing energy into your body.{P}Hold it a moment… then breathe out even more slowly, bit by bit.{P}Don't rush, and keep repeating it. That's the key!{P}Now let's practice along with the screen. Press the B Button to stop."
+"D01_9624 (file 0x03634, PRG bank 1 $9624)","いしきの　めざめを　すこしはかんじたかな？
+その　かんかくは　ひじょうにたいせつなんだぞ。
+さあ　つぎはパワーイメージの　れんしゅうだ！
+Ａボタンをおすと　たまが　ひょうじされる
+その　たまを　めをそらさずに　じっとみつめる。
+しばらくすると　たまが　てんめつをはじめるぞ！
+てんめつが　はじまったら　めをとじよう。
+そして　めをとじたときにみえる
+たまのざんぞうに　いしきを　しゅうちゅうする！
+たまのもつ　パワーをかんじることがたいせつだ。
+なお　やめるときは　Ｂボタンをおすこと。","Did you feel the awakening of consciousness at least a little? That sensation is extremely important. Now, next is power-image practice! When you press the A Button, a ball is displayed. Stare intently at that ball without looking away. After a while the ball will start to blink! When the blinking starts, close your eyes. Then concentrate your consciousness on the ball's afterimage that you see when you close your eyes! Feeling the power the ball holds is important. To stop, press the B Button.","Did you feel your mind begin to awaken, even a little?{P}That feeling is very important. Next up is Power Image practice!{P}Press the A Button and an orb will appear. Stare at it steadily without looking away. After a while, the orb will start to blink! When it does, close your eyes and focus on the afterimage left behind! The key is to feel the orb's power. Press the B Button to stop."
+"D01_9718 (file 0x03728, PRG bank 1 $9718)","きほんしせいの　れんしゅうをしよう。
+いちばんらくだと　おもう　しせいをつくるんだ
+そして　そのまま　ぜんしんに　ちからをいれる！
+これいじょう　がまんできないと　かんじたら
+いっきに　ぜんしんの　ちからをぬくんだ。
+これが　リラックスの　ポーズだぞ！
+それでは　もういちど　れんしゅうしよう
+ちゃんとできたら　Ａボタンでおわろう。","Let's practice the basic posture. Make the posture you think is most comfortable. Then, staying like that, put strength into your whole body! When you feel you can't bear it any more, release the strength from your whole body all at once. This is the relax pose! Now, let's practice once more. When you can do it properly, let's finish with the A Button.","Let's practice the basic posture. Get into a comfortable position.{P}Hold that position, and tense up your whole body!{P}When you can't hold it any longer, let all that tension go at once.{P}That's the relaxation pose! Now let's try it once more.{P}When you've got it, press the A Button to finish."
+"D01_97BF (file 0x037CF, PRG bank 1 $97BF)","まず　からだにエネルギーを　とりこむつもりで
+ゆっくりと　おおきく　いきをすいこむんだ。
+そのまま　すこしのあいだ　いきをとめる……………そして　すったときよりも　
+ややゆっくりと　すこしづつ　いきを　はくんだ。
+あせらず　なんども　くりかえすことがだいじだぞ！それでは　がめんにあわせて　れんしゅうしよう
+なお　やめるときは　Ｂボタンをおすこと。","First, intending to take energy into your body, slowly and deeply breathe in. Hold your breath like that for a little while... and then, a bit more slowly than when you breathed in, breathe out little by little. Without hurrying, repeating it many times is important! Now, let's practice along with the screen. To stop, press the B Button.","First, breathe in slowly and deeply, drawing energy into your body.{P}Hold it a moment… then breathe out even more slowly, bit by bit.{P}Don't rush, and keep repeating it. That's the key!{P}Now let's practice along with the screen. Press the B Button to stop."
+"D01_986E (file 0x0387E, PRG bank 1 $986E)","Ａボタンをおすと　たまが　ひょうじされる
+その　たまを　めをそらさずに　じっとみつめる。
+しばらくすると　たまが　てんめつをはじめるぞ！
+てんめつが　はじまったら　めをとじよう。
+そして　めをとじたときにみえる
+たまのざんぞうに　いしきを　しゅうちゅうする！
+たまのもつ　パワーをかんじることがたいせつだ。
+なお　やめるときは　Ｂボタンをおすこと。","When you press the A Button, a ball is displayed. Stare intently at that ball without looking away. After a while the ball will start to blink! When the blinking starts, close your eyes. Then concentrate your consciousness on the ball's afterimage that you see when you close your eyes! Feeling the power the ball holds is important. To stop, press the B Button.","Press the A Button and an orb will appear. Stare at it steadily without looking away. After a while, the orb will start to blink! When it does, close your eyes and focus on the afterimage left behind! The key is to feel the orb's power. Press the B Button to stop."
+"D02_BB24 (file 0x05B34, PRG bank 2 $BB24)","{V}{V}{V}{V}　しっぱい！
+サイパワーの　つかいすぎだ！
+ちょっと　ひとやすみしよう…………
+",{V}{V}{V}{V} failure! Used too much Psi Power! Let's rest a little...,"{V}{V}{V}{V}: Failed!
+You used too much Psi Power! Time for a rest…"
+"D03_96B5 (file 0x076C5, PRG bank 3 $96B5)","かなり　バイブレーションが　みだれています！
+もうちょっと　しゅうちゅうしてください。
+きほんトレーニングを　しっかりやりましょう。",Your vibrations are quite disordered! Please concentrate a little more. Let's do the basic training thoroughly.,"Your vibrations are quite unsettled! Please concentrate a little harder, and keep up your basic training."
+"D03_96F8 (file 0x07708, PRG bank 3 $96F8)","あまり　ちょうしが　よくないですね！
+エスパーどが　ちょっと　ひくいようです。
+これからの　トレーニングを　がんばりましょう。","Your condition isn't very good, is it! Your Esper Rating seems a little low. Let's do our best in the training from here on.",You aren't quite at your best today. Your Esper Rating is a little low. Please keep working hard at your training.
+"D03_9738 (file 0x07748, PRG bank 3 $9738)","なかなか　ちょうしがいいですね！
+エスパーど　が　60をわらないようにしましょう。このペースで　トレーニングを　つづけましょう。",Your condition is pretty good! Let's make sure your Esper Rating doesn't fall below 60. Let's continue training at this pace.,You're doing pretty well! Keep your Esper Rating at 60 or above.{P}Please keep training at this pace.
+"D03_9779 (file 0x07789, PRG bank 3 $9779)","ずいぶん　バイブレーションが　いいですね！
+いまの　かんかくを　わすれないでください。
+このペースで　トレーニングを　つづけましょう。",Your vibrations are very good! Please don't forget the sensation you have now. Let's continue training at this pace.,Your vibrations are very good! Please remember how this feels.{P}Keep training at this pace.
+"D03_97BD (file 0x077CD, PRG bank 3 $97BD)","すごい　バイブレーションでしたね！
+なにか　かんじるものが　あったでしょう。
+みのまわりで　かわったことが　おこるかも………",Those were amazing vibrations! You probably felt something. Something unusual may happen around you...,What amazing vibrations! You must have sensed it too.{P}Something unusual may happen around you…
+"D04_875B (file 0x0876B, PRG bank 4 $875B)",じしつに　もどって　やすみなさい。,Go back to your own room and rest.,Go back to your room and get some rest.
+"D04_876D (file 0x0877D, PRG bank 4 $876D)","コンピュータが　はなしかけてきた！
+「おはよう！　さあ
+　コンピュータルームへ　いきなさい。
+","The computer spoke to me! ""Good morning! Now, go to the Computer Room.","The computer speaks up!
+""Good morning! Go to the Computer Room."""
+"D04_879D (file 0x087AD, PRG bank 4 $879D)","コンピュータが　はなしかけてきた！
+「ねるまえに　めいそうを　やろう。","The computer spoke to me! ""Let's do meditation before sleeping.","The computer speaks up!
+""Let's meditate before bed."""
+"D04_87C1 (file 0x087D1, PRG bank 4 $87C1)","マインドレベルが　かなり　いいみたいだね！
+きょうは　このスクールで　トレーニングする
+ないようを　しょうかいするよ。
+コンピュータを　フイールしてごらん。
+
+
+",Your Mind Level seems quite good! Today I'll introduce the contents of the training at this School. Try FEELing the computer.,Your Mind Level looks pretty good! Today I'll show you what the training is like here at the School. Go ahead and FEEL the computer.
+"D04_8813 (file 0x08823, PRG bank 4 $8813)","だいたい　トレーニングないようは　わかったかな？さあ　あしたからは　いよいよ
+ほんかくてきな　トレーニングにはいるぞ！
+あしたからの　せいせきは　そつぎょうのときの
+きじゅんと　なるので　しんけんに　やるように！
+
+なお　くんれんの　データを　きろくする
+サイカードを　へやから　さがしてくるように。
+
+","Do you roughly understand the training contents? Now, from tomorrow, at last, we enter full-scale training! Your results from tomorrow become the standard at graduation, so do it seriously! Also, go search your room for the Psi Card that records the training data.","Got the hang of things? The real training begins tomorrow!{P}Your results will count toward graduation, so give it your all!{P}Oh, and go find the Psi Card in your room. It stores training data."
+"D04_88AC (file 0x088BC, PRG bank 4 $88AC)","コンピュータが　はなしかけてきた！
+「ごくろうさま。　ゆっくりやすみましょう………
+
+","The computer spoke to me! ""Thank you for your hard work. Let's rest well...","The computer speaks up!
+""Good work today. Have a nice, long rest…"""
+"D04_88D8 (file 0x088E8, PRG bank 4 $88D8)","コンピュータが　はなしかけてきた！
+「おはよう。　さあ　トレーニングデータを
+　にゅうりょくする　サイカードを　さがしなさい。
+","The computer spoke to me! ""Good morning. Now, search for the Psi Card to input training data.","The computer speaks up!
+""Good morning. Find the Psi Card for your data."""
+"D04_8919 (file 0x08929, PRG bank 4 $8919)","メッセージが　ながれてきたぞ！
+「サイカードを　さがしなさい…………
+","A message came flowing in! ""Search for the Psi Card...","A message came through!
+""Please find the Psi Card…"""
+"D04_893D (file 0x0894D, PRG bank 4 $893D)","コンピュータが　はなしかけてきた！
+「あしたは　ねんりきの　トレーニングです。
+　きょうは　ゆっくり　やすみなさい……………
+","The computer spoke to me! ""Tomorrow is Psychokinesis training. Rest well today...","The computer speaks up!
+""Psychokinesis training is tomorrow. Rest well…"""
+"D04_897D (file 0x0898D, PRG bank 4 $897D)","コンピュータが　はなしかけてきた！
+「おはよう　コンピュータルームにいきなさい。
+
+そのまえに　きのうの　トレーニングの　けっかを
+みたければ　コンピュータを　フイールしなさい。
+
+","The computer spoke to me! ""Good morning, go to the Computer Room. Before that, if you want to see the results of yesterday's training, FEEL the computer.","The computer speaks up!
+""Good morning. Please go to the Computer Room. First, FEEL the computer to see yesterday's results."""
+"D04_89D9 (file 0x089E9, PRG bank 4 $89D9)","コンピュータが　はなしかけてきた！
+「あしたは　よちの　トレーニングです。
+　きょうは　ゆっくり　やすみなさい……………
+","The computer spoke to me! ""Tomorrow is Precognition training. Rest well today...","The computer speaks up!
+""Precognition training is tomorrow. Rest well…"""
+"D04_8A17 (file 0x08A27, PRG bank 4 $8A17)","たしかに　きみのバイブを　かんじとったぞ！
+さあ　あしたは　いよいよ　そつぎょうけんていだ！そこで　あすの　けんていに　ひつような　　
+けんていようの　プレートを　シューターで
+おくるので　よちをつかって　とってくるんだ！
+
+","I surely sensed your vibes! Now, tomorrow at last is the Graduation Exam! So I'll send the exam plate needed for tomorrow's exam by the Chute, so use Precognition and go get it!","I picked up your vibes, all right!{P}Tomorrow is the big day: your Graduation Exam!{P}I'll send the Exam Plate by Chute, so use Precognition to get it!"
+"D04_8A89 (file 0x08A99, PRG bank 4 $8A89)","ちょっと　けっかが　いまひとつだったね…………
+これでは　けんていしけんを　うけさせられないぞ！もういっかい　トレーニングしてみよう。
+",The results were a bit not quite there... With this I can't let you take the exam! Let's try training once more.,Your results were a bit short of the mark… I can't let you take the exam like this! Let's try training one more time.
+"D04_8ACE (file 0x08ADE, PRG bank 4 $8ACE)","メッセージが　ながれてきたぞ！
+「シューターをフイールしなさい………","A message came flowing in! ""FEEL the Chute...","A message came through!
+""Please FEEL the Chute…"""
+"D04_8AF1 (file 0x08B01, PRG bank 4 $8AF1)","{NAME}さん　こんにちは！
+さあ　これから　ちょうのうりょくの
+かいはつトレーニングを　はじめましょう。
+このゲームは　エスパーキヨタのかんしゅうにより
+たのしみながら　ちょうのうりょくが　かいはつされるように　シミュレートされています。
+ここは　ちょうのうりょくかいはつセンターです
+ここで　{NAME}さんは　さまざまな　トレーニングを　することになります。
+","Hello, {NAME}! Now, let's begin training to develop psychic powers. This game, under the supervision of Esper Kiyota, is simulated so that psychic powers are developed while having fun. This is the Psychic Development Center. Here {NAME} will do various training.","Hello, {NAME}! Let's begin training your psychic powers. Supervised by Esper Kiyota, this game is a simulation that develops your abilities while you have fun. This is the Psychic Development Center. Here, {NAME}, you'll take on all kinds of training."
+"D04_8BA6 (file 0x08BB6, PRG bank 4 $8BA6)","ここでは　ちょっかんが　だいじです
+なにか　かんじたら　フイールコマンドを
+つかってみましょう。
+もし　なにもかんじないときは　コンピュータを
+フイールして　じょうほうを　きくことも
+だいじです。
+それでは　エスパーになるための　トレーニングを
+はじめることにしましょう。","Here, intuition is important. If you sense something, try using the FEEL command. If you feel nothing, it's also important to FEEL the computer and ask for information. Well then, let's begin the training to become an Esper.","Intuition is key here. If you sense something, use the FEEL command.{P}If you sense nothing, FEEL the computer for information.{P}Now, let's begin your training to become an Esper."
+"D04_8C2F (file 0x08C3F, PRG bank 4 $8C2F)",ここは　じぶんの　へやです。,This is your own room.,This is your room.
+"D04_8C3E (file 0x08C4E, PRG bank 4 $8C3E)",なにも　かんじないぞ！,I don't feel anything!,I don't feel a thing!
+"D04_8C4A (file 0x08C5A, PRG bank 4 $8C4A)",これは　コンピュータだ！,This is a computer!,It's a computer!
+"D04_8C57 (file 0x08C67, PRG bank 4 $8C57)","メッセージが　ながれてきたぞ！
+　「まず　コンピュータルームにいきなさい…………","A message came flowing in! ""First, go to the Computer Room...","A message came through!
+""First, please go to the Computer Room…"""
+"D04_8C80 (file 0x08C90, PRG bank 4 $8C80)",ここは　コンピュータルームだ。,This is the Computer Room.,This is the Computer Room.
+"D04_8C90 (file 0x08CA0, PRG bank 4 $8C90)","こんにちは　エスパーキヨタです。
+{NAME}が　エスパーになれるように
+ぼくが　ガイドやくを　つとめよう。
+これは　あくまでシミュレーションだけど
+このせかいに　はいりこむことが　だいじだぞ！
+トレーニングは　まず　それからだ！
+イメージできるせかいは　すべて　げんじつの
+せかいに　おきかわる　ものなんだ。
+すべては　イメージが　つくっているんだ！
+","Hello, I'm Esper Kiyota. I will serve as guide so that {NAME} can become an Esper. This is only a simulation, but entering into this world is important! Training starts with that! Every world you can imagine is something that gets replaced by the real world. Everything is made by images!","Hello, I'm Esper Kiyota! I'll be your guide to becoming an Esper, {NAME}. Although this is only a simulation, you must dive into this world! Training starts there! Any world you can picture can become real. Everything is shaped by the images in your mind!"
+"D04_8D40 (file 0x08D50, PRG bank 4 $8D40)","きょうから　{NAME}は　ここで　さまざまな
+ちょうのうりょく　かいはつトレーニングを
+つんでいくことになるんだ！
+とうし　ねんりき　よち　の　サイパワーを
+トレーニングすることになるぞ！　あせらずに
+おちついて　すすめることが　たいせつだ。
+とりあえず　きょうは　じしつに　もどって
+あしたからの　トレーニングに　そなえて
+ゆっくり　やすもう。　それでは　またあおう！
+","From today, {NAME} will build up various psychic development training here! You'll train the Psi Powers of Clairvoyance, Psychokinesis, Precognition! Without rushing, it's important to proceed calmly. For now, today, go back to your room and rest well to prepare for training from tomorrow. Well then, see you again!","From today on, {NAME}, you'll do all kinds of psychic training here!{P}Train in Clairvoyance, Psychokinesis, and Precognition!{P}Don't rush. Staying calm is what counts.{P}For now, go back to your room and rest up for tomorrow. See you then!"
+"D04_8DFA (file 0x08E0A, PRG bank 4 $8DFA)","コンピュータが　はなしかけてきた！
+「どの　カリキュラムを　おこなうかね？
+　メニューのなかから　えらびなさい……………","The computer spoke to me! ""Which curriculum will you do? Choose from among the menu...","The computer speaks up!
+""Which course today? Pick one from the menu…"""
+"D04_8E37 (file 0x08E47, PRG bank 4 $8E37)","コンピュータが　はなしかけてきた！
+「きょうの　レッスンはおわりです………………","The computer spoke to me! ""Today's lesson is over...","The computer speaks up!
+""Today's lessons are over…"""
+"D04_8E60 (file 0x08E70, PRG bank 4 $8E60)","コンピュータが　はなしかけてきた！
+「あしたに　そなえて　ゆっくりやすみなさい………
+","The computer spoke to me! ""Rest well in preparation for tomorrow...","The computer speaks up!
+""Please rest well and be ready for tomorrow…"""
+"D04_8E8C (file 0x08E9C, PRG bank 4 $8E8C)","メッセージが　ながれてきたぞ！
+　「はやく　コンピュータルームにいきなさい………","A message came flowing in! ""Quickly go to the Computer Room...","A message came through!
+""Please hurry to the Computer Room…"""
+"D04_8EB5 (file 0x08EC5, PRG bank 4 $8EB5)","きょうは　リラクゼーションの　こうぎだよ
+しっかり　れんしゅうすれば
+マインドトリップも　じゆうじざいだ！
+","Today is a lecture on relaxation. If you practice firmly, Mind Trip is also freely at will!",Today's lecture is on relaxation.{P}Practice it well and you can Mind Trip at will!
+"D04_8EEC (file 0x08EFC, PRG bank 4 $8EEC)","リラクゼーションは　できたかな？
+きょうの　レッスンは　これで　おわりだ。
+あしたは　ちょうのうりょくの　きそくんれんだ！
+あしたは　マインドパワーを　つかうから
+へやに　もどって　めいそう　してくるんだぞ！
+
+","Were you able to relax? Today's lesson ends with this. Tomorrow is basic training of psychic powers! Tomorrow you'll use Mind Power, so go back to your room and meditate!","Did you manage to relax? That's all for today's lesson.{P}Tomorrow is basic psychic training!{P}You'll be using Mind Power, so go back to your room and meditate!"
+"D04_8F57 (file 0x08F67, PRG bank 4 $8F57)","マインドレベルが　あがってきたね！
+おや　サイカードを　もっていないのかい？
+じぶんのへやにもどって　さがしてくるんだ！
+","Your Mind Level has been rising! Oh, don't you have the Psi Card? Go back to your own room and search for it!","Your Mind Level is rising! Oh, you don't have your Psi Card yet? Go back to your room and look for it!"
+"D04_8F95 (file 0x08FA5, PRG bank 4 $8F95)","さあ　きょうから　ほんかくてきな　トレーニングをはじめるぞ！　きょうは　とうしの　くんれんだ！
+5かいで　1セット　に　なっているぞ。
+きょうから　トレーニングけっかが　きろくされる
+ので　しっかり　やるように。
+それでは　コンピュータを　フイールしよう。
+","Now, from today we start full-scale training! Today is Clairvoyance training! 5 times makes 1 set. From today the training results will be recorded, so do it properly. Then, let's FEEL the computer.","Okay, the real training begins today! We start with Clairvoyance!{P}One set is 5 tries. Your results will be recorded from now on.{P}Give it your all! Now, go FEEL the computer."
+"D04_9017 (file 0x09027, PRG bank 4 $9017)","メッセージだ！
+「きみは　もう　めいそうを　やったかな…………","It's a message! ""Have you already done meditation...","A message!
+""Have you meditated yet…"""
+"D04_9037 (file 0x09047, PRG bank 4 $9037)","いしきの　バイブレーションを
+あげるために　めいそうを　おこないます…………
+まず　へやの　しょうめいを　おとしてください。
+がめんに　マインドパターンがひょうじされますからゆったりとした　きぶんで　みつめます。
+イメージを　できるだけ　ひろげます…………
+リラクゼーションができたら
+Ａボタンを　おしてください…………
+
+","To raise the vibration of consciousness, we will do meditation... First, lower the lighting of the room. A Mind Pattern will be displayed on the screen, so gaze at it with a relaxed feeling. Spread the image as much as possible... When you've been able to relax, press the A Button...","To raise your mind's vibrations, let us meditate… First, please dim the lights in your room. A Mind Pattern will appear on screen. Gaze at it with a calm, open mind, and let the image expand… Once you feel relaxed, press the A Button…"
+"D04_90DA (file 0x090EA, PRG bank 4 $90DA)","サイカードを　みつけたぞ！　さあ　このカードに
+トレーニングのデータを　にゅうりょくするための
+ライターを　フイールしてみよう。
+","I found the Psi Card! Now, let's try FEELing the writer for inputting training data into this card.",I found the Psi Card!{P}Now I should FEEL the Psycho Writer to save training data onto it.
+"D04_911C (file 0x0912C, PRG bank 4 $911C)","いきなり　メッセージがながれてきたぞ！
+「ちゃんと　めいそうを　してください…………","Suddenly a message came flowing in! ""Please do meditation properly...","Suddenly, a message!
+""Please meditate properly…"""
+"D04_9147 (file 0x09157, PRG bank 4 $9147)","サイカードを　{NAME}は
+コンピュータに　さしこんだ！
+
+",{NAME} inserted the Psi Card into the computer!,{NAME} inserted the Psi Card into the computer!
+"D04_9165 (file 0x09175, PRG bank 4 $9165)","これから　とうしの　トレーニングをはじめます
+5しゅるいの　カードが　ひょうじされたあとに
+うえのほうから　ふせたカードが　でてきます。
+いしきを　しゅうちゅうし
+ふせた　カードのしゅるいを　とうしして
+これだとおもうカードをえらび　Ａボタンをおしますあたったときや　はずれたときの　いしきの
+じょうたいを　かんじることが　たいせつです……
+なお　へいきん　ヒットすうは　4かいです。
+","We will now begin Clairvoyance training. After 5 kinds of cards are displayed, a face-down card comes out from the top. Concentrate your consciousness, see through the kind of the face-down card, choose the card you think it is and press the A Button. It's important to feel the state of your consciousness when you hit and when you miss... The average number of hits is 4.","Now we will begin Clairvoyance training. Five card types are shown, then a face-down card drops from above. Focus your mind, sense which card it is, then pick it and press the A Button. Notice how your mind feels on a hit or a miss… The average is 4 hits."
+"D04_9227 (file 0x09237, PRG bank 4 $9227)","とうしの　のうりょくが　すこしあがったみたいだねこの　トレーニングは　くりかえすことがだいじだ！やりかたを　くふうして　なんどもやってみよう。
+むりして　やりすぎるのもよくないので
+つかれたら　いちど　へやにもどって
+めいそうを　やってからくるのもいいぞ！
+","It seems your Clairvoyance ability went up a little. In this training repeating is important! Devise your method and try it many times. Overdoing it isn't good either, so when tired, it's also good to go back to your room once and come after doing meditation!","Looks like your Clairvoyance has improved a little! The key to this training is repetition! Try different approaches and keep at it. Don't push too hard, though. If you get tired, head back to your room and meditate before returning!"
+"D04_92A9 (file 0x092B9, PRG bank 4 $92A9)",{NAME}は　サイコライターをみつけた！,{NAME} found the Psycho Writer!,{NAME} found the Psycho Writer!
+"D04_92BD (file 0x092CD, PRG bank 4 $92BD)","メッセージが　ながれてきたぞ！
+「サイコライターを
+　みつけて　フイールしなさい。","A message came flowing in! ""Find the Psycho Writer and FEEL it.","A message came through!
+""Please find the Psycho Writer and FEEL it."""
+"D04_930E (file 0x0931E, PRG bank 4 $930E)","ずいぶん　エスパーどが　あがってきたね。
+きょうは　ねんりき　の　トレーニングだ！
+では　カードを　コンピュータにさしこめ。
+","Your Esper Rating has really gone up. Today is Psychokinesis training! Then, insert the card into the computer.","Your Esper Rating has really gone up!{P}Today it's Psychokinesis training! Now, put your card in the computer."
+"D04_93B3 (file 0x093C3, PRG bank 4 $93B3)","どうしたんだい？
+きょうのレッスンデータを　きろくしてこないと
+つぎの　トレーニングが　できないぞ！
+じぶんのへやに　もどって
+サイコライターを　さがしだして
+データを　かきかえてくるんだ！
+","What's wrong? If you don't come back having recorded today's lesson data, you can't do the next training! Go back to your own room, find the Psycho Writer, and rewrite the data!","What's the matter? No more training until you record today's data! Head to your room, find the Psycho Writer, and update your card!"
+"D04_9414 (file 0x09424, PRG bank 4 $9414)","サイカードを　{NAME}は　さしこんだ！
+あたらしい　トレーニングデータが　はいっている
+
+",{NAME} inserted the Psi Card! New training data is in it.,{NAME} inserted the Psi Card! It has new training data on it.
+"D04_9442 (file 0x09452, PRG bank 4 $9442)","サイカードを　{NAME}は　さしこんだ！
+あたらしい　データが　はいっていないぞ
+
+",{NAME} inserted the Psi Card! New data isn't in it!,{NAME} inserted the Psi Card! There's no new data on it!
+"D04_946C (file 0x0947C, PRG bank 4 $946C)","これから　ねんりきの　トレーニングをはじめます
+がめんに　ランプがひょうじされますので
+ランプが　つくような　ビジョンをうかべます
+いしきを　しゅうちゅうし　Ａボタンをおします。
+ねんりきが　はたらくと　ランプがつきます。
+なお　へいきん　ヒットすうは　20かいです。
+","We will now begin Psychokinesis training. A lamp will be displayed on the screen, so float a vision of the lamp lighting. Concentrate your consciousness and press the A Button. When Psychokinesis works, the lamp lights. The average number of hits is 20.","Now we will begin Psychokinesis training.{P}A lamp will appear on the screen. Imagine it lighting up in your mind, and press the A Button when you feel ready.{P}When your Psychokinesis works, the lamp will light.{P}The average is 20 hits."
+"D04_94F4 (file 0x09504, PRG bank 4 $94F4)","ねんりきの　のうりょくが　すこしあがったね
+この　トレーニングも　くりかえすことがだいじだ！やりかたを　くふうして　なんどもやってみよう。
+",Your Psychokinesis ability went up a little. In this training too repeating is important! Devise your method and try it many times.,"Your Psychokinesis has improved a little! The key to training is repetition, so try different approaches and keep at it!"
+"D04_953B (file 0x0954B, PRG bank 4 $953B)",ドアに　サイロックがかかって　でれないぞ！,A Psi Lock is on the door and I can't get out!,There's a Psi Lock on the door. I can't get out!
+"D04_9551 (file 0x09561, PRG bank 4 $9551)",このドアは　サイロックがかかっている………,This door has a Psi Lock on it...,This door has a Psi Lock on it…
+"D04_9567 (file 0x09577, PRG bank 4 $9567)","ずいぶん　エスパーどが　あがってきたね。
+きょうは　よち　の　トレーニングだ！
+では　カードを　コンピュータにさしこめ。
+","Your Esper Rating has really gone up. Today is Precognition training! Then, insert the card into the computer.","Your Esper Rating has really gone up!{P}Today it's Precognition training! Now, put your card in the computer."
+"D04_95A5 (file 0x095B5, PRG bank 4 $95A5)","これから　よちの　トレーニングをはじめます
+がめんに　5つのランプがひょうじされます。
+そのうち　1つが　これから　ひかりますので
+どれがひかるか　よちのうりょくを　つかって
+カーソルで　えらび　Ａボタンをおしてください。
+なお　へいきん　ヒットすうは　4かいです。
+","We will now begin Precognition training. 5 lamps will be displayed on the screen. One of them will light from now, so using Precognition ability, choose which lights with the cursor and press the A Button. The average number of hits is 4.","Now we will begin Precognition training. Five lamps will appear on the screen, and one of them is about to light up. Use your Precognition to sense which one, pick it with the cursor, and press the A Button. The average is 4 hits."
+"D04_962C (file 0x0963C, PRG bank 4 $962C)","よちの　のうりょくが　すこしあがったようだね
+この　トレーニングも　くりかえすことがだいじだ！やりかたを　くふうして　なんどもやってみよう。
+",It seems your Precognition ability went up a little. In this training too repeating is important! Devise your method and try it many times.,"Your Precognition has improved a little! The key to training is repetition, so try different approaches and keep at it!"
+"D04_9674 (file 0x09684, PRG bank 4 $9674)",シューターだ！,It's the Chute!,It's the Chute!
+"D04_967C (file 0x0968C, PRG bank 4 $967C)","けっかは　どうだったかな？
+へいきんは　エスパーどが　60てん
+とうし　ねんりき　よちは　それぞれ20てんだ。
+へいきんちを　コンスタントに　だせるように
+なることが　とても　たいせつなことなんだ！
+サイパワーを　ためすために　またやってみよう。
+","How were the results? The average Esper Rating is 60 points; Clairvoyance, Psychokinesis, Precognition are 20 points each. Becoming able to produce the average value constantly is a very important thing! Let's try again to test your Psi Power.","How did it go? An average Esper Rating is 60 points, with 20 each for Clairvoyance, Psychokinesis, and Precognition. Learning to hit the average consistently is what really matters! Try again and test your Psi Power."
+"D04_96F9 (file 0x09709, PRG bank 4 $96F9)","どうしたんだい　けんていプレートがないと
+そつぎょうテストは　うけることができないぞ！
+よち　をつかって　とってこなくちゃだめだぞ。
+",What's wrong? Without the Exam Plate you can't take the Graduation Exam! You have to use Precognition and go get it.,What's wrong? You can't take the Graduation Exam without the Exam Plate! You've got to use Precognition to go get it.
+"D04_97E3 (file 0x097F3, PRG bank 4 $97E3)","さあ　さいしょは　とうし　の　テストだ！
+おちついて　やることが　だいじだぞ。
+1かい　せいこうさせると　1てん　だぞ！
+きみの　バイブレーションは　ととのったかな！","Now, first is the Clairvoyance test! Doing it calmly is important. Succeed once and it's 1 point! Are your vibrations in order?",First up is the Clairvoyance test! Staying calm is key. Each success is worth 1 point! Are your vibrations in tune?
+"D04_9837 (file 0x09847, PRG bank 4 $9837)","つぎに　ねんりき　の　テストを　おこなう！
+バイブレーションが　みだれているなら
+はじめから　やりなおしたほうが　いいぞ！
+てんすうの　はいぶんは
+15　16　で　1てん
+17　18　で　2てん　というように
+15いじょうの　せいこうかいすうが　2づつ
+ふえるごとに　てんすうが　1づつふえていく。
+では　このまま　テストを　つづけるかい？","Next we'll do the Psychokinesis test! If your vibrations are disturbed, you'd better redo it from the start! The point allocation: 15, 16 gives 1 point, 17, 18 gives 2 points, and so on: every time successes of 15 or more increase by 2, the score increases by 1. Then, will you continue the test as is?","Next is the Psychokinesis test! If your vibrations are out of tune, you'd better start over! Here's the scoring:
+15-16 hits: 1 point
+17-18 hits: 2 points
+Every 2 more: 1 point.
+Want to keep going with the test?"
+"D04_98E2 (file 0x098F2, PRG bank 4 $98E2)","うーん…………
+もうちょっとだったね。
+もういっかい　さいしょから　トライするかい？",Hmm... It was just a little more. Will you try once more from the start?,Hmm… So close! Want to try again from the start?
+"D04_990D (file 0x0991D, PRG bank 4 $990D)","バイブレーションが　みだれてきたぞ！
+いちど　こきゅうを　ととのえてから　きなさい。
+ボタンを　おすと　はじまるぞ…………
+","Your vibrations have become disturbed! Steady your breathing once, then come. Pressing the button starts it...","Your vibrations are getting jumbled!{P}Steady your breathing, then come back. Press a button to begin…"
+"D04_994C (file 0x0995C, PRG bank 4 $994C)","さいごは　よち　の　テストだぞ！
+ごうかくの　きじゅんは　トータルで
+17てん　いじょう　ひつようだぞ。
+1かい　せいこうさせると　1てんだ！
+このまま　テストを　つづけるかい？",Last is the Precognition test! The standard for passing is 17 points or more total. Succeed once and it's 1 point! Will you continue the test as is?,Last is the Precognition test! You need 17 points in total to pass.{P}Each success is worth 1 point! Want to keep going with the test?
+"D04_99A6 (file 0x099B6, PRG bank 4 $99A6)","いよいよ　そつぎょうテストだぞ！
+{NAME}の　マインドレベルなら　だいじょうぶだ
+ゆったりとした　きもちで　ちょうせんするんだ！
+","At last it's the Graduation Exam! With {NAME}'s Mind Level, it's all right. Take the challenge with a relaxed feeling!","At last, it's the Graduation Exam! With your Mind Level, {NAME}, you'll do just fine. Relax and give it your best shot!"
+"D04_99E8 (file 0x099F8, PRG bank 4 $99E8)","おめでとう　{V}{V}ポイントで　ごうかくしたぞ！
+ぎりぎりの　せいせきだったが　{NAME}を
+エスパーと　にんていし　そつぎょうをみとめる。
+","Congratulations, you passed with {V}{V} points! It was a borderline result, but I certify {NAME} as an Esper and approve graduation.","Congratulations! You passed with {V}{V} points! It was close, {NAME}, but I hereby certify you as an Esper. You've graduated!"
+"D04_9A2D (file 0x09A3D, PRG bank 4 $9A2D)","おめでとう　{V}{V}ポイントで　ごうかくしたぞ！
+せいせきは　ゆうしゅうだったぞ。　{NAME}を
+エスパーと　にんていし　そつぎょうをみとめる。
+","Congratulations, you passed with {V}{V} points! The results were excellent. I certify {NAME} as an Esper and approve graduation.","Congratulations! You passed with {V}{V} points! Excellent work! {NAME}, I hereby certify you as an Esper. You've graduated!"
+"D04_9A74 (file 0x09A84, PRG bank 4 $9A74)","おめでとう　{V}{V}ポイントで　ごうかくしたぞ！
+ばつぐんの　せいせきだったね。　{NAME}を
+エスパーと　にんていし　そつぎょうをみとめる。
+","Congratulations, you passed with {V}{V} points! The results were outstanding. I certify {NAME} as an Esper and approve graduation.","Congratulations! You passed with {V}{V} points! Outstanding results! {NAME}, I hereby certify you as an Esper. You've graduated!"
+"D04_9B3F (file 0x09B4F, PRG bank 4 $9B3F)","レベルが　あがれば　ぼくがコンタクトしている
+うちゅういしきたい　ゼネフの　ビジョンを
+かんじることが　できるように　なるかもしれない。つかれたら　たまに　じぶんのへやにもどって
+めいそうや　セーブをすることが　たいせつだ。
+つぎの　レベルまでの　ポイントも　きけるぞ！
+","If your level goes up, you may become able to feel visions of Zenef, the cosmic consciousness I'm in contact with. When tired, it's important to occasionally go back to your room and meditate or save. You can also ask about points to the next level!","As your level rises, you may start to sense visions from Zenef, the cosmic consciousness I'm in contact with. When you get tired, go back to your room now and then to meditate or save. You can also ask how many points you need for the next level!"
+"D04_9BC8 (file 0x09BD8, PRG bank 4 $9BC8)","バイブをあげたいときには　ここにもどってきて
+トレーニングを　おこなうのが　いいだろう。
+きろくをみれば　パワーのかくにんができるぞ！
+さあ　{NAME}の　あらたなるちょうせんだ！
+レベルが　あがったら　またあおう！！
+
+","When you want to raise your vibes, it's good to come back here and do training. If you look at the records you can confirm your power! Now, {NAME}'s new challenge! When your level goes up, let's meet again!!","Whenever you want to raise your vibes, come back here and train. Check your records to see how your power is doing!{P}A new challenge begins, {NAME}! See me again when you level up!!"
+"D04_9C37 (file 0x09C47, PRG bank 4 $9C37)","では　いままでの　トレーニングけっかを
+ぶんせきしよう。　せいせきが　わるかったら
+トレーニングの　せっとモード　を　やるんだぞ！
+","Then, let's analyze the training results so far. If the results are bad, do the training's Set Mode!","Now, let's analyze your training results so far.{P}If your scores are low, practice in Set Mode!"
+"D04_9C7A (file 0x09C8A, PRG bank 4 $9C7A)","さあ　それでは
+いまの　けっかを　ぶんせき　してみよう！
+
+","Well then, let's analyze the current results!","All right, then! Let's analyze how you did just now!"
+"D04_9C99 (file 0x09CA9, PRG bank 4 $9C99)","{NAME}　どうだい　ちょうしは？
+きほんの　トレーニングも　わすれちゃだめだぞ！
+
+","{NAME}, how's your condition? Don't forget basic training either!","{NAME}, how are you doing? Don't forget your basic training, okay?"
+"D04_9CC4 (file 0x09CD4, PRG bank 4 $9CC4)","{NAME}さんが　つぎに　レベルアップするには
+サイポイントが
+{V}{V}{V}{V}{V}{V}ひつようです。
+","For {NAME} to level up next, {V}{V}{V}{V}{V}{V} Psi Points are needed.","You need {V}{V}{V}{V}{V}{V} more Psi Points to reach the next level, {NAME}."
+"D04_9CF2 (file 0x09D02, PRG bank 4 $9CF2)","{NAME}さんの　レベルは
+インフイニテイ。　つまり　むげんだいなのです。
+パワースポットはもうたいけんしましたか？！
+","{NAME}'s level is Infinity. In other words, it is infinite. Have you experienced the Power Spot yet?!","Your level is Infinity, {NAME}. In other words, there is no limit! Have you tried the Power Spot yet?!"
+"D04_9D2E (file 0x09D3E, PRG bank 4 $9D2E)","これから　そつぎょうテストを　はじめます。
+とうし　ねんりき　よち　の　じゅんばんに
+しゅつだいされます。　17てんで　ごうかくです。それぞれの　サイパワーのバランスが　だいじです。エスパーキヨタが　{NAME}さんの　パワーを
+はんていします。　それでは　はじめましょう。
+","We will now begin the Graduation Exam. Questions will be given in the order Clairvoyance, Psychokinesis, Precognition. Pass with 17 points. The balance of each Psi Power is important. Esper Kiyota will judge {NAME}'s power. Then, let's begin.","We will now begin the Graduation Exam. The tests come in this order: Clairvoyance, Psychokinesis, Precognition. You need 17 points to pass. Balance among your Psi Powers is important. Esper Kiyota will judge your power, {NAME}. Now, let us begin."
+"D04_9EED (file 0x09EFD, PRG bank 4 $9EED)","トレーニングりょうが　すくないですね。
+トライすうが　すくないと　せいかくな
+データぶんせきには　なりません。","The amount of training is small. If tries are few, it won't be an accurate data analysis.",You haven't trained much. Too few tries for an accurate analysis.
+"D04_9F25 (file 0x09F35, PRG bank 4 $9F25)",トータルでは　{V}{V}{V}{V}のパワーが　すぐれていますきょうは　あまり　トレーニングをやっていませんねきほんのトレーニングも　しっかりやりましょう。,"In total, the power of {V}{V}{V}{V} is excellent. Today you haven't done much training. Do basic training firmly too.","Overall, your strongest power is {V}{V}{V}{V}.{P}You haven't done much training today. Keep up your basic training too."
+"D04_9F6D (file 0x09F7D, PRG bank 4 $9F6D)",トータルでは　{V}{V}{V}{V}のパワーが　すぐれていますきょうは　{V}{V}{V}{V}のちょうしが　いいようですね！パワーバランスを　とることが　だいじです。,"In total, the power of {V}{V}{V}{V} is excellent. Today {V}{V}{V}{V}'s condition seems good! Taking power balance is important.","Overall, your strongest power is {V}{V}{V}{V}. Today your {V}{V}{V}{V} is in fine form! Keeping your powers balanced is important."
+"D05_A5B1 (file 0x0A5C1, PRG bank 5 $A5B1)","セーブしても　いいですか？
+",Is it all right to save?,Save your progress?
+"D05_A5C0 (file 0x0A5D0, PRG bank 5 $A5C0)","セーブが　しゅうりょうしました
+
+
+",Saving has finished.,Save complete.
+"D05_A5D3 (file 0x0A5E3, PRG bank 5 $A5D3)","トレーニングを　つづけますか？
+",Will you continue training?,Would you like to continue training?
+"D05_A5E4 (file 0x0A5F4, PRG bank 5 $A5E4)","リセットボタンを　おさずに
+でんげんを　きってください","Without pressing the Reset button, please turn off the power.",Please turn off the power without pressing RESET.
+"D05_A671 (file 0x0A681, PRG bank 5 $A671)","「リラクゼーションは
+　ちょうのうりょくかいはつの　きほんです。
+　くりかえし　れんしゅうしてください……………
+　リラクゼーションの　いみは
+　いしきと　にくたいの　きんちょうを
+　じぶんのちからで　とりのぞくことです。
+　きんちょうしたままでは
+　うまく　ちょうのうりょくを
+　はっきすることが　できないのです。
+　それでは　エスパーキヨタの
+　しどうを　うけてください…………………
+
+","""Relaxation is the basis of psychic power development. Please practice it repeatedly... The meaning of relaxation is removing the tension of consciousness and body by your own power. While still tense, you cannot exert psychic power well. Now then, please receive Esper Kiyota's instruction...","""Relaxation is the basis of psychic development. Practice it often…{P}To relax is to release tension in mind and body by your own will.{P}While tense, you cannot use your psychic powers well.{P}Please let Esper Kiyota guide you now…"""
+"D07_86C6 (file 0x0E6D6, PRG bank 7 $86C6)","よし　レベルがあがったぞ！
+つぎの　レベルアップは
+{V}{V}{V}{V}{V}{V}　になったときだぞ！
+","All right, your level went up! The next level-up is when you reach {V}{V}{V}{V}{V}{V}!","All right, you leveled up! Next level-up is at {V}{V}{V}{V}{V}{V} points!"
+"D07_86F2 (file 0x0E702, PRG bank 7 $86F2)","イメージをすることが　ちょうのうりょくの
+きほんだぞ！　イメージができなければ
+サイパワーは　じゆうには　つかいこなせないぞ！
+しかくてきな　イメージだけでなく　ごかんすべてでイメージすることが　だいじだ。さいしゅうてきにはごかんを　こえた　イメージが　ひつようだ！
+レベルが　あがったら　また　あおう！
+
+
+","Imagining is the basis of psychic power! If you can't imagine, you can't freely master Psi Power! It's important to imagine not only visually but with all five senses. Ultimately, imagery beyond the five senses is needed! When your level goes up, let's meet again!","Visualization is the foundation of psychic power! Without it, you'll never master your Psi Power! Don't just imagine how things look. Use all five senses. In the end, you'll need to imagine beyond all five! See you again when you level up!"
+"D07_878E (file 0x0E79E, PRG bank 7 $878E)","すべてのものは　しんどう　している！
+その　しんどう　つまりバイブレーションを
+みじかに　かんじることが　たいせつなんだ！
+バイブレーションに　いしきをあわせると
+ひかりをきいたり　おとをみたり　いろいろ
+ふしぎなせかいをかんじることができるぞ！
+レベルが　あがったら　また　あおう！
+
+
+","All things are vibrating! It's important to feel that oscillation, that is, vibrations, close at hand! When you tune your consciousness to the vibrations, you can feel various mysterious worlds, like hearing light and seeing sound! When your level goes up, let's meet again!","Everything in the world is vibrating! It's important to feel those vibrations all around you. Tune your mind to them, and you can sense wondrous things, like hearing light and seeing sound!{P}See you again when you level up!"
+"D07_8820 (file 0x0E830, PRG bank 7 $8820)","そういえば　ぼくがかんじた　ビジョンでは
+1993ねんごろ　かなりのかずの
+エスパーが　しゅつげんするだろう！
+{NAME}も　トレーニングしだいでは
+エスパーとして　かくせいし　やがて　ぼくと
+テレパシーで　はなしができるようになるだろう！
+レベルが　あがったら　また　あおう！
+
+
+","Come to think of it, in a vision I felt, around 1993 quite a number of espers will appear! Depending on training, {NAME} too will awaken as an Esper, and eventually become able to talk with me by telepathy! When your level goes up, let's meet again!","That reminds me. In one of my visions, I saw that many Espers will appear around 1993! With training, {NAME}, you could awaken as an Esper too, and talk with me by telepathy! See you again when you level up!"
+"D07_88AE (file 0x0E8BE, PRG bank 7 $88AE)","ぼくがかんじた　ビジョンでは　2013ねんごろ
+ちょうのうりょくと　かがくが　いったいになる。
+ちょうのうりょくが　じょうしきのわくのなかに
+いれられることになるであろう。　ここから
+じんるいの　あたらしい　しんかが　はじまるんだ。{NAME}も　それを　たいけんすることになるぞ！
+レベルが　あがったら　また　あおう！
+
+
+","In a vision I felt, around 2013 psychic power and science will become one. Psychic power will come to be put inside the frame of common sense. From here, a new evolution of humankind begins. {NAME} will experience it too! When your level goes up, let's meet again!","In one of my visions, science and psychic power merge around 2013. Psychic power will be accepted as everyday fact.{P}From there, a new evolution of humankind begins.{P}And you'll live to see it, {NAME}! See you again when you level up!"
+"D07_8950 (file 0x0E960, PRG bank 7 $8950)","じかんは　かこから　みらいに　ちょくせんてきに
+すすんでいるわけじゃない！　かこも　みらいも
+すべて　げんざいに　ふくまれているんだ。
+いしきを　しゅうちゅうすると　じかんのつぶを
+かんじることができる！　つぶのなかに　いしきを
+あわせると　いろいろな　じかんを　かんじられる！レベルが　あがったら　また　あおう！
+
+
+","Time isn't proceeding linearly from past to future! Past and future are all contained in the present. When you concentrate your consciousness, you can feel the grains of time! When you tune your consciousness into the grains, you can feel various times! When your level goes up, let's meet again!","Time doesn't run in a straight line from past to future! The past and the future are all part of the present. Focus your mind, and you can feel the grains of time! Tune your mind into a grain, and you can sense different moments in time! See you again when you level up!"
+"D07_89F1 (file 0x0EA01, PRG bank 7 $89F1)","{NAME}は　うちゅうじんを　しんじるかい？
+ぼくは　なんかいか　コンタクトしているんだ。
+しんじるか　しんじないかは　じゆうだけどね。
+ぼくがかんじた　ビジョンでは　2080ねんごろ
+じんるいは　ほかのてんたいの　せいめいたいと
+ちきゅうきぼで　そうぐうすることになるだろう！
+レベルが　あがったら　また　あおう！
+
+
+","{NAME}, do you believe in space aliens? I've made contact a number of times. Whether you believe or not is up to you, though. In a vision I felt, around 2080 humankind will encounter life forms of other celestial bodies on a global scale! When your level goes up, let's meet again!","{NAME}, do you believe in aliens? I've made contact a few times. Whether you believe it or not is up to you, of course.{P}In one of my visions, around 2080, Earth meets life from other planets!{P}See you again when you level up!"
+"D07_8A92 (file 0x0EAA2, PRG bank 7 $8A92)","ちきゅうの　じんこうは
+これから　80おくにん　くらいまで
+ふえつづけ　そのごは　へっていくだろう…………
+1おくにん　くらいまでへったとき　じんるいは
+にくたいをこえて　ひとつになるだろう！
+ちきゅうじたいが　ひとつの　いしきたいとなる。
+そして　にくたいをこえた
+しんかが　はじまるんだ……………
+レベルが　あがったら　また　あおう！
+","Earth's population will keep increasing until about 8 billion people, and after that will probably decrease... When it has decreased to about 100 million people, humankind will become one, beyond the flesh! The Earth itself becomes one conscious entity. And then an evolution beyond the flesh begins... When your level goes up, let's meet again!","The world's population will keep growing to about 8 billion, and after that it will shrink… When it falls to around 100 million, humanity will rise beyond the body and become one! The Earth itself will become a single consciousness. Then an evolution beyond the flesh will begin… See you again when you level up!"
+"D07_8B3D (file 0x0EB4D, PRG bank 7 $8B3D)","ぼくは　ゼネフ　という　うちゅういしきたいと
+コンタクトしている。　この　ゼネフは
+うちゅうじんでも　ゆうれいでも　かみでもない。
+たとえると　せいめいが　しんかした　パターンだ
+ぼくたちの　みらいのすがたと　いってもいいだろうしかし　ゼネフも　まだ　しんかのとちゅうなんだ！レベルが　あがったら　また　あおう！
+
+
+","I'm in contact with a cosmic conscious entity called Zenef. This Zenef is not an alien, nor a ghost, nor a god. To compare, it's a pattern of life having evolved. You could probably say it's our future form. But Zenef is also still in the middle of evolution! When your level goes up, let's meet again!","I'm in contact with a cosmic consciousness called Zenef. Zenef isn't an alien, a ghost, or a god. You could call it a pattern that life has evolved into. You might even say it's what we'll become someday. But Zenef is still evolving, too! See you again when you level up!"
+"D07_8BDD (file 0x0EBED, PRG bank 7 $8BDD)","いくつかの　ゼネフが　ひとつになり　しんかした
+じょうたいを　じんるいは　うちゅう　という
+ことばに　おきかえている　といえるだろう！
+うちゅうは　じぶんの　そとにあるものではなくて
+{NAME}の　いしきをとおして　つながっている。
+つまり　{NAME}は　うちゅう　そのものなんだ！
+レベルが　あがったら　また　あおう！
+
+
+","The state in which several Zenefs became one and evolved, humankind has replaced with the word 'universe', you could say! The universe isn't something outside yourself, it's connected through {NAME}'s consciousness. In other words, {NAME} is the universe itself! When your level goes up, let's meet again!","When Zenefs join and evolve as one, humanity calls it the universe. The universe isn't something outside of you.{P}You are connected to it through your mind, {NAME}. In a sense, {NAME}, you are the universe itself! See you again when you level up!"
+"D07_8C7F (file 0x0EC8F, PRG bank 7 $8C7F)","{NAME}　よく　ここまで　がんばったね！
+つらい　トレーニングを　パスしてきたけっか
+レベルは　きゅうきょくまで　あがったようだぞ！
+{NAME}を　サイマスターと　にんてい　しよう。
+{NAME}なら　いしきを　しゅうちゅうすれば
+すでに　テレポーテーションが　できるはずだ！
+では　ぼくは　さきに　パワースポットで
+まっているから　テレポーテーションを
+せいこうさせて　ぼくのところに　くるんだぞ！
+","{NAME}, you did well to persevere this far! As a result of passing the tough training, your level seems to have risen to the ultimate! I will certify {NAME} as a Psi Master. If it's {NAME}, by concentrating your consciousness you should already be able to teleport! Well then, I'll be waiting at the Power Spot ahead of you, so succeed at teleportation and come to where I am!","{NAME}, you've worked so hard to get this far! You've made it through tough training, and your level has reached its peak! I now name you a Psi Master, {NAME}. If you focus your mind, {NAME}, you should already be able to teleport! I'll go on ahead and wait for you at the Power Spot. Teleport there and come find me!"
+"D07_99CF (file 0x0F9DF, PRG bank 7 $99CF)","{NAME}　よく　テレポート　してきたね！
+ここが　パワースポットへの　いりぐち　なんだ。
+つよい　バイブレーションを　かんじるだろ！
+さあ　さいごに　ぼくが　{NAME}の
+サイキックパワーを　ためしてみるぞ。
+この　とびらには　サイロックが　かかっている！
+","{NAME}, you teleported here well! This is the entrance to the Power Spot. You feel strong vibrations, right! Now, finally, I'll test {NAME}'s psychic power. This door has a Psi Lock on it!","{NAME}, you teleported here! Welcome to the Power Spot's entrance. Feel those strong vibrations? For the final test, let's see your psychic power, {NAME}. This door has a Psi Lock!"
+"D07_9A50 (file 0x0FA60, PRG bank 7 $9A50)","サイパワーを　つかって　あけるんだぞ！
+この　とびらを　あけたとき　{NAME}を
+しんの　エスパー　と　みとめよう！
+つよく　ねんじながら　Ａボタンを　おすんだ。
+{V}{V}かい　せいこうすると　とびらがあくぞ！
+バイブレーションを　ととのえて　はじめよう！
+","Open it using Psi Power! When you open this door, I'll recognize {NAME} as a true Esper! Press the A Button while willing strongly. If you succeed {V}{V} times, the door opens! Tune your vibrations and let's begin!","Use your Psi Power to open it! When you open this door, I'll recognize you as a true Esper, {NAME}! Focus your will strongly and press the A Button. Succeed {V}{V} times and the door will open! Steady your vibrations, and let's begin!"
+"D07_9ACF (file 0x0FADF, PRG bank 7 $9ACF)","マスター{NAME}　みごとだったぞ！
+しかし　これで　すべてが
+おわった　わけでは　ない………………
+いしきの　せかいとの　セッションには
+はじめも　おわりも　そんざいしない。
+このしゅんかん　から　すべてが　はじまる！
+","Master {NAME}, that was splendid! However, this doesn't mean everything is over... A session with the world of consciousness has neither beginning nor end. From this instant, everything begins!","Magnificent, Master {NAME}! But this isn't the end of everything… Your session with the world of consciousness has no beginning and no end. From this moment on, everything begins!"
+"D07_9B3E (file 0x0FB4E, PRG bank 7 $9B3E)","この　とびらは　マインドワールドへの
+いりぐちだ！　もし　マスター{NAME}が
+とびらの　むこうに　たどりつけたら………
+ぼくの　ビジョンを　うけることが　できる。
+ただし　ちょっとでも　バイブレーションが
+みだれると　たどりつくことは　できないだろう。
+ねんじながら　Ａボタンを　おすんだ。
+{V}{V}かい　せいこうすると　とびらが　あくぞ。
+それでは　いしき　の　なかで　またあおう！
+","This door is the entrance to the Mind World! If Master {NAME} can reach the other side of the door... you can receive my vision. However, if your vibrations are disturbed even a little, you probably won't be able to reach it. Press the A Button while willing. If you succeed {V}{V} times, the door opens. Well then, let's meet again within consciousness!","This door is the entrance to the Mind World! If you can reach the other side, Master {NAME}… you'll be able to receive my vision. But if your vibrations waver even a little, you'll never make it there. Focus your will and press the A Button. Succeed {V}{V} times and the door will open. I'll see you again in the world of consciousness!"
+"D07_9C45 (file 0x0FC55, PRG bank 7 $9C45)","バイブレーションが　かなり　つよくなったぞ！
+マインドワールドへの　さいごの　とびらだ！
+これも　{V}{V}かい　せいこうすれば　ひらく！
+",The vibrations have gotten quite strong! It's the last door to the Mind World! This one too opens if you succeed {V}{V} times!,"The vibrations are much stronger now!{P}This is the last door to the Mind World! It opens after {V}{V} successes, too!"
+"D07_9C89 (file 0x0FC99, PRG bank 7 $9C89)","サイパワーが　たりなかった…………
+バイブレーション　を　あげてから
+もういちど　ちょうせん　してみよう。
+","Psi Power wasn't enough... After raising your vibrations, let's try challenging it once more.",Not enough Psi Power… Raise your vibrations and try again.
+"D07_9CC0 (file 0x0FCD0, PRG bank 7 $9CC0)","よし　せいこうだ！
+むこうに　5つの　とびらが　あるぞ！　マインド
+ワールドへ　いくための　とびらを　とうし　しろ！","All right, success! There are 5 doors over there! Use clairvoyance on the door for going to the Mind World!","All right, it worked! There are five doors ahead! Use Clairvoyance to find the one that leads to the Mind World!"
+"D07_9CFB (file 0x0FD0B, PRG bank 7 $9CFB)","よし　せいこうだ！
+なにか　バイブレーションを　かんじるぞ！
+どの　とびら　なのか　かんじてみよう。
+","All right, success! I feel some kind of vibration! Let's try to feel which door it is.","All right, it worked! Some kind of vibration is coming through! Try to sense which door it is."
+"D07_9D2F (file 0x0FD3F, PRG bank 7 $9D2F)","よし　せいこうだ！
+……………………………
+……………………………
+なにか　とてつもない　バイブレーションが
+くうかんに　ひろがってきたようだ！
+キヨタからの　ビジョンが　くるぞ…………
+","All right, success! ........ ........ Some tremendous vibration seems to have spread through the space! A vision from Kiyota is coming...","All right, it worked!
+……………
+……………
+An incredible vibration fills the air! A vision from Kiyota is coming…"
+"D08_B3B1 (file 0x113C1, PRG bank 8 $B3B1)",トライしますか,Will you try?,Try it?
+"D08_B3B9 (file 0x113C9, PRG bank 8 $B3B9)",あなたのばんよ！,It's your turn!,Your turn!
+"D08_B3C2 (file 0x113D2, PRG bank 8 $B3C2)",わたしのばんよ！,It's my turn!,My turn!
+"D08_B3CB (file 0x113DB, PRG bank 8 $B3CB)",わたしのかちよ！,It's my win!,I win!
+"D08_B3D4 (file 0x113E4, PRG bank 8 $B3D4)",あなたってすごい,You're amazing,Amazing!
+"D08_B3DD (file 0x113ED, PRG bank 8 $B3DD)",つづけます？,Will you continue?,Continue?
+"D08_B3E4 (file 0x113F4, PRG bank 8 $B3E4)",まけないわよ,I won't lose,I'll win!
+"D08_B3EB (file 0x113FB, PRG bank 8 $B3EB)",やったね！,You did it!,Nice job!
+"D08_B3F1 (file 0x11401, PRG bank 8 $B3F1)",がんばってね！,Do your best!,Good luck!
+"D08_B3F9 (file 0x11409, PRG bank 8 $B3F9)",がっかりしないで,Don't be disappointed,Cheer up!
+"D08_B402 (file 0x11412, PRG bank 8 $B402)",キャーすごい！,"Kyaa, amazing!",So cool!
+"D08_B40A (file 0x1141A, PRG bank 8 $B40A)",ポイントぶそくよ,Points are insufficient,Low points
+"D08_B548 (file 0x11558, PRG bank 8 $B548)","ここは　サイランドです
+ちょうのうりょくを　つかったゲームをたのしめます",This is Psi Land. You can enjoy games that use psychic powers.,"This is Psi Land, where you can enjoy games that use psychic powers."
+"D08_B56D (file 0x1157D, PRG bank 8 $B56D)","なにも　かんじないぞ！
+",I don't feel anything!,I don't feel a thing!
+"D08_B57A (file 0x1158A, PRG bank 8 $B57A)","ようこそサイランドへ！
+わたしは　みなこョ
+ここで　インストラクターをやっているの
+ここのゲームは　サイパワーがひつようなのよ
+まけると　バイブレーションが　さがってしまうわ
+だから　プレイのやりすぎは　きんもつよ
+プレイしたいゲームを　えらんでね
+
+
+","Welcome to Psi Land! I'm Minako. I work as the instructor here. The games here need Psi Power. If you lose, your vibrations will go down. So playing too much is forbidden. Choose the game you want to play.","Welcome to Psi Land! I'm Minako, the instructor here.{P}These games run on Psi Power, and losing drops your vibrations.{P}So don't overdo it! Pick a game you'd like to play."
+"D08_B5FA (file 0x1160A, PRG bank 8 $B5FA)","プレイシステムは　おわかりですか？
+",Do you understand the play system?,Do you know how to play?
+"D08_B60D (file 0x1161D, PRG bank 8 $B60D)","プレイしたいゲームをえらんでね
+",Choose the game you want to play.,Pick a game you'd like to play.
+"D08_B61E (file 0x1162E, PRG bank 8 $B61E)","ようこそサイランドへ！
+プレイしたいゲームをえらんでね
+",Welcome to Psi Land! Choose the game you want to play.,Welcome to Psi Land! Pick a game you'd like to play.
+"D08_B63B (file 0x1164B, PRG bank 8 $B63B)","これは　ねんりきをつかうゲームよ
+キャラを　さきにゴールさせたほうがかちよ
+ねんじながら　ボタンをおしてね
+ゲームをするには　サイポイントがひつようよ
+かてば　サイポイントが　ばいになるわ
+さあ　わたしがおあいてするわ！
+","This is a game that uses psychokinesis. Whoever gets their character to the goal first wins. Press the button while concentrating your will. To play you need Psi Points. If you win, your Psi Points double. Now, I'll be your opponent!","This game uses Psychokinesis! Reach the goal first to win. Focus your mind as you press the button. It costs Psi Points to play, and if you win, your points double! Now, I'll be your opponent!"
+"D08_B6AB (file 0x116BB, PRG bank 8 $B6AB)","これは　とうしをつかったゲームなの。
+みなこ　が　さきにカードをふせてだすから
+あなたは　そのカードの　かずを　とうししてね！
+おおきな　かずのカードを　だしたほうが
+かちになるの。　ただし　5は1にまけるのよ。
+それに　おなじかずのときは　あなたのまけよ！
+","This is a game using clairvoyance. Minako lays a card face down first, so you use clairvoyance to see that card's number! Whoever plays the larger number wins. However, 5 loses to 1. And when the numbers are the same, you lose!","This game uses Clairvoyance! I'll lay a card face down first. Use Clairvoyance to read its number!{P}High card wins, except a 5 loses to a 1! And on a tie, you lose!"
+"D08_B72E (file 0x1173E, PRG bank 8 $B72E)","そして　3かい　さきに　かったほうが
+そのラウンドの　しょうりしゃになるわ！
+あなたが　かてば　ポイントは　ばいになるの！
+でも　ゲームをするには　それなりの　ポイントが
+ひつようだけど　あなたは　だいじょうぶかな？
+じゃあ　わたしが　おあいてするわ…………
+","And whoever wins 3 times first becomes the winner of that round! If you win, your points double! But to play you need a certain number of points... are you all right? Well then, I'll be your opponent...","The first to win 3 times takes the round! If you win, your points double! But you need a fair number of points to play. Got enough?{P}Well then, I'll be your opponent…"
+"D08_B7B1 (file 0x117C1, PRG bank 8 $B7B1)","これは　よちをつかった　ゲームなの。
+じゅうじボタンをつかって　おんなのこのキャラを
+じょうげ　さゆうの　ゴールまで　うごかしてね！
+キャラを　うごかせるのは　かならずしも
+じゅうじボタンの　とおりとは　かぎらないわ。
+うごかせる　ほうこうを　よちしないとだめよ！
+","This is a game using precognition. Use the Control Pad to move the girl character to the goal, up, down, left or right! The character won't necessarily move the way the Control Pad says. You have to foresee which way she can move!","This game uses Precognition! Use the Control Pad to move the girl to the top, bottom, left, or right goal.{P}She won't always go the way you press! Predict which way she can move!"
+"D08_B837 (file 0x11847, PRG bank 8 $B837)","ゴールパネルに　かかれている
+すうじの　ばいすうが　ポイントにかけられて
+あなたの　ポイントに　かさんされるのよ！
+でも　ゲームをするには　ポイントが
+ひつようだけど　あなたは　だいじょうぶかな？
+わたしが　おうえんしてるから　ガンバッテネ！
+","The multiplier written on the goal panel is applied to your points and added to your points! But to play you need points... are you all right? I'm cheering for you, so do your best!","The number on the goal panel multiplies your points, and the result is added to your total! But you need points to play. Got enough?{P}I'm rooting for you, so give it your all!"
+"D08_B8B2 (file 0x118C2, PRG bank 8 $B8B2)","ざんねんだけど　あなたの　レベルでは　まだ
+プレイ　できないわよ！
+
+","Sorry, but at your level you can't play yet!","Sorry, but your level is too low to play this yet!"
+"D09_B383 (file 0x13393, PRG bank 9 $B383)","{V}{V}{V}{V}　しっぱい！
+サイパワーの　つかいすぎだ！
+ちょっと　ひとやすみしよう…………
+",{V}{V}{V}{V} failure! Used too much Psi Power! Let's rest a little...,"{V}{V}{V}{V}: Failed!
+You used too much Psi Power! Time for a rest…"
+"D10_8000 (file 0x14010, PRG bank 10 $8000)","このスプーンを　ねんりきで　まげてみよう
+",Let's try bending this spoon with psychokinesis.,Try bending this spoon with Psychokinesis!
+"D10_8016 (file 0x14026, PRG bank 10 $8016)","このスプーンを　ねんりきで　ねじってみよう
+",Let's try twisting this spoon with psychokinesis.,Try twisting this spoon with Psychokinesis!
+"D10_802D (file 0x1403D, PRG bank 10 $802D)","このスプーンを　ねんりきで　おってみよう
+",Let's try breaking this spoon with psychokinesis.,Try snapping this spoon with Psychokinesis!
+"D10_8043 (file 0x14053, PRG bank 10 $8043)","ねんりきで　シンセサイザーを　えんそうしてみよう
+",Let's try playing the synthesizer with psychokinesis.,Try playing the synthesizer with Psychokinesis!
+"D10_805D (file 0x1406D, PRG bank 10 $805D)","つぎにでるばしょを　よちしてみよう
+",Let's try to foresee the place where it comes out next.,Try to predict where it will appear next!
+"D10_8070 (file 0x14080, PRG bank 10 $8070)","でてくる　ガムのいろを　とうししてみよう
+","Let's try to see, with clairvoyance, the color of the gum that comes out.",Try using Clairvoyance to see what color the gum will be!
+"D10_8086 (file 0x14096, PRG bank 10 $8086)","ふんすいを　ねんりきで　だしてみよう
+",Let's try making the fountain spout with psychokinesis.,Try making the fountain spout with Psychokinesis!
+"D10_809A (file 0x140AA, PRG bank 10 $809A)","ふんすいの　でるばしょを　よちしてみよう
+",Let's try to foresee where the fountain comes out.,Try to predict where the fountain will spout!
+"D10_80B0 (file 0x140C0, PRG bank 10 $80B0)","ふんすいの　こしょうかしょを　とうししてみよう
+",Let's try to see the fountain's broken spot with clairvoyance.,Try using Clairvoyance to find what's broken in the fountain!
+"D10_80C9 (file 0x140D9, PRG bank 10 $80C9)","ねんりきで　はなをさかせてみよう
+",Let's try making flowers bloom with psychokinesis.,Try making the flowers bloom with Psychokinesis!
+"D10_80DB (file 0x140EB, PRG bank 10 $80DB)","なにいろのひこうせんが　でてくるか　とうししよう
+",Let's see with clairvoyance what color airship comes out.,Use Clairvoyance to see what color the blimp will be!
+"D10_80F5 (file 0x14105, PRG bank 10 $80F5)","これを　ねんりきで　うごかしてください
+",Please move this with psychokinesis.,Please move this with Psychokinesis.
+"D10_810A (file 0x1411A, PRG bank 10 $810A)","ねんりきで　ものをしゅつげんさせてください
+",Please make an object materialize with psychokinesis.,Make an object appear with Psychokinesis.
+"D10_8121 (file 0x14131, PRG bank 10 $8121)","これを　ねんりきで　テレポートさせてください
+",Please teleport this with psychokinesis.,Please teleport this with Psychokinesis.
+"D10_8139 (file 0x14149, PRG bank 10 $8139)","かくされたものを　とうししてください
+",Please see the hidden thing with clairvoyance.,Please use Clairvoyance to see what's hidden.
+"D10_814D (file 0x1415D, PRG bank 10 $814D)","かくされたもののいろを　とうししてください
+",Please see the color of the hidden thing with clairvoyance.,See the hidden object's color with Clairvoyance.
+"D10_8164 (file 0x14174, PRG bank 10 $8164)","{V}{V}{V}{V}　せいこう！
+ポイントが　{V}{V}{V}{V}あがったぞ！
+",{V}{V}{V}{V} success! Points went up by {V}{V}{V}{V}!,"{V}{V}{V}{V}: Success!
+You gained {V}{V}{V}{V} points!"
+"D10_8181 (file 0x14191, PRG bank 10 $8181)","{V}{V}{V}{V}　しっぱい！
+もういちど　トライしますか？
+",{V}{V}{V}{V} failure! Will you try once more?,"{V}{V}{V}{V}: Failed!
+Try again?"
+"D10_819C (file 0x141AC, PRG bank 10 $819C)","{V}{V}{V}{V}　しっぱい！
+あと　{V}かい　です
+",{V}{V}{V}{V} failure! {V} more times.,"{V}{V}{V}{V}: Failed!
+Tries left: {V}"
+"D10_81B2 (file 0x141C2, PRG bank 10 $81B2)","{V}{V}{V}{V}　しっぱい！
+ポイントが　{V}{V}{V}{V}さがってしまったぞ！
+",{V}{V}{V}{V} failure! Points went down by {V}{V}{V}{V}!,"{V}{V}{V}{V}: Failed!
+You lost {V}{V}{V}{V} points!"
+"D10_81D3 (file 0x141E3, PRG bank 10 $81D3)","{NAME}さん。　わたしは　サイマスターの　グルーだ。　これから　きみの　サイパワーを　ためして
+みよう。
+スクールの　そつぎょうせいなら　できるはずだ！
+これぐらいのことが　できないようでは　エスパー
+とは　いえないぞ！
+","{NAME}. I am the Psi Master Guru. Now I will test your Psi Power. A graduate of the School should be able to do it! If you can't do something like this, you can't be called an Esper!","{NAME}. I am Guru, a Psi Master. I shall now test your Psi Power. Any graduate of the School can do this! If you cannot manage something this simple, you are no Esper!"
+"D10_8243 (file 0x14253, PRG bank 10 $8243)","{NAME}さん　また　あったね。
+それでは　あなたの　サイパワーを　ためしてみよう
+
+","{NAME}, we met again. Then, let's test your Psi Power.","So we meet again, {NAME}. Now, I shall test your Psi Power."
+"D10_826E (file 0x1427E, PRG bank 10 $826E)","はいっ！　るんるんギャルの　しのぶよっ！
+さあ　チャンス！　このラウンドは
+ポイントが　ばいになるからがんばってネ
+","Yes! I'm Shinobu, the happy-humming gal! Now, it's a chance! This round, points double, so do your best!","Hi-hi! It's Shinobu, the happy-go-lucky gal! Here's your chance! Points are doubled this round, so go for it!"
+"D10_82A9 (file 0x142B9, PRG bank 10 $82A9)","いまの　かんじ　すっごくいいわ！
+じゃあ　また　あなたのバイブが
+あがってきたら　おあいしましょっ！
+","That feeling just now was really good! Well, let's meet again when your vibes rise again!","Ooh, that was super! Let's meet again when your vibes climb higher!"
+"D10_82DD (file 0x142ED, PRG bank 10 $82DD)","うーん………　ちょっとものたりなかったわね！
+でも　めげないでっ！　また　そのうち
+あえると　おもうから　そのときは　………ヨ！
+","Hmm... that was a little unsatisfying! But don't get discouraged! I think we'll meet again sometime, so at that time... (you know)!","Hmm… that wasn't quite enough! But don't let it get you down! I bet we'll meet again someday, and next time, I'm counting on you!"
+"D10_83C5 (file 0x143D5, PRG bank 10 $83C5)","はいっ！　きゃぴきゃぴギャルの　しのぶよっ！
+ぱんぱかぱーん！　なんと　すてきなあなたに
+ボーナス　{V}{V}{V}{V}てん　どーんとしんていよっ！
+","Yes! I'm Shinobu, the bubbly gal! Ta-da! To wonderful you, I'm boldly presenting a bonus of {V}{V}{V}{V} points!","Hi-hi! It's Shinobu, the bubbly gal! Ta-daaa! A whopping bonus of {V}{V}{V}{V} points, just for wonderful you!"
+"D10_840B (file 0x1441B, PRG bank 10 $840B)","{V}かいで　できないと　サイポイントがさがります
+","If you can't do it in {V} times, Psi Points go down.",{V} misses cost you points
+"D10_8424 (file 0x14434, PRG bank 10 $8424)","ねんりきで　あのひとを　ふりむかせてください
+",Please make that person turn around with psychokinesis.,Turn that person around with Psychokinesis.
+"D10_843C (file 0x1444C, PRG bank 10 $843C)","つぎにとおる　くるまのいろを　よちしてください
+",Please foresee the color of the car that passes next.,Please predict the color of the next car.
+"D10_8455 (file 0x14465, PRG bank 10 $8455)","つぎに　ひとがでてくるばしょを　よちしてください
+",Please foresee the place where a person comes out next.,Please predict where the next person will appear.
+"D10_846F (file 0x1447F, PRG bank 10 $846F)","ねんりきで　ふりむかせてください
+",Please make (them) turn around with psychokinesis.,Make them turn around with Psychokinesis.
+"D10_8481 (file 0x14491, PRG bank 10 $8481)","わたしは　ジエリコ　です。
+{NAME}さんの　サイパワーを　ためしましょう。
+よろしいですね。
+",I am Jericho. Let us test {NAME}'s Psi Power. Is that all right?,"I am Jericho. Allow me to test your Psi Power, {NAME}. Shall we begin?"
+"D10_84B1 (file 0x144C1, PRG bank 10 $84B1)","また　おあいしましたね。
+ちょうしは　いかがですか。
+では　あなたの　サイパワーを　ためしましょう。
+","We meet again. How is your condition? Then, let us test your Psi Power.","We meet again. How are you today? Now, let us test your Psi Power."
+"D12_903E (file 0x1904E, PRG bank 12 $903E)","ここは　サイサロンです
+スクールをそつぎょうした　エスパーのたまりばです",This is the Psi Salon. It's a hangout for Espers who graduated from the School.,"This is Psi Salon, a hangout for Psychic School graduates."
+"D12_9063 (file 0x19073, PRG bank 12 $9063)","ここは　サイパークです
+シテイーの　いこいのばしょです",This is the Psi Park. It's the City's place of relaxation.,"This is Psi Park, where the City comes to relax."
+"D12_908D (file 0x1909D, PRG bank 12 $908D)","なにも　かんじないぞ！
+",I don't feel anything!,I don't feel a thing!
+"D12_909A (file 0x190AA, PRG bank 12 $909A)","ぼくは　エスパーありまです
+もしかしたら　きみは{NAME}さんじゃないの？
+
+やっぱりね！
+じつは　エスパーキヨタから　{NAME}さんのことはよくきいているよ。　かなり　そしつがあるってね
+ところで　{NAME}さんの　めいしがわりに
+スプーンをまげてみせてよ？
+","I'm Esper Arima. Could it be you're {NAME}? (pause) I knew it! Actually, I've heard a lot about {NAME} from Esper Kiyota. That you have quite a lot of talent. By the way, {NAME}, in place of a business card, bend a spoon for me?","I'm Esper Arima. Could you be {NAME}, by any chance?{P}I knew it! Esper Kiyota has told me a lot about you, {NAME}. He says you have real talent. Say, {NAME}, bend me a spoon as a business card?"
+"D12_911B (file 0x1912B, PRG bank 12 $911B)","すごいね！
+つよいバイブレーションをかんじたよ
+
+",Amazing! I felt strong vibrations!,Amazing! I felt some strong vibrations!
+"D12_9135 (file 0x19145, PRG bank 12 $9135)","きょうは　ちょうしがわるいみたいだね
+
+
+",Seems you're in bad condition today.,Looks like you're off your game today.
+"D12_914B (file 0x1915B, PRG bank 12 $914B)","{NAME}さん　ずいぶんちょうしがいいみたいだね
+また　みんなに　スプーンまげをみせてあげてよ
+","{NAME}, you seem to be in very good condition. Show everyone spoon bending again.","You're on a roll, {NAME}! Show everyone your spoon bending again!"
+"D12_917B (file 0x1918B, PRG bank 12 $917B)","{NAME}さん　ずいぶんちょうしがいいみたいだね
+こんどは　スプーンねじりをやってみせてよ
+","{NAME}, you seem to be in very good condition. This time, show me spoon twisting.","You're on a roll, {NAME}! Show me some spoon twisting this time!"
+"D12_91A9 (file 0x191B9, PRG bank 12 $91A9)","{NAME}さん　ずいぶんちょうしがいいみたいだね
+こんどは　スプーンおりをやってみせてよ
+","{NAME}, you seem to be in very good condition. This time, show me spoon breaking.","You're on a roll, {NAME}! Show me some spoon snapping this time!"
+"D12_91EE (file 0x191FE, PRG bank 12 $91EE)","シンセサイザーがあるぞ！
+",There's a synthesizer!,There's a synthesizer!
+"D12_91FC (file 0x1920C, PRG bank 12 $91FC)","なにか　おきものがあるぞ！
+",There's some kind of ornament!,There's some kind of figurine!
+"D12_920B (file 0x1921B, PRG bank 12 $920B)","ガムのはんばいきがあるぞ！
+ひとつ　かってみよう
+",There's a gum vending machine! Let's try buying one.,There's a gum machine! Let's get a piece.
+"D12_923D (file 0x1924D, PRG bank 12 $923D)","わたしはマミよ
+よろしくね
+きょねん　サイキックスクールを　そつぎょうしたのあら！　{NAME}さんも　そつぎょうせいなの
+じゃあ　わたしがせんぱいってわけね
+このパークって　わたしとてもすきなのよね
+サイのトレーニングで　よくやるんだけど
+ねんりきで　あそこのふんすいって　だせるのよね
+{NAME}さんも　いちどためしてみない
+","I'm Mami. Nice to meet you. I graduated from Psychic School last year. Oh! {NAME}, you're a graduate too? Then I'm your senior. I really like this park. I often do it in psi training: with psychokinesis you can make that fountain over there spout. {NAME}, won't you try it once too?","I'm Mami, nice to meet you! I finished Psychic School last year.{P}Oh, you're a graduate too, {NAME}? That makes me your senior!{P}I love this park. I train here a lot. Did you know you can make that fountain spout with Psychokinesis? Want to try, {NAME}?"
+"D12_92E0 (file 0x192F0, PRG bank 12 $92E0)","さすがね！
+とてもつよい　サイパワーをかんじたわ
+
+",As expected! I felt very strong Psi Power!,Impressive! I felt very strong Psi Power!
+"D12_92FB (file 0x1930B, PRG bank 12 $92FB)","ちょうしがあがったら　またやってみるといいわ
+
+
+","When your condition goes up, it'd be good to try again.",Give it another try when you're in better form.
+"D12_9315 (file 0x19325, PRG bank 12 $9315)","きょうの　バイブレーションは　いいみたいね
+わたし　ふんすいがみたいな
+",Today's vibrations seem good. I want to see the fountain.,Your vibrations seem good today. I'd love to see the fountain spout!
+"D12_933A (file 0x1934A, PRG bank 12 $933A)","きょうは　わたしがふんすいを　だしてみるわ
+{NAME}さんは　でるばしょを　よちしてみせてね
+","Today I'll try making the fountain spout. {NAME}, show me you can foresee where it comes out.","Today I'll make the fountain spout! {NAME}, predict where it shoots!"
+"D12_9369 (file 0x19379, PRG bank 12 $9369)","あら{NAME}さん　ちょうどよかったわ
+ふんすいが　こしょうしちゃったみたいなの
+とうしをつかって　わるいところをさがしてくれない
+","Oh, {NAME}, just in time. The fountain seems to have broken. Won't you use clairvoyance to find the bad spot?","Oh, {NAME}, perfect timing! The fountain seems to be broken. Could you use Clairvoyance to find what's wrong?"
+"D12_93AB (file 0x193BB, PRG bank 12 $93AB)","{NAME}さんの　サイパワーを　みせてください
+
+
+",Please show me {NAME}'s Psi Power.,"Please show me your Psi Power, {NAME}."
+"D12_93C5 (file 0x193D5, PRG bank 12 $93C5)","かだんがあるぞ！
+",There's a flower bed!,There's a flower bed!
+"D12_93CF (file 0x193DF, PRG bank 12 $93CF)","ひこうせんの　かくのうこがあるぞ！
+",There's an airship hangar!,There's a blimp hangar!
+"D12_93E2 (file 0x193F2, PRG bank 12 $93E2)","さっき　バイブレーションをあわせたばしょだ
+",It's the place where I tuned my vibrations a while ago.,I tuned my vibrations here earlier.
+"D12_93F9 (file 0x19409, PRG bank 12 $93F9)","じゅうじボタンで　いどうさきを　えらんでください
+",Please choose a destination with the Control Pad.,Please choose a destination with the Control Pad.
+"D12_9413 (file 0x19423, PRG bank 12 $9413)","サイサロンへ　いどうちゅう
+",Moving to the Psi Salon,Heading to Psi Salon…
+"D12_9422 (file 0x19432, PRG bank 12 $9422)","サイパークへ　いどうちゅう
+",Moving to the Psi Park,Heading to Psi Park…
+"D12_9431 (file 0x19441, PRG bank 12 $9431)","サイランドへ　いどうちゅう
+",Moving to Psi Land,Heading to Psi Land…
+"D12_9440 (file 0x19450, PRG bank 12 $9440)","テレポートちゅう！
+",Teleporting!,Teleporting!
+"D12_944B (file 0x1945B, PRG bank 12 $944B)","スクールへ　いどうちゅう
+",Moving to the School,Heading to the School…
+"D12_9482 (file 0x19492, PRG bank 12 $9482)","ここはサイキックシテイーです。
+あなたは　ここで　ちょうのうりょくの
+じっせん　トレーニングを　つむことになります。
+じぶんが　じっさいに　このせかいのなかに
+あたかも　はいりこんだかのように　イメージして
+トレーニングを　つむことが　たいせつです。
+あせらず　ゆったりしたきもちで　やりましょう。
+いままでと　おなじように　なにかをかんじたら
+フイールコマンドを　つかってみてください。
+","This is Psychic City. Here you will accumulate practical training in psychic powers. It's important to train while imagining as if you had actually entered this world yourself. Don't rush, do it with a relaxed feeling. Just as before, when you feel something, please try using the FEEL command.","This is Psychic City. Here you will get hands-on training with your psychic powers. As you train, it is important to picture yourself truly inside this world. Take your time and stay relaxed. Just as before, when you sense something, try using the FEEL command."
+"D12_9546 (file 0x19556, PRG bank 12 $9546)","イベントに　せいこうすれば　ポイントが
+あがります。　また　ポイントが　いってい
+いじょうに　なると　サイレベルが　あがります。
+レベルが　あがれば　キヨタから
+ちょうのうりょくにかんする　じょうほうを
+あなたは　きくことが　できるでしょう。
+そして　レベルが　さいだいち　まで
+あげることが　できたならば　いよいよ
+さいしゅうイベントに　ちょうせんです。
+","If you succeed at events, points go up. Also, when points exceed a certain amount, your Psi Level goes up. When your level goes up, you'll be able to hear information about psychic powers from Kiyota. And if you can raise your level to the maximum, at last you will challenge the final event.","Succeed at events to earn points. Once your points pass a certain amount, your Psi Level goes up. As your level rises, Kiyota will tell you more about psychic powers. And once your level reaches its maximum, you can at last take on the final event."
+"D12_95FA (file 0x1960A, PRG bank 12 $95FA)","さいしゅうイベントに　せいこうしたならば
+{NAME}さんは　エンデイングを　たいけんし
+しんの　エスパーと　なることでしょう！
+いまひかっている　ここが　センターです。
+いどうするには　じゅうじボタンを　つかって
+いどうさきを　えらび　Ａボタンをおします。
+","If you succeed at the final event, {NAME} will experience the ending and become a true Esper! The place lit up now is the Center. To move, use the Control Pad to choose a destination and press the A Button.","Succeed at the final event, {NAME}, and you will reach the ending as a true Esper! The glowing spot is the Center. To travel, choose a destination with the Control Pad and press the A Button."
+"D13_A67F (file 0x1A68F, PRG bank 13 $A67F)","スプーンは　どこにでもあるから　いつでも
+ねんりきの　トレーニングができるから　いいよね。さいしょは　なるべく　やわらかいスプーン　を
+つかったほうが　いいみたいだね。
+スプーンが　まがったときの　イメージをすると
+やりやすいよね。
+","Spoons are everywhere, so it's nice that you can do psychokinesis training anytime. At first it seems better to use spoons as soft as possible. It's easier if you picture the spoon when it has bent.","Spoons are everywhere, so you can practice Psychokinesis any time. Nice, huh? Start with the softest spoons you can find. It helps to picture the spoon already bent."
+"D13_A6F5 (file 0x1A705, PRG bank 13 $A6F5)","{NAME}さんは　キヨタの　スプーンまげを
+みたことって　ある？　あれは　すごいよね。
+ぼくたちとは　バイブレーションが　ちがうよね。
+","{NAME}, have you ever seen Kiyota's spoon bending? That's amazing. His vibrations are different from ours.","{NAME}, have you ever seen Kiyota bend a spoon? It's amazing! His vibrations are on a whole other level from ours."
+"D13_A739 (file 0x1A749, PRG bank 13 $A739)","フアミコンを　やっているときって
+いしきの　レベルは　けっこう　いいらしいよ！
+じつは　エスパーキヨタも　ゲームがすきなんだ。
+ここだけの　はなしだけどさ
+エスパーキヨタの　おやゆびには　たこ　があるんだフアミスタ　の　やりすぎだって　うわさだよ。　
+","When you're playing the Famicom, your level of consciousness is apparently pretty good! Actually, Esper Kiyota likes games too. Just between us, Esper Kiyota has a callus on his thumb. Rumor says it's from too much Famista.","Playing the NES puts your mind in a pretty good state! Esper Kiyota loves games too. Just between us, he's got a callus on his thumb. Rumor says it's from too much R.B.I. Baseball!"
+"D13_A7B8 (file 0x1A7C8, PRG bank 13 $A7B8)","みのまわりにある　なにか　ひとつのものを　じっとみつづけると　いつもとは　ちがった　せかいを
+かんじることが　できるように　なるよ。
+","If you keep staring at one thing around you, you become able to sense a world different from usual.","Pick one thing near you and keep staring at it. After a while, you'll start to sense a world different from your own."
+"D13_A7FC (file 0x1A80C, PRG bank 13 $A7FC)","デジャブ　の　ことを　しっているかい？
+はじめてきた　ばしょなのに　まえに　いちど
+きたことが　あるように　かんじたことってない？
+それを　デジャブ　と　いうんだよね。
+あるしゅの　よち　のうりょく　とも　いえるね。
+
+","Do you know about deja vu? Haven't you ever felt like you'd come to a place once before, even though it's your first time there? That's called deja vu. You could also call it a kind of precognitive ability.","Know what déjà vu is? Have you ever visited a new place, yet felt like you've been there before? That's déjà vu, a kind of Precognition."
+"D13_A86B (file 0x1A87B, PRG bank 13 $A86B)","{NAME}さんは　ゆうれい　は　なんだとおもう？
+ぼくは　あるしゅの　いしきエネルギーたい　だと
+おもっているんだ。
+","{NAME}, what do you think ghosts are? I think they're a kind of consciousness-energy body.","{NAME}, what do you think ghosts are?{P}I think they're beings of conscious energy."
+"D13_A8A6 (file 0x1A8B6, PRG bank 13 $A8A6)","{NAME}さんは　じぶんが　うまれてくる　まえの
+じょうたいを　かんじたことって　あるかな？
+たぶん　ひかり　のイメージに　ちかいと　おもうな
+","{NAME}, have you ever sensed your state before you were born? I think it's probably close to an image of light.","{NAME}, have you ever sensed what it was like before you were born? I bet it's something close to light."
+"D13_A8EE (file 0x1A8FE, PRG bank 13 $A8EE)","さいきん　からだを　きたえているんだ。
+こころと　からだの　バランスが　だいじだからね。{NAME}さんも　きたえた　ほうが　いいよ！
+","I've been training my body lately. Because the balance of mind and body is important. You should train too, {NAME}!","I've been working out lately. Mind and body need balance, you know. You should work out too, {NAME}!"
+"D13_A931 (file 0x1A941, PRG bank 13 $A931)","にんげんは　しんだら　どうなると　おもう？
+し　とは　おわりではなく　つぎの　じげんでの
+いしきの　しんか　を　いみしてるんじゃないかな
+","What do you think happens to people when they die? Isn't death not an end, but the evolution of consciousness in the next dimension?","What happens when we die? Maybe death isn't an end, but consciousness evolving to the next dimension."
+"D13_A977 (file 0x1A987, PRG bank 13 $A977)","うちゅうは　ひとつだけじゃ　ないらしいね。
+いくつかの　うちゅうが　どうじに　そんざい
+してるみたいだね。
+",Apparently the universe isn't just one. It seems several universes exist at the same time.,"I hear there isn't just one universe. Seems several of them exist side by side, all at once."
+"D13_A9AE (file 0x1A9BE, PRG bank 13 $A9AE)","{NAME}も　そろそろ　サイマスター　に　なれる
+レベルに　なったね！
+もう　ぼくも　かなわないよ。
+","{NAME}, you've reached the level where you can soon become a Psi Master! I'm no match for you anymore.","{NAME}, you're almost at Psi Master level! I'm no match for you anymore."
+"D13_A9E1 (file 0x1A9F1, PRG bank 13 $A9E1)","おんなのこが　テレパシーで　かたりかけてきた
+しかし　{NAME}の　レベルでは　ビジョンを
+うけとることが　できないぞ！
+","A girl spoke to you by telepathy. However, at {NAME}'s level, you can't receive the vision!",A girl is reaching out by telepathy!{P}But {NAME}'s level is too low to receive her vision!
+"D13_AA1E (file 0x1AA2E, PRG bank 13 $AA1E)","ちょうのうりょくが　つかいこなせるようになると
+いままで　かんじることの　できなかった　ちがったせかいを　みることが　できるわよ！
+","Once you can master psychic power, you can see a different world you couldn't sense until now!","Once you master your psychic powers, you'll see a whole new world you could never sense before!"
+"D13_AA61 (file 0x1AA71, PRG bank 13 $AA61)","しぜんのもつ　バイブレーションって　いいわよね
+いしや　きに　いしきを　あわせると　いろいろな
+バイブを　かんじることが　できるわよ！
+","Nature's vibrations are nice, aren't they? If you tune your consciousness to stones and trees, you can feel all kinds of vibes!","Nature has such lovely vibrations! Tune your mind to stones and trees, and you can feel all kinds of vibes!"
+"D13_AAA6 (file 0x1AAB6, PRG bank 13 $AAA6)","ちょうのうりょくには　あい　の　パワーが　ひつようなの！　じぶんを　あいし　にんげんを　あいし
+そして　うちゅうを　あいすることが　だいじだわ。
+","Psychic power needs the power of love! Loving yourself, loving people, and loving the universe is what matters.","Psychic power needs the power of love! Love yourself, love people, and love the universe. That's what matters."
+"D13_AAF0 (file 0x1AB00, PRG bank 13 $AAF0)","{NAME}さんて　ゆめを　よくみるほうかな？
+にんげんは　ねないと　いきては　いけないでしょ。だから　ゆめを　みるのも　ひつようよ。
+ゆめ　の　せかいでは　みんなが　エスパーよ。
+
+
+","{NAME}, are you someone who dreams a lot? People can't live without sleeping, right? So dreaming is necessary too. In the world of dreams, everyone is an Esper.","{NAME}, do you dream a lot? People can't live without sleep, right? So we need our dreams too. In the world of dreams, everyone is an Esper."
+"D13_AB4C (file 0x1AB5C, PRG bank 13 $AB4C)","{NAME}さんが　め　でみている　せかいは　ほんとうのせかいの　いちぶにしか　すぎないのよ。
+でも　このせかいには　すべてが　あるの。おわかり
+","The world you see with your eyes, {NAME}, is no more than a part of the real world. But in this world there is everything. Do you understand?","The world you see with your eyes, {NAME}, is only a small part of reality. Yet this world holds everything. Do you see?"
+"D13_AB94 (file 0x1ABA4, PRG bank 13 $AB94)","わたしは　ほし　を　みるのが　すきなんだ。
+ほし　を　みていると　じぶんは　うちゅうの
+いちぶ　なんだなって　かんじるのよね！
+","I like looking at the stars. When I look at the stars, I feel that I'm a part of the universe!",I love stargazing. It makes me feel like part of the universe!
+"D13_ABD5 (file 0x1ABE5, PRG bank 13 $ABD5)","テレポーテーションは　むずかしいわね。
+いしきを　しゅうちゅう　しないと　なかなか
+できないわ。　{NAME}さんは　もうできる？
+","Teleportation is hard, isn't it? You can hardly do it unless you concentrate your consciousness. {NAME}, can you do it already?","Teleportation is hard, isn't it? It's nearly impossible unless you really focus your mind. Can you do it yet, {NAME}?"
+"D13_AC16 (file 0x1AC26, PRG bank 13 $AC16)","このまちの　どこかに　パワースポットが　あるわ。そこには　テレポートで　いかなければ　ならないの{NAME}さんの　レベルでは　まだむりだわ！
+",Somewhere in this town there is a Power Spot. You have to go there by teleport. At {NAME}'s level it's still impossible!,"Somewhere in this city there's a Power Spot. You must teleport there. You're not at that level yet, {NAME}!"
+"D13_AC5D (file 0x1AC6D, PRG bank 13 $AC5D)","ずいぶん　サイレベルが　あがったわね！
+もうちょっとで　パワースポットに　いけるわ。
+あと　ちょっと　だから　がんばってね！
+","Your Psi Level has gone up a lot! A little more and you can go to the Power Spot. Just a little more, so do your best!","Your Psi Level has shot up! You're almost able to reach the Power Spot. Just a little more, so hang in there!"
+"D13_AC9D (file 0x1ACAD, PRG bank 13 $AC9D)","{NAME}さんの　レベルなら　もう　テレポートが
+できるはずよ。
+パワースポット　には　いってみた？
+","At {NAME}'s level, you should be able to teleport already. Have you tried going to the Power Spot?","At your level, {NAME}, you should be able to teleport by now. Have you been to the Power Spot yet?"
+"D13_ACD0 (file 0x1ACE0, PRG bank 13 $ACD0)","あなたって　ふかい　バイブレーションの　もちぬしね。　なんだか　かんじるものが　あるわ！
+
+",You're the owner of deep vibrations. Somehow I feel something!,Your vibrations run so deep. I can really feel something from you!
+"D13_ACFF (file 0x1AD0F, PRG bank 13 $ACFF)","ちょうのうりょくは　だれにでもある　のうりょくなのに　なんで　みんなは　それに　きづかないのかしら？　ふしぎよね。
+","Psychic power is an ability everyone has, so why doesn't everyone notice it? It's strange, isn't it?","Everyone has ESP, so why doesn't anybody notice? Isn't that strange?"
+"D13_AD3A (file 0x1AD4A, PRG bank 13 $AD3A)","あなたの　オーラ　とっても　きれいだわ！
+でも　まだ　わたしほどじゃ　ないけどね………
+
+",Your aura is very beautiful! But it's still not as much as mine…,"Your aura is so lovely! Not quite as lovely as mine, though…"
+"D13_AD68 (file 0x1AD78, PRG bank 13 $AD68)","ねえ　ねえ　テレパシーで　なんか　ビジョンを
+おくってみてよ！
+
+","Hey, hey, try sending me some vision by telepathy!","Hey, hey! Send me a vision by telepathy!"
+"D13_AD8A (file 0x1AD9A, PRG bank 13 $AD8A)","あなたの　かんがえている　ビジョンが
+わかるように　なってきたわ！
+でも　あまり　へんな　ビジョンは　おくらないでね
+","I've started to understand the visions you're thinking of! But don't send me too-strange visions, okay?","I'm starting to pick up the visions you're thinking of! But don't send me anything too weird, okay?"
+"D13_ADC6 (file 0x1ADD6, PRG bank 13 $ADC6)","わたしの　こいびとを　おしえましょうか？
+わたしを　おおきな　あいで　つつんでくれるの。
+かれのことを　にんげんは　うちゅう　といってるわ
+",Shall I tell you about my lover? He wraps me in great love. Humans call him 'the universe.',Shall I tell you who my sweetheart is? He wraps me in a great big love. Humans call him the universe.
+"D13_AE0D (file 0x1AE1D, PRG bank 13 $AE0D)","こんど　いっしょに　マインドトリップ
+しましょうよ。
+いしき　の　なかで　セッション　してみない。
+",Let's do a Mind Trip together sometime. Won't you try a session inside consciousness?,"Let's Mind Trip together sometime. Care for a session, mind to mind?"
+"D13_AE40 (file 0x1AE50, PRG bank 13 $AE40)","ちょうのうりょくを　わるいことに　つかったら
+だめよ！　もっとも　あなたは　そんなことを
+するような　ひとじゃ　ないものね。
+",You mustn't use psychic power for bad things! Though you're not the kind of person who'd do that anyway.,"You mustn't use psychic powers for anything bad!{P}Not that you're the type to do that, of course."
+"D13_AE80 (file 0x1AE90, PRG bank 13 $AE80)","あなた　さいきん　きれいな　め　になってきたね。め　をみると　そのひとの　こころが　わかるものなの。　わたしの　め　をじっと　みつめてみて。
+","Your eyes have become beautiful lately. Looking at someone's eyes, you can understand their heart. Try gazing steadily into my eyes.","Your eyes have grown so beautiful lately. The eyes show you a person's heart, you know. Gaze deep into mine."
+"D13_AEC8 (file 0x1AED8, PRG bank 13 $AEC8)","こんど　ゆめ　のなかで　あいましょうよ。
+
+
+",Let's meet in a dream sometime.,Let's meet in a dream sometime.
+"D13_AEE0 (file 0x1AEF0, PRG bank 13 $AEE0)","ついに　あなたも　サイマスターね！
+
+
+","At last, you too are a Psi Master!",You're finally a Psi Master!
+"D13_AEF5 (file 0x1AF05, PRG bank 13 $AEF5)","あそこにある　うごいている　おきものを　フイールしてみた？
+
+",Have you tried to FEEL the moving ornament over there?,Have you tried to FEEL that moving figurine over there?
+"D13_AF15 (file 0x1AF25, PRG bank 13 $AF15)","だれかに　サイパワーを　みせてと　たのまれたら
+やってみせるのが　このシテイーでの　エチケットよ
+","If someone asks you to show them your Psi Power, showing them is the etiquette in this City.","In this City, if asked to show your Psi Power, it's polite to do so."
+"D13_AF47 (file 0x1AF57, PRG bank 13 $AF47)","あなたの　スプーンまげって　きれ　が　あるわね！
+
+
+",Your spoon bending has sharpness!,Your spoon bending is so sharp!
+"D13_AF63 (file 0x1AF73, PRG bank 13 $AF63)","{NAME}さんは　スプーンを　ねじれるように
+なったそうね。
+
+",I hear {NAME} became able to twist spoons.,"I hear you can twist spoons now, {NAME}."
+"D13_AF83 (file 0x1AF93, PRG bank 13 $AF83)","いつか　どこかで　あなたに　あったような
+き　がするわ！
+
+",I feel like I've met you somewhere sometime!,"I feel like we've met before, somewhere, sometime!"
+"D13_AFA2 (file 0x1AFB2, PRG bank 13 $AFA2)","あそこにある　ガムのはんばいきを　フイール
+してみた？
+
+",Have you tried to FEEL the gum vending machine over there?,Have you tried to FEEL the gum machine over there?
+"D13_AFC0 (file 0x1AFD0, PRG bank 13 $AFC0)","{NAME}さんって　スプーンを　おれるように
+なったって　ほんとうなの？
+
+",Is it true that {NAME} became able to break spoons?,"{NAME}, is it true you can snap spoons in two now?"
+"D13_AFE6 (file 0x1AFF6, PRG bank 13 $AFE6)","すいぶん　ちょうしが　いいみたいね。
+うらやましいわ！
+
+",You seem to be in very good form. I envy you!,You're doing so well lately. I'm so jealous!
+"D13_B004 (file 0x1B014, PRG bank 13 $B004)","あそこにある　シンセサイザーを
+フイール　してみた？
+
+",Have you tried to FEEL the synthesizer over there?,Have you tried to FEEL the synthesizer over there?
+"D13_B021 (file 0x1B031, PRG bank 13 $B021)","もうすぐ　{NAME}さんも　サイマスターに
+なれそうね！
+
+",{NAME} also looks like they can become a Psi Master soon!,"You're almost ready to be a Psi Master, {NAME}!"
+"D13_B03F (file 0x1B04F, PRG bank 13 $B03F)","あなたの　バイブレーションで　くうかんが
+ゆがみそうよ。　さすがね！
+
+",Space looks like it will warp with your vibrations. As expected!,"Your vibrations could warp space itself. That's you, all right!"
+"D13_B064 (file 0x1B074, PRG bank 13 $B064)","サイランドで　ゲームを　やりすぎちゃったよ！
+ちょうしに　のってると　サイパワーを　つかいすぎるから　{NAME}さんも　きをつけたほうがいいよ！
+","I played too many games at Psi Land! If you get carried away you use too much Psi Power, so you'd better be careful too, {NAME}!","I went overboard on the games at Psi Land! Get carried away and you'll use up too much Psi Power, so be careful, {NAME}!"
+"D13_B0AD (file 0x1B0BD, PRG bank 13 $B0AD)","まだ　ゲームを　やってないのかい？
+そうか………　{NAME}さんの　レベルでは
+まだ　ゲームきを　コントロール　できないかもね。","You haven't played the games yet? I see… At {NAME}'s level, maybe you can't control the game machines yet.","You haven't tried the games yet? I see… At your level, {NAME}, you probably can't control the machines yet."
+"D13_B0ED (file 0x1B0FD, PRG bank 13 $B0ED)","サイランドで　れーすゲーム　を　やったかい？
+ちょうのうりょくの　トレーニングにも　なるから
+たまには　やってみるのも　いいんじゃないの。
+","Have you played the race game at Psi Land? It's also psychic power training, so isn't it good to try it once in a while?","Have you played the race game at Psi Land? It's good psychic training too, so why not give it a go now and then?"
+"D13_B134 (file 0x1B144, PRG bank 13 $B134)","いま　ひとりで　しずかに　のんでいるんだ………
+わるいけど　じゃましないで　くれるかな。
+
+","Right now I'm drinking quietly alone… Sorry, but could you not bother me?","I'm having a quiet drink alone… Sorry, could you leave me be?"
+"D13_B163 (file 0x1B173, PRG bank 13 $B163)","サイランドで　かーどゲーム　を　やったかい？
+あのゲームは　1と5を　いつだすかが　だいじなんだ！　ちゃんと　とうしすれば　かてるけどね。
+","Have you played the card game at Psi Land? In that game, when you play the 1 and 5 is what matters! If you use Clairvoyance properly you can win, though.",Have you played the card game at Psi Land? The key is when to play your 1 and 5! Use Clairvoyance right and you'll win.
+"D13_B1AA (file 0x1B1BA, PRG bank 13 $B1AA)","{NAME}さん　ちょうのうりょくを　つかうときは
+せいこうした　ビジョン　だけを　おもいえがいたほうが　いいぞ！
+","{NAME}, when using psychic power, you should picture only the vision of success!","{NAME}, when you use ESP, picture nothing but a vision of success!"
+"D13_B1E3 (file 0x1B1F3, PRG bank 13 $B1E3)","サイランドで　ぱねるゲームを　やったかい？
+ちゃんと　よち　を　つかわないと　かてないぞ！
+
+",Have you played the panel game at Psi Land? You can't win unless you use Precognition properly!,Have you played the panel game at Psi Land? You can't win unless you use Precognition properly!
+"D13_B213 (file 0x1B223, PRG bank 13 $B213)","いっしょに　のむ　かい？
+
+
+",Will you drink with me?,Care to join me for a drink?
+"D13_B223 (file 0x1B233, PRG bank 13 $B223)","いまの　きぶんには　シンセサイザーの　おとが
+あってるね。
+
+",The sound of the synthesizer suits my current mood.,That synthesizer sound really suits my mood right now.
+"D13_B243 (file 0x1B253, PRG bank 13 $B243)","さあ　また　ゲームを　プレイしに　いくとするか。
+
+","Well, I guess I'll go play games again.","Well, guess I'll go play some more games."
+"D13_B25E (file 0x1B26E, PRG bank 13 $B25E)","ずいぶん　エスパーらしい　バイブに　なってきたね
+
+",Your vibes have become quite Esper-like.,Your vibes are starting to feel like a real Esper's.
+"D13_B279 (file 0x1B289, PRG bank 13 $B279)","いどうちゅうに　グルー　に　ためされて
+しっぱいすると　おおきくポイントがさがるから
+きをつけてね　ねんじれば　あいずらくなるわよ！
+","If Guru tests you while traveling and you fail, your points drop a lot, so be careful. If you concentrate your will, he becomes harder to meet!","If Guru tests you on the road and you fail, you lose lots of points. Watch out! Focus your will to run into him less often!"
+"D13_B2BD (file 0x1B2CD, PRG bank 13 $B2BD)","レベルが　あがると
+ポイントは　いちど　0　に
+もどるのよ。
+","When your level goes up, your points return to 0 once.","When your level goes up, your points reset to 0."
+"D13_B2DD (file 0x1B2ED, PRG bank 13 $B2DD)","がんばってね！
+
+
+",Do your best!,Good luck!
+"D13_B2E8 (file 0x1B2F8, PRG bank 13 $B2E8)","てんきが　いいから　きもちがいいね！
+
+
+","The weather is nice, so it feels good!",What lovely weather! It feels wonderful out!
+"D13_B2FE (file 0x1B30E, PRG bank 13 $B2FE)","その　ちょうしよ！
+
+
+",That's the way!,That's the spirit!
+"D13_B30B (file 0x1B31B, PRG bank 13 $B30B)","ずいぶん　ちょうしが　いいみたいね！
+
+
+",You seem to be in very good form!,You're really in the zone!
+"D13_B321 (file 0x1B331, PRG bank 13 $B321)","{NAME}さんが　ちょうのうりょくを　つかっているときって　とっても　いいかおを　しているわ！
+
+","When {NAME} is using psychic power, you have a really good face!","You get such a great look on your face when you use ESP, {NAME}!"
+"D13_B352 (file 0x1B362, PRG bank 13 $B352)","ちょっと　つかれて　いるんじゃないの？
+
+
+",Aren't you a little tired?,Aren't you a little tired?
+"D13_B369 (file 0x1B379, PRG bank 13 $B369)","あまり　あせらないで　リラックスして　やってね！
+
+","Don't be too impatient, relax and do it!",Don't rush it. Just relax and take your time!
+"D13_B384 (file 0x1B394, PRG bank 13 $B384)","わたしも　{NAME}さん　ぐらいの
+バイブレーションに　はやく　なりたいな！
+
+",I want to quickly reach vibrations like {NAME}'s too!,"I wish my vibrations were as strong as yours, {NAME}!"
+"D13_B3AC (file 0x1B3BC, PRG bank 13 $B3AC)","わたしも　サイマスター　に　なりたいわ！
+
+
+",I want to become a Psi Master too!,I want to be a Psi Master too!
+"D13_B3C4 (file 0x1B3D4, PRG bank 13 $B3C4)","サイパワーを　つかうときは　1かいめで　せいこうさせるほうが　ポイントが　たかいよ。
+5かい　いじょうは　トライできないんだ。
+","When using Psi Power, succeeding on the first try gives higher points. You can't try 5 times or more.","When you use Psi Power, you score more points if you succeed first try. You can't try more than five times."
+"D13_B405 (file 0x1B415, PRG bank 13 $B405)","レベルが　あがると
+サイイベントが　ふえるぞ！
+
+","When your level goes up, Psi Events increase!",Raise your level and you'll find more Psi Events!
+"D13_B41F (file 0x1B42F, PRG bank 13 $B41F)","たまに　じぶんの　へやに　もどって　セーブ
+したほうが　いいと　おもうよ。
+
+",I think you should go back to your own room once in a while and save.,I think you should head back to your room to save now and then.
+"D13_B447 (file 0x1B457, PRG bank 13 $B447)","ねんりきで　ものを　しゅつげん　させることを
+アポーツ　と　いうんだよね。
+
+","Making an object appear with psychokinesis is called an 'apport,' isn't it.","Making an object appear with Psychokinesis is called an ""apport."""
+"D13_B46F (file 0x1B47F, PRG bank 13 $B46F)","たいようの　ひかり　を　あびながら
+ちょうのうりょくの　トレーニングを　するのも
+きもちが　いいよね。
+","Doing psychic power training while bathing in the sunlight feels good too, doesn't it.","Psychic training out in the sunshine feels great, doesn't it?"
+"D13_B4A4 (file 0x1B4B4, PRG bank 13 $B4A4)","{NAME}さんは　ねんしゃを　やったことある？
+シャッターを　おさずに　ねんりきをつかって
+フイルムを　かんこう　させてしまうことなのよ！
+","{NAME}, have you ever done nensha? It's making film get exposed using psychokinesis without pressing the shutter!","{NAME}, have you ever tried thoughtography? It's using Psychokinesis to expose film without pressing the shutter!"
+"D13_B4EA (file 0x1B4FA, PRG bank 13 $B4EA)","うちゅう　から　ちきゅう　を　みたら
+ちきゅう　も　ひとつの　ちいさな　ほしにしか
+みえないだろうね。
+","If you looked at the Earth from space, the Earth would probably look like nothing but one small star.","Seen from space, I bet the Earth looks like just one tiny planet."
+"D13_B51F (file 0x1B52F, PRG bank 13 $B51F)","サイパワーが　はたらいているときの　のうは　は
+アルフアーは　じょうたいに　なっているんだってねのうはそくていき　で　しらべると　わかるよ。
+","They say that when Psi Power is working, your brain waves are in an alpha-wave state. You can tell if you examine them with a brain-wave meter.",They say Psi Power puts your brain waves in an alpha state.{P}You can see it on a brain-wave meter.
+"D13_B567 (file 0x1B577, PRG bank 13 $B567)","レベルが　あがると
+パワースポット　に　いけるそうだね。
+ぼくも　まだ　いったことは　ないんだ。
+",I hear when your level goes up you can go to the Power Spot. I haven't been there yet either.,I hear you can go to the Power Spot once your level is high enough. I've never been there myself.
+"D13_B599 (file 0x1B5A9, PRG bank 13 $B599)","パワースポットに　いくことが　できれば
+さいごの　サイイベントに　ちょうせん　できる
+らしいね。　でも　とても　むづかしいらしいよ。
+","It seems if you can go to the Power Spot, you can challenge the final Psi Event. But it seems very difficult.","They say if you can reach the Power Spot, you can take on the final Psi Event. But I hear it's really tough."
+"D13_B5DD (file 0x1B5ED, PRG bank 13 $B5DD)","いつも　バイブレーションが　いいね！
+
+
+",Your vibrations are always good!,Your vibrations are always so good!
+"D13_B5F3 (file 0x1B603, PRG bank 13 $B5F3)","このパークには　ひこうせんの　かくのうこが
+あることを　{NAME}さんは　しってました？
+
+","Did you know, {NAME}, that there's an airship hangar in this park?","{NAME}, did you know there's a blimp hangar in this park?"
+"D13_B621 (file 0x1B631, PRG bank 13 $B621)","いちど　フイール　したばしょでも　もどってきたときや　レベルが　あがったときは　もういっかい
+フイール　してみると　いいわよ。
+","Even at places you've FELT once, when you come back or when your level goes up, it's good to try FEEL once more.","Even if you've already used FEEL somewhere, try it again when you come back or after your level goes up!"
+"D13_B662 (file 0x1B672, PRG bank 13 $B662)","ちょうのうりよくで　はな　を　さかせることも
+できるのよ。　{NAME}さんも　もうちょっと
+レベルが　あがったら　やってみると　いいわ！
+","You can also make flowers bloom with psychic power. {NAME}, once your level goes up a little more, you should try it!","With psychic power, you can even make flowers bloom. Once your level's a bit higher, give it a try, {NAME}!"
+"D13_B6A7 (file 0x1B6B7, PRG bank 13 $B6A7)","{NAME}さんの　レベルなら　つぼみから　はなを
+さかせることが　できそうよ。　パークの　はなを
+さかせてみせてよ。　かだんを　フイール　してね！
+","At {NAME}'s level, it seems you could make flowers bloom from buds. Show me by making the park's flowers bloom. FEEL the flower bed!","At your level, {NAME}, you should be able to make buds bloom. Show me with the park's flowers. Just FEEL the flower bed!"
+"D13_B6F1 (file 0x1B701, PRG bank 13 $B6F1)","たまに　めいそう　を　するのも　ひつようじゃないかな？
+バイブレーションが　あがるわよ！
+",Isn't it necessary to meditate once in a while? Your vibrations will rise!,Try meditating now and then. It'll raise your vibrations!
+"D13_B71F (file 0x1B72F, PRG bank 13 $B71F)","そらに　うかんでいる　くもって　きれいよね。
+くもを　みていると　ちきゅうの　バイブレーションを　かんじることが　できるわよ！
+","The clouds floating in the sky are beautiful, aren't they. When you look at the clouds, you can feel the Earth's vibrations!","Aren't the clouds floating in the sky lovely? Watching them, you can feel the Earth's vibrations!"
+"D13_B760 (file 0x1B770, PRG bank 13 $B760)","サイパワー　の　つかいすぎに　ちゅういしてね！
+
+
+",Be careful of using too much Psi Power!,Be careful not to use too much Psi Power!
+"D13_B77B (file 0x1B78B, PRG bank 13 $B77B)","ちょうのうりょくは　21せいきの　あたらしい
+かがくと　なるに　ちがいないわ！
+
+",Psychic power will surely become the new science of the 21st century!,Psychic power is sure to be the new science of the 21st century!
+"D13_B7A5 (file 0x1B7B5, PRG bank 13 $B7A5)","いしきが　かくせい　してきたみたいね！
+
+
+",It seems your consciousness has begun to awaken!,Looks like your consciousness is awakening!
+"D13_B7BC (file 0x1B7CC, PRG bank 13 $B7BC)","たまには　やすむことも　ひつようよ！
+
+
+",Resting once in a while is necessary too!,You need to rest once in a while!
+"D13_B7D2 (file 0x1B7E2, PRG bank 13 $B7D2)","もう　あなたは　さいこうの　レベルに　なったわ！
+",You have now reached the highest level!,You've reached the very highest level now!
+"D13_B7EC (file 0x1B7FC, PRG bank 13 $B7EC)","なるほど…………
+
+
+",I see…,I see…
+"D13_B7F8 (file 0x1B808, PRG bank 13 $B7F8)","また　おあいしましょう。
+
+
+",Let's meet again.,Until we meet again.
+"D13_B808 (file 0x1B818, PRG bank 13 $B808)","…………………
+
+
+",…,………
+"D13_B813 (file 0x1B823, PRG bank 13 $B813)","それでは。
+
+
+",Well then.,"Farewell, then."
+"D13_B81C (file 0x1B82C, PRG bank 13 $B81C)","ふーむ…………
+
+
+",Hmm…,Hmm…
+"D13_B827 (file 0x1B837, PRG bank 13 $B827)","バイブレーションが…………
+
+
+",The vibrations…,Those vibrations…
+"D13_B838 (file 0x1B848, PRG bank 13 $B838)","そうか…………
+
+
+",I see… (so that's it),So that's how it is…
+"D13_B843 (file 0x1B853, PRG bank 13 $B843)","{NAME}さんの　バイブレーションが
+よく　わかりました。
+
+",I understood {NAME}'s vibrations well.,"I have a good sense of your vibrations now, {NAME}."
+"D13_B862 (file 0x1B872, PRG bank 13 $B862)","いまの　バイブレーションを　わすれないことだ！
+つぎに　あうまでに　もっと　パワーバランスを
+つけておくように。　わかったかな？
+","Don't forget the vibrations you have now! By the time we next meet, build up more power balance. Do you understand?",Don't forget the vibrations you have now! Work on your power balance before we meet again. Understood?
+"D13_B8A4 (file 0x1B8B4, PRG bank 13 $B8A4)","ほう　なかなか　バイブレーションは　よかったぞ！だからといって　かしん　は　きんもつだ。
+しょしんに　かえる。　これが　だいじだ！
+","Oh, your vibrations were quite good! But that said, overconfidence is forbidden. Return to the beginner's mind. This is what matters!","Oh-ho, impressive vibrations! But do not grow overconfident.{P}Keep a beginner's mind. That is what matters!"
+"D13_B8E7 (file 0x1B8F7, PRG bank 13 $B8E7)","よし　そのちょうしだ！
+　む　の　きょうちに　なるまで　マインドパワーをきたえることが　だいじだ。
+","Good, that's the way! Training your Mind Power until you reach the state of nothingness is what matters.","Good, keep it up! What matters is training your Mind Power until you reach a state of no-mind."
+"D13_B91A (file 0x1B92A, PRG bank 13 $B91A)","バイブレーションは　わるくは　なかったぞ！
+しかし　わたしと　くらべると　まだまだ…………
+
+","Your vibrations weren't bad! But compared to me, still not yet…","Your vibrations were not bad! Still, next to mine, not even close…"
+"D13_B94A (file 0x1B95A, PRG bank 13 $B94A)","よし　なかなか　よかったぞ！
+しかし　もうちょっと　よゆうが　あると
+いいんだが…………
+","Good, quite good! But if only you had a bit more composure…","Good, quite good! But I'd like to see a little more composure…"
+"D13_B978 (file 0x1B988, PRG bank 13 $B978)","だいぶ　かんかくが　つかめた　ようだね。
+このちょうしで　がんばるんだ！
+
+",It seems you've gotten a good grasp of the feeling. Keep it up at this pace!,Looks like you've really got the feel of it now. Keep it up!
+"D13_B99F (file 0x1B9AF, PRG bank 13 $B99F)","よーしよし！
+いまの　かんかくを　わすれるな！
+
+","Good, good! Don't forget the feeling you have now!","Good, very good! Don't forget that feeling!"
+"D13_B9B9 (file 0x1B9C9, PRG bank 13 $B9B9)","そう　それだ！
+あとは　コンスタントに　せいこう　させることだ。リラックスして　やることだね！
+","Yes, that's it! The rest is to succeed constantly. Do it relaxed!","Yes, that's it! Now do it consistently. Stay relaxed!"
+"D13_B9EA (file 0x1B9FA, PRG bank 13 $B9EA)","うーん…………　どうしたんだい？
+こんなことじゃ　エスパーとは　いえないぞ！
+
+",Hmm… what's wrong? With this you can't be called an Esper!,Hmm… what's wrong? You can't call yourself an Esper like this!
+"D13_BA13 (file 0x1BA23, PRG bank 13 $BA13)","なんだい　いまの　バイブレーションは？
+ちっとも　かんじるものが　なかったぞ！
+
+",What were those vibrations just now? I didn't feel anything at all!,What were those vibrations? I didn't feel a thing!
+"D13_BA3D (file 0x1BA4D, PRG bank 13 $BA3D)","すこし　バイブレーションが　みだれていたぞ！
+スクールで　めいそう　でも　やることだ。
+
+",Your vibrations were a little disordered! Do something like meditation at the School.,Your vibrations were scattered! Go meditate at the School.
+"D13_BA6B (file 0x1BA7B, PRG bank 13 $BA6B)","おや？　いまのは　なんだったのかな…………
+そんなことでは　しろうと　と　いわれるぞ！
+
+","Oh? What was that just now… With that, you'll be called an amateur!",What was that just now… Keep that up and they'll call you an amateur!
+"D13_BA99 (file 0x1BAA9, PRG bank 13 $BA99)","あれ？　それで　サイパワーを　つかっているのかい{NAME}さんの　パワーは　あんてい　してないね！もっと　バランスよく　やらないと…………
+",Huh? Is that you using Psi Power? {NAME}'s power isn't stable! If you don't do it with better balance…,"Call that Psi Power? You're unsteady, {NAME}! Work on your balance…"
+"D13_BADF (file 0x1BAEF, PRG bank 13 $BADF)","こらこら！
+てきとうに　やったら　だめだぞ！
+しんけんに　やることが　だいじだ！
+","Hey, hey! You mustn't do it carelessly! Doing it seriously is what matters!","Now, now! Don't be careless! You must take this seriously!"
+"D13_BB09 (file 0x1BB19, PRG bank 13 $BB09)","バイブレーションが　わるいぞ！
+もういっかい　スクールに　にゅうがく　したほうがいいんじゃ　ないの？
+",Your vibrations are bad! Wouldn't it be better to enroll in the School once more?,Your vibrations are poor! Maybe re-enroll at the School?
+"D13_BB3D (file 0x1BB4D, PRG bank 13 $BB3D)","ほう　　たいしたもんだ！
+よく　それで　スクールを　そつぎょう　できたね！
+
+","Oh, quite something! You managed to graduate from the School with that!","My, how impressive! You actually graduated from the School like that?"
+"CHR bank $47 (file 0x31C10), new-game prompt","まえのデータをけして
+あらたにゲームをはじめますか？",Erase the previous data and start a new game?,"Erase old data
+and start over?"
+"CHR bank $47, choices",いいえ / はい,No / Yes,NO / YES
+"PRG bank 7 +0000, name entry title",なまえとうろく,Name registration,Name
+"PRG bank 7 +0000, name entry",プレイヤー,Player,Player
+"PRG bank 7 +0000, name entry",とうろくしゅうりょう,Finish registration,Finish
+"PRG bank 7 +0000, name entry",メッセージスピードせってい,Message speed setting,Text Speed
+"PRG bank 7 +0000, name entry",もどる / おわる,Go back / End,Back / End
+"PRG bank 7 +0000, name entry grid",あいうえお … (kana grid),(kana table),"A-Z, a-z and . ' "" - ! ?"
+"PRG bank 7 +0206, speed box title",メッセージスピード,Message speed,Text Speed
+"PRG bank 7 +028C, rename prompt",なまえを　とうろく　しなおしますか？,Register the name again?,Change your name?
+"PRG bank 7 +028C, choices",いいえ / は　い,No / Yes,NO / YES
+"PRG bank 7 +1D8E, ending saying 1","うちゅう　は　バランス　のみだ。
+そこに　ふかさとしての　リズム　がある。","The universe is only balance. In it there is rhythm, as depth.","The universe is balance,
+with rhythm as its depth."
+"PRG bank 7 +1DCB, ending saying 2","くうかん　が　そくど　を　もつのであって
+ひかり　が　そくど　を　もつのではない。",It is space that has speed; it is not light that has speed.,"Space is what has speed.
+Light itself has none."
+"PRG bank 7 +1E18, ending saying 3","ぶっしつ　は　ひかり　を　めざし
+ひかり　は　ぶっしつ　を　うみつづける。","Matter aims for light, and light goes on giving birth to matter.","Matter reaches for light.
+Light creates matter anew."
+"PRG bank 7 +1E63, ending saying 4","せいめい　も　うちゅう　も
+ぜんたいとして　じぞくしている。",Both life and the universe persist as a whole.,"Life and the universe
+endure as one whole."
+"PRG bank 7 +1E94, ending saying 5",そんざい　とは　ちょっかん　の　だいめいしである。,Existence is a byword (pronoun) for intuition.,"Existence is another
+name for intuition."
+"PRG bank 7 +1EC8, ending saying 6",げんご　は　はどう　の　ていちゃくである。,Language is the fixing (settling) of waves/vibration.,"Words are vibrations
+that have settled."
+"CHR banks $42-$43 (file 0x30810), title attract text","このソフトは　あなたの　せんざいいしきの
+なかに　ねむっている　サイキックパワーを
+ひきだすために　かいはつされた、
+ちょうのうりょくかいはつソフトです。
+エスパーキヨタの　たいけんに　もとづいて
+げんみつに　シミュレートしているので
+あなたの　マインドレベル　にあわせて
+トレーニングを　すすめれば　かならず
+あなたも　ちょうのうりょくしゃに
+なれるでしょう……。","This software is psychic-development software, developed to draw out the psychic power sleeping in your subconscious. It simulates strictly, based on Esper Kiyota's experience, so if you advance the training to suit your Mind Level, you too will surely become a psychic...","This software was made
+to awaken the psychic
+power sleeping deep in
+your subconscious.
+It is closely modeled
+on Esper Kiyota's own
+experience. Train at
+your Mind Level, and
+you too will surely
+become a psychic…"
+"PRG bank 1 +09E3, panel label at PPU $2117",はい,Yes,YES
+"PRG bank 1 +09E3, panel label at PPU $2157",いいえ,No,NO
+"PRG bank 2 +1AA6, panel label at PPU $2117",はい,Yes,YES
+"PRG bank 2 +1AA6, panel label at PPU $2157",いいえ,No,NO
+"PRG bank 4 +1DCC, panel label at PPU $211A",はい,Yes,YES
+"PRG bank 4 +1DCC, panel label at PPU $215A",いいえ,No,NO
+"PRG bank 4 +1DD9, panel label at PPU $2117",はい,Yes,YES
+"PRG bank 4 +1DD9, panel label at PPU $2157",いいえ,No,NO
+"PRG bank 8 +18D6, panel label at PPU $2117",はい,Yes,YES
+"PRG bank 8 +18D6, panel label at PPU $2157",いいえ,No,NO
+"PRG bank 9 +1225, panel label at PPU $2117",はい,Yes,YES
+"PRG bank 9 +1225, panel label at PPU $2157",いいえ,No,NO
+"PRG bank 8 +139B, panel label at PPU $2364",はい　　いいえ,Yes / No,YES NO
+"PRG bank 1 +191D, panel label at PPU $22A4",すって………,Breathe in...,Inhale
+"PRG bank 1 +1927, panel label at PPU $22A4",とめて………,Hold it...,Hold…
+"PRG bank 1 +1931, panel label at PPU $22A4",はいて………,Breathe out...,Exhale
+"PRG bank 4 +1DB7, panel label at PPU $2117",まっぷ,Map,MAP
+"PRG bank 4 +1DB7, panel label at PPU $2157",しせつない,Facility guide,GUIDE
+"PRG bank 4 +1E10, panel label at PPU $2117",けんてい,Certification exam,EXAM
+"PRG bank 4 +1E10, panel label at PPU $2157",トレーニング,Training,TRAIN
+"PRG bank 4 +1E10, panel label at PPU $2197",トリップ,Trip (Mind Trip),TRIP
+"PRG bank 4 +1E38, panel label at PPU $2117",トリップ,Trip (Mind Trip),TRIP
+"PRG bank 4 +1E47, panel label at PPU $2117",トレーニング,Training,TRAIN
+"PRG bank 4 +1E47, panel label at PPU $2157",トリップ,Trip (Mind Trip),TRIP
+"PRG bank 4 +1E68, panel label at PPU $2117",とうし,Clairvoyance,CLAIR.
+"PRG bank 4 +1E68, panel label at PPU $2157",ねんりき,Psychokinesis,PK
+"PRG bank 4 +1E68, panel label at PPU $2197",よち,Precognition,PRECOG
+"PRG bank 4 +1E68, panel label at PPU $21D7",せっと,Set,SET
+"PRG bank 4 +1E82, panel label at PPU $2117",しせい,Posture,FORM
+"PRG bank 4 +1E82, panel label at PPU $2157",こきゅう,Breathing,BREATH
+"PRG bank 4 +1E82, panel label at PPU $2197",いめーじ,Image / visualization,IMAGE
+"PRG bank 4 +1E9E, panel label at PPU $2117",つかう,Use,USE
+"PRG bank 4 +1E9E, panel label at PPU $2157",つかわない,Don't use,DON'T
+"PRG bank 14 +1EC8, panel label at PPU $2117",つかう,Use,USE
+"PRG bank 14 +1EC8, panel label at PPU $2157",つかわない,Don't use,DON'T
+"PRG bank 5 +0620, panel label at PPU $2117",じょうほう,Information,INFO
+"PRG bank 5 +0620, panel label at PPU $2157",きろく,Record,RECORD
+"PRG bank 5 +0633, panel label at PPU $2117",じょうほう,Information,INFO
+"PRG bank 5 +0633, panel label at PPU $2157",きろく,Record,RECORD
+"PRG bank 5 +0633, panel label at PPU $2197",めいそう,Meditation,MEDIT.
+"PRG bank 5 +064D, panel label at PPU $2117",せーぶ,Save,SAVE
+"PRG bank 5 +065A, panel label at PPU $2117",せーぶ,Save,SAVE
+"PRG bank 5 +065A, panel label at PPU $2157",でーた,Data,DATA
+"PRG bank 8 +18E3, panel label at PPU $2117",れーす,Race,RACE
+"PRG bank 8 +18E3, panel label at PPU $2157",かーど,Card,CARD
+"PRG bank 8 +18E3, panel label at PPU $2197",ぱねる,Panel,PANEL
+"power-name tables (PRG banks 2, 6, 9), value token 3",とうし,Clairvoyance,Clairvoyance
+"power-name tables (PRG banks 2, 6, 9), value token 4",ねんりき,Psychokinesis,Psychokinesis
+"power-name tables (PRG banks 2, 6, 9), value token 5",よち,Precognition,Precognition

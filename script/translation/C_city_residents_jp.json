@@ -1,0 +1,898 @@
+[
+ {
+  "id": "D13_A67F",
+  "jp": "スプーンは　どこにでもあるから　いつでも\nねんりきの　トレーニングができるから　いいよね。さいしょは　なるべく　やわらかいスプーン　を\nつかったほうが　いいみたいだね。\nスプーンが　まがったときの　イメージをすると\nやりやすいよね。\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 117
+ },
+ {
+  "id": "D13_A6F5",
+  "jp": "{NAME}さんは　キヨタの　スプーンまげを\nみたことって　ある？　あれは　すごいよね。\nぼくたちとは　バイブレーションが　ちがうよね。\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 67
+ },
+ {
+  "id": "D13_A739",
+  "jp": "フアミコンを　やっているときって\nいしきの　レベルは　けっこう　いいらしいよ！\nじつは　エスパーキヨタも　ゲームがすきなんだ。\nここだけの　はなしだけどさ\nエスパーキヨタの　おやゆびには　たこ　があるんだフアミスタ　の　やりすぎだって　うわさだよ。　\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 126
+ },
+ {
+  "id": "D13_A7B8",
+  "jp": "みのまわりにある　なにか　ひとつのものを　じっとみつづけると　いつもとは　ちがった　せかいを\nかんじることが　できるように　なるよ。\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 67
+ },
+ {
+  "id": "D13_A7FC",
+  "jp": "デジャブ　の　ことを　しっているかい？\nはじめてきた　ばしょなのに　まえに　いちど\nきたことが　あるように　かんじたことってない？\nそれを　デジャブ　と　いうんだよね。\nあるしゅの　よち　のうりょく　とも　いえるね。\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 110
+ },
+ {
+  "id": "D13_A86B",
+  "jp": "{NAME}さんは　ゆうれい　は　なんだとおもう？\nぼくは　あるしゅの　いしきエネルギーたい　だと\nおもっているんだ。\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 58
+ },
+ {
+  "id": "D13_A8A6",
+  "jp": "{NAME}さんは　じぶんが　うまれてくる　まえの\nじょうたいを　かんじたことって　あるかな？\nたぶん　ひかり　のイメージに　ちかいと　おもうな\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 71
+ },
+ {
+  "id": "D13_A8EE",
+  "jp": "さいきん　からだを　きたえているんだ。\nこころと　からだの　バランスが　だいじだからね。{NAME}さんも　きたえた　ほうが　いいよ！\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 66
+ },
+ {
+  "id": "D13_A931",
+  "jp": "にんげんは　しんだら　どうなると　おもう？\nし　とは　おわりではなく　つぎの　じげんでの\nいしきの　しんか　を　いみしてるんじゃないかな\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 69
+ },
+ {
+  "id": "D13_A977",
+  "jp": "うちゅうは　ひとつだけじゃ　ないらしいね。\nいくつかの　うちゅうが　どうじに　そんざい\nしてるみたいだね。\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 54
+ },
+ {
+  "id": "D13_A9AE",
+  "jp": "{NAME}も　そろそろ　サイマスター　に　なれる\nレベルに　なったね！\nもう　ぼくも　かなわないよ。\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 50
+ },
+ {
+  "id": "D13_A9E1",
+  "jp": "おんなのこが　テレパシーで　かたりかけてきた\nしかし　{NAME}の　レベルでは　ビジョンを\nうけとることが　できないぞ！\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 60
+ },
+ {
+  "id": "D13_AA1E",
+  "jp": "ちょうのうりょくが　つかいこなせるようになると\nいままで　かんじることの　できなかった　ちがったせかいを　みることが　できるわよ！\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 66
+ },
+ {
+  "id": "D13_AA61",
+  "jp": "しぜんのもつ　バイブレーションって　いいわよね\nいしや　きに　いしきを　あわせると　いろいろな\nバイブを　かんじることが　できるわよ！\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 68
+ },
+ {
+  "id": "D13_AAA6",
+  "jp": "ちょうのうりょくには　あい　の　パワーが　ひつようなの！　じぶんを　あいし　にんげんを　あいし\nそして　うちゅうを　あいすることが　だいじだわ。\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 73
+ },
+ {
+  "id": "D13_AAF0",
+  "jp": "{NAME}さんて　ゆめを　よくみるほうかな？\nにんげんは　ねないと　いきては　いけないでしょ。だから　ゆめを　みるのも　ひつようよ。\nゆめ　の　せかいでは　みんなが　エスパーよ。\n\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 91
+ },
+ {
+  "id": "D13_AB4C",
+  "jp": "{NAME}さんが　め　でみている　せかいは　ほんとうのせかいの　いちぶにしか　すぎないのよ。\nでも　このせかいには　すべてが　あるの。おわかり\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 71
+ },
+ {
+  "id": "D13_AB94",
+  "jp": "わたしは　ほし　を　みるのが　すきなんだ。\nほし　を　みていると　じぶんは　うちゅうの\nいちぶ　なんだなって　かんじるのよね！\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 64
+ },
+ {
+  "id": "D13_ABD5",
+  "jp": "テレポーテーションは　むずかしいわね。\nいしきを　しゅうちゅう　しないと　なかなか\nできないわ。　{NAME}さんは　もうできる？\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 64
+ },
+ {
+  "id": "D13_AC16",
+  "jp": "このまちの　どこかに　パワースポットが　あるわ。そこには　テレポートで　いかなければ　ならないの{NAME}さんの　レベルでは　まだむりだわ！\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 70
+ },
+ {
+  "id": "D13_AC5D",
+  "jp": "ずいぶん　サイレベルが　あがったわね！\nもうちょっとで　パワースポットに　いけるわ。\nあと　ちょっと　だから　がんばってね！\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 63
+ },
+ {
+  "id": "D13_AC9D",
+  "jp": "{NAME}さんの　レベルなら　もう　テレポートが\nできるはずよ。\nパワースポット　には　いってみた？\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 50
+ },
+ {
+  "id": "D13_ACD0",
+  "jp": "あなたって　ふかい　バイブレーションの　もちぬしね。　なんだか　かんじるものが　あるわ！\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 46
+ },
+ {
+  "id": "D13_ACFF",
+  "jp": "ちょうのうりょくは　だれにでもある　のうりょくなのに　なんで　みんなは　それに　きづかないのかしら？　ふしぎよね。\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 58
+ },
+ {
+  "id": "D13_AD3A",
+  "jp": "あなたの　オーラ　とっても　きれいだわ！\nでも　まだ　わたしほどじゃ　ないけどね………\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 45
+ },
+ {
+  "id": "D13_AD68",
+  "jp": "ねえ　ねえ　テレパシーで　なんか　ビジョンを\nおくってみてよ！\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 33
+ },
+ {
+  "id": "D13_AD8A",
+  "jp": "あなたの　かんがえている　ビジョンが\nわかるように　なってきたわ！\nでも　あまり　へんな　ビジョンは　おくらないでね\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 59
+ },
+ {
+  "id": "D13_ADC6",
+  "jp": "わたしの　こいびとを　おしえましょうか？\nわたしを　おおきな　あいで　つつんでくれるの。\nかれのことを　にんげんは　うちゅう　といってるわ\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 70
+ },
+ {
+  "id": "D13_AE0D",
+  "jp": "こんど　いっしょに　マインドトリップ\nしましょうよ。\nいしき　の　なかで　セッション　してみない。\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 50
+ },
+ {
+  "id": "D13_AE40",
+  "jp": "ちょうのうりょくを　わるいことに　つかったら\nだめよ！　もっとも　あなたは　そんなことを\nするような　ひとじゃ　ないものね。\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 63
+ },
+ {
+  "id": "D13_AE80",
+  "jp": "あなた　さいきん　きれいな　め　になってきたね。め　をみると　そのひとの　こころが　わかるものなの。　わたしの　め　をじっと　みつめてみて。\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 71
+ },
+ {
+  "id": "D13_AEC8",
+  "jp": "こんど　ゆめ　のなかで　あいましょうよ。\n\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 23
+ },
+ {
+  "id": "D13_AEE0",
+  "jp": "ついに　あなたも　サイマスターね！\n\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 20
+ },
+ {
+  "id": "D13_AEF5",
+  "jp": "あそこにある　うごいている　おきものを　フイールしてみた？\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 31
+ },
+ {
+  "id": "D13_AF15",
+  "jp": "だれかに　サイパワーを　みせてと　たのまれたら\nやってみせるのが　このシテイーでの　エチケットよ\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 49
+ },
+ {
+  "id": "D13_AF47",
+  "jp": "あなたの　スプーンまげって　きれ　が　あるわね！\n\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 27
+ },
+ {
+  "id": "D13_AF63",
+  "jp": "{NAME}さんは　スプーンを　ねじれるように\nなったそうね。\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 31
+ },
+ {
+  "id": "D13_AF83",
+  "jp": "いつか　どこかで　あなたに　あったような\nき　がするわ！\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 30
+ },
+ {
+  "id": "D13_AFA2",
+  "jp": "あそこにある　ガムのはんばいきを　フイール\nしてみた？\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 29
+ },
+ {
+  "id": "D13_AFC0",
+  "jp": "{NAME}さんって　スプーンを　おれるように\nなったって　ほんとうなの？\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 37
+ },
+ {
+  "id": "D13_AFE6",
+  "jp": "すいぶん　ちょうしが　いいみたいね。\nうらやましいわ！\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 29
+ },
+ {
+  "id": "D13_B004",
+  "jp": "あそこにある　シンセサイザーを\nフイール　してみた？\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 28
+ },
+ {
+  "id": "D13_B021",
+  "jp": "もうすぐ　{NAME}さんも　サイマスターに\nなれそうね！\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 29
+ },
+ {
+  "id": "D13_B03F",
+  "jp": "あなたの　バイブレーションで　くうかんが\nゆがみそうよ。　さすがね！\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 36
+ },
+ {
+  "id": "D13_B064",
+  "jp": "サイランドで　ゲームを　やりすぎちゃったよ！\nちょうしに　のってると　サイパワーを　つかいすぎるから　{NAME}さんも　きをつけたほうがいいよ！\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 72
+ },
+ {
+  "id": "D13_B0AD",
+  "jp": "まだ　ゲームを　やってないのかい？\nそうか………　{NAME}さんの　レベルでは\nまだ　ゲームきを　コントロール　できないかもね。",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 63
+ },
+ {
+  "id": "D13_B0ED",
+  "jp": "サイランドで　れーすゲーム　を　やったかい？\nちょうのうりょくの　トレーニングにも　なるから\nたまには　やってみるのも　いいんじゃないの。\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 70
+ },
+ {
+  "id": "D13_B134",
+  "jp": "いま　ひとりで　しずかに　のんでいるんだ………\nわるいけど　じゃましないで　くれるかな。\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 46
+ },
+ {
+  "id": "D13_B163",
+  "jp": "サイランドで　かーどゲーム　を　やったかい？\nあのゲームは　1と5を　いつだすかが　だいじなんだ！　ちゃんと　とうしすれば　かてるけどね。\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 70
+ },
+ {
+  "id": "D13_B1AA",
+  "jp": "{NAME}さん　ちょうのうりょくを　つかうときは\nせいこうした　ビジョン　だけを　おもいえがいたほうが　いいぞ！\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 56
+ },
+ {
+  "id": "D13_B1E3",
+  "jp": "サイランドで　ぱねるゲームを　やったかい？\nちゃんと　よち　を　つかわないと　かてないぞ！\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 47
+ },
+ {
+  "id": "D13_B213",
+  "jp": "いっしょに　のむ　かい？\n\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 15
+ },
+ {
+  "id": "D13_B223",
+  "jp": "いまの　きぶんには　シンセサイザーの　おとが\nあってるね。\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 31
+ },
+ {
+  "id": "D13_B243",
+  "jp": "さあ　また　ゲームを　プレイしに　いくとするか。\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 26
+ },
+ {
+  "id": "D13_B25E",
+  "jp": "ずいぶん　エスパーらしい　バイブに　なってきたね\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 26
+ },
+ {
+  "id": "D13_B279",
+  "jp": "いどうちゅうに　グルー　に　ためされて\nしっぱいすると　おおきくポイントがさがるから\nきをつけてね　ねんじれば　あいずらくなるわよ！\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 67
+ },
+ {
+  "id": "D13_B2BD",
+  "jp": "レベルが　あがると\nポイントは　いちど　0　に\nもどるのよ。\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 31
+ },
+ {
+  "id": "D13_B2DD",
+  "jp": "がんばってね！\n\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 10
+ },
+ {
+  "id": "D13_B2E8",
+  "jp": "てんきが　いいから　きもちがいいね！\n\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 21
+ },
+ {
+  "id": "D13_B2FE",
+  "jp": "その　ちょうしよ！\n\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 12
+ },
+ {
+  "id": "D13_B30B",
+  "jp": "ずいぶん　ちょうしが　いいみたいね！\n\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 21
+ },
+ {
+  "id": "D13_B321",
+  "jp": "{NAME}さんが　ちょうのうりょくを　つかっているときって　とっても　いいかおを　しているわ！\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 48
+ },
+ {
+  "id": "D13_B352",
+  "jp": "ちょっと　つかれて　いるんじゃないの？\n\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 22
+ },
+ {
+  "id": "D13_B369",
+  "jp": "あまり　あせらないで　リラックスして　やってね！\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 26
+ },
+ {
+  "id": "D13_B384",
+  "jp": "わたしも　{NAME}さん　ぐらいの\nバイブレーションに　はやく　なりたいな！\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 39
+ },
+ {
+  "id": "D13_B3AC",
+  "jp": "わたしも　サイマスター　に　なりたいわ！\n\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 23
+ },
+ {
+  "id": "D13_B3C4",
+  "jp": "サイパワーを　つかうときは　1かいめで　せいこうさせるほうが　ポイントが　たかいよ。\n5かい　いじょうは　トライできないんだ。\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 64
+ },
+ {
+  "id": "D13_B405",
+  "jp": "レベルが　あがると\nサイイベントが　ふえるぞ！\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 25
+ },
+ {
+  "id": "D13_B41F",
+  "jp": "たまに　じぶんの　へやに　もどって　セーブ\nしたほうが　いいと　おもうよ。\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 39
+ },
+ {
+  "id": "D13_B447",
+  "jp": "ねんりきで　ものを　しゅつげん　させることを\nアポーツ　と　いうんだよね。\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 39
+ },
+ {
+  "id": "D13_B46F",
+  "jp": "たいようの　ひかり　を　あびながら\nちょうのうりょくの　トレーニングを　するのも\nきもちが　いいよね。\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 52
+ },
+ {
+  "id": "D13_B4A4",
+  "jp": "{NAME}さんは　ねんしゃを　やったことある？\nシャッターを　おさずに　ねんりきをつかって\nフイルムを　かんこう　させてしまうことなのよ！\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 69
+ },
+ {
+  "id": "D13_B4EA",
+  "jp": "うちゅう　から　ちきゅう　を　みたら\nちきゅう　も　ひとつの　ちいさな　ほしにしか\nみえないだろうね。\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 52
+ },
+ {
+  "id": "D13_B51F",
+  "jp": "サイパワーが　はたらいているときの　のうは　は\nアルフアーは　じょうたいに　なっているんだってねのうはそくていき　で　しらべると　わかるよ。\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 71
+ },
+ {
+  "id": "D13_B567",
+  "jp": "レベルが　あがると\nパワースポット　に　いけるそうだね。\nぼくも　まだ　いったことは　ないんだ。\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 49
+ },
+ {
+  "id": "D13_B599",
+  "jp": "パワースポットに　いくことが　できれば\nさいごの　サイイベントに　ちょうせん　できる\nらしいね。　でも　とても　むづかしいらしいよ。\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 67
+ },
+ {
+  "id": "D13_B5DD",
+  "jp": "いつも　バイブレーションが　いいね！\n\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 21
+ },
+ {
+  "id": "D13_B5F3",
+  "jp": "このパークには　ひこうせんの　かくのうこが\nあることを　{NAME}さんは　しってました？\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 45
+ },
+ {
+  "id": "D13_B621",
+  "jp": "いちど　フイール　したばしょでも　もどってきたときや　レベルが　あがったときは　もういっかい\nフイール　してみると　いいわよ。\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 64
+ },
+ {
+  "id": "D13_B662",
+  "jp": "ちょうのうりよくで　はな　を　さかせることも\nできるのよ。　{NAME}さんも　もうちょっと\nレベルが　あがったら　やってみると　いいわ！\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 68
+ },
+ {
+  "id": "D13_B6A7",
+  "jp": "{NAME}さんの　レベルなら　つぼみから　はなを\nさかせることが　できそうよ。　パークの　はなを\nさかせてみせてよ。　かだんを　フイール　してね！\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 73
+ },
+ {
+  "id": "D13_B6F1",
+  "jp": "たまに　めいそう　を　するのも　ひつようじゃないかな？\nバイブレーションが　あがるわよ！\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 45
+ },
+ {
+  "id": "D13_B71F",
+  "jp": "そらに　うかんでいる　くもって　きれいよね。\nくもを　みていると　ちきゅうの　バイブレーションを　かんじることが　できるわよ！\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 64
+ },
+ {
+  "id": "D13_B760",
+  "jp": "サイパワー　の　つかいすぎに　ちゅういしてね！\n\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 26
+ },
+ {
+  "id": "D13_B77B",
+  "jp": "ちょうのうりょくは　21せいきの　あたらしい\nかがくと　なるに　ちがいないわ！\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 41
+ },
+ {
+  "id": "D13_B7A5",
+  "jp": "いしきが　かくせい　してきたみたいね！\n\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 22
+ },
+ {
+  "id": "D13_B7BC",
+  "jp": "たまには　やすむことも　ひつようよ！\n\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 21
+ },
+ {
+  "id": "D13_B7D2",
+  "jp": "もう　あなたは　さいこうの　レベルに　なったわ！\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 25
+ },
+ {
+  "id": "D13_B7EC",
+  "jp": "なるほど…………\n\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 11
+ },
+ {
+  "id": "D13_B7F8",
+  "jp": "また　おあいしましょう。\n\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 15
+ },
+ {
+  "id": "D13_B808",
+  "jp": "…………………\n\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 10
+ },
+ {
+  "id": "D13_B813",
+  "jp": "それでは。\n\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 8
+ },
+ {
+  "id": "D13_B81C",
+  "jp": "ふーむ…………\n\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 10
+ },
+ {
+  "id": "D13_B827",
+  "jp": "バイブレーションが…………\n\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 16
+ },
+ {
+  "id": "D13_B838",
+  "jp": "そうか…………\n\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 10
+ },
+ {
+  "id": "D13_B843",
+  "jp": "{NAME}さんの　バイブレーションが\nよく　わかりました。\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 30
+ },
+ {
+  "id": "D13_B862",
+  "jp": "いまの　バイブレーションを　わすれないことだ！\nつぎに　あうまでに　もっと　パワーバランスを\nつけておくように。　わかったかな？\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 65
+ },
+ {
+  "id": "D13_B8A4",
+  "jp": "ほう　なかなか　バイブレーションは　よかったぞ！だからといって　かしん　は　きんもつだ。\nしょしんに　かえる。　これが　だいじだ！\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 66
+ },
+ {
+  "id": "D13_B8E7",
+  "jp": "よし　そのちょうしだ！\n　む　の　きょうちに　なるまで　マインドパワーをきたえることが　だいじだ。\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 50
+ },
+ {
+  "id": "D13_B91A",
+  "jp": "バイブレーションは　わるくは　なかったぞ！\nしかし　わたしと　くらべると　まだまだ…………\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 47
+ },
+ {
+  "id": "D13_B94A",
+  "jp": "よし　なかなか　よかったぞ！\nしかし　もうちょっと　よゆうが　あると\nいいんだが…………\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 45
+ },
+ {
+  "id": "D13_B978",
+  "jp": "だいぶ　かんかくが　つかめた　ようだね。\nこのちょうしで　がんばるんだ！\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 38
+ },
+ {
+  "id": "D13_B99F",
+  "jp": "よーしよし！\nいまの　かんかくを　わすれるな！\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 25
+ },
+ {
+  "id": "D13_B9B9",
+  "jp": "そう　それだ！\nあとは　コンスタントに　せいこう　させることだ。リラックスして　やることだね！\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 48
+ },
+ {
+  "id": "D13_B9EA",
+  "jp": "うーん…………　どうしたんだい？\nこんなことじゃ　エスパーとは　いえないぞ！\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 40
+ },
+ {
+  "id": "D13_BA13",
+  "jp": "なんだい　いまの　バイブレーションは？\nちっとも　かんじるものが　なかったぞ！\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 41
+ },
+ {
+  "id": "D13_BA3D",
+  "jp": "すこし　バイブレーションが　みだれていたぞ！\nスクールで　めいそう　でも　やることだ。\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 45
+ },
+ {
+  "id": "D13_BA6B",
+  "jp": "おや？　いまのは　なんだったのかな…………\nそんなことでは　しろうと　と　いわれるぞ！\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 45
+ },
+ {
+  "id": "D13_BA99",
+  "jp": "あれ？　それで　サイパワーを　つかっているのかい{NAME}さんの　パワーは　あんてい　してないね！もっと　バランスよく　やらないと…………\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 69
+ },
+ {
+  "id": "D13_BADF",
+  "jp": "こらこら！\nてきとうに　やったら　だめだぞ！\nしんけんに　やることが　だいじだ！\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 41
+ },
+ {
+  "id": "D13_BB09",
+  "jp": "バイブレーションが　わるいぞ！\nもういっかい　スクールに　にゅうがく　したほうがいいんじゃ　ないの？\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 51
+ },
+ {
+  "id": "D13_BB3D",
+  "jp": "ほう　　たいしたもんだ！\nよく　それで　スクールを　そつぎょう　できたね！\n\n",
+  "called_from": [
+   "Psychic City: talking to residents"
+  ],
+  "jp_bytes": 39
+ }
+]

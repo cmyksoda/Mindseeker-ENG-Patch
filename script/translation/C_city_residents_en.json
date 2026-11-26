@@ -1,0 +1,674 @@
+[
+ {
+  "id": "D13_A67F",
+  "literal": "Spoons are everywhere, so it's nice that you can do psychokinesis training anytime. At first it seems better to use spoons as soft as possible. It's easier if you picture the spoon when it has bent.",
+  "final": "Spoons are everywhere, so you can practice Psychokinesis any time. Nice, huh? Start with the softest spoons you can find. And it helps to picture the spoon already bent.",
+  "note": ""
+ },
+ {
+  "id": "D13_A6F5",
+  "literal": "{NAME}, have you ever seen Kiyota's spoon bending? That's amazing. His vibrations are different from ours.",
+  "final": "{NAME}, have you ever seen Kiyota bend a spoon? It's amazing! His vibrations are on a whole other level from ours.",
+  "note": ""
+ },
+ {
+  "id": "D13_A739",
+  "literal": "When you're playing the Famicom, your level of consciousness is apparently pretty good! Actually, Esper Kiyota likes games too. Just between us, Esper Kiyota has a callus on his thumb. Rumor says it's from too much Famista.",
+  "final": "Playing the Famicom is supposed to put your mind in a pretty good state! Esper Kiyota loves games too, you know. Just between us, he's got a callus on his thumb. Rumor says it's from too much Family Stadium!",
+  "note": "Famista is Namco's own baseball game Family Stadium (US: R.B.I. Baseball). Kept 'Family Stadium' so the Namco in-joke survives; 'Famista' alone would mean nothing to English players. Kept 'Famicom' rather than 'Nintendo' since this is the Famicom original."
+ },
+ {
+  "id": "D13_A7B8",
+  "literal": "If you keep staring at one thing around you, you become able to sense a world different from usual.",
+  "final": "Pick one thing near you and keep staring at it. After a while, you'll start to sense a world unlike the everyday one.",
+  "note": ""
+ },
+ {
+  "id": "D13_A7FC",
+  "literal": "Do you know about deja vu? Haven't you ever felt like you'd come to a place once before, even though it's your first time there? That's called deja vu. You could also call it a kind of precognitive ability.",
+  "final": "Do you know what deja vu is? Ever been somewhere for the first time, yet felt you'd been there before? That's deja vu. You could call it a kind of Precognition.",
+  "note": ""
+ },
+ {
+  "id": "D13_A86B",
+  "literal": "{NAME}, what do you think ghosts are? I think they're a kind of consciousness-energy body.",
+  "final": "{NAME}, what do you think ghosts are? I think they're a kind of energy body made of consciousness.",
+  "note": ""
+ },
+ {
+  "id": "D13_A8A6",
+  "literal": "{NAME}, have you ever sensed your state before you were born? I think it's probably close to an image of light.",
+  "final": "{NAME}, have you ever sensed what it was like before you were born? I bet it's something close to light.",
+  "note": ""
+ },
+ {
+  "id": "D13_A8EE",
+  "literal": "I've been training my body lately. Because the balance of mind and body is important. You should train too, {NAME}!",
+  "final": "I've been working out lately. Mind and body need to be in balance, you know. You should train too, {NAME}!",
+  "note": ""
+ },
+ {
+  "id": "D13_A931",
+  "literal": "What do you think happens to people when they die? Isn't death not an end, but the evolution of consciousness in the next dimension?",
+  "final": "What happens when we die? Maybe death isn't an end, but our mind evolving to the next dimension.",
+  "note": ""
+ },
+ {
+  "id": "D13_A977",
+  "literal": "Apparently the universe isn't just one. It seems several universes exist at the same time.",
+  "final": "I hear there isn't just one universe. Seems several of them exist side by side, all at once.",
+  "note": ""
+ },
+ {
+  "id": "D13_A9AE",
+  "literal": "{NAME}, you've reached the level where you can soon become a Psi Master! I'm no match for you anymore.",
+  "final": "{NAME}, you're almost at Psi Master level! I'm no match for you anymore.",
+  "note": ""
+ },
+ {
+  "id": "D13_A9E1",
+  "literal": "A girl spoke to you by telepathy. However, at {NAME}'s level, you can't receive the vision!",
+  "final": "A girl is reaching out by telepathy! But {NAME}'s level is too low to receive her vision!",
+  "note": "Narration (player's inner voice) for the first slot of the telepathic girl's set; her later lines are her messages."
+ },
+ {
+  "id": "D13_AA1E",
+  "literal": "Once you can master psychic power, you can see a different world you couldn't sense until now!",
+  "final": "Once you master your psychic powers, you'll see a whole new world you could never sense before!",
+  "note": ""
+ },
+ {
+  "id": "D13_AA61",
+  "literal": "Nature's vibrations are nice, aren't they? If you tune your consciousness to stones and trees, you can feel all kinds of vibes!",
+  "final": "Nature has such lovely vibrations! Tune your mind to stones and trees, and you can feel all kinds of vibes!",
+  "note": ""
+ },
+ {
+  "id": "D13_AAA6",
+  "literal": "Psychic power needs the power of love! Loving yourself, loving people, and loving the universe is what matters.",
+  "final": "Psychic power needs the power of love! Love yourself, love people, and love the universe. That's what matters.",
+  "note": ""
+ },
+ {
+  "id": "D13_AAF0",
+  "literal": "{NAME}, are you someone who dreams a lot? People can't live without sleeping, right? So dreaming is necessary too. In the world of dreams, everyone is an Esper.",
+  "final": "{NAME}, do you dream a lot? People can't live without sleep, right? So we need our dreams too. In the world of dreams, everyone is an Esper.",
+  "note": ""
+ },
+ {
+  "id": "D13_AB4C",
+  "literal": "The world you see with your eyes, {NAME}, is no more than a part of the real world. But in this world there is everything. Do you understand?",
+  "final": "The world you see with your eyes, {NAME}, is only a small part of the real one. Yet this world holds everything. Do you see?",
+  "note": "おわかり rendered 'Do you see?' for the gentle eye/see echo. 'This world' read as the real world, which holds everything."
+ },
+ {
+  "id": "D13_AB94",
+  "literal": "I like looking at the stars. When I look at the stars, I feel that I'm a part of the universe!",
+  "final": "I love looking at the stars. When I do, I feel like I'm a part of the universe!",
+  "note": ""
+ },
+ {
+  "id": "D13_ABD5",
+  "literal": "Teleportation is hard, isn't it? You can hardly do it unless you concentrate your consciousness. {NAME}, can you do it already?",
+  "final": "Teleportation is hard, isn't it? You can hardly do it without focusing your mind. Can you do it yet, {NAME}?",
+  "note": ""
+ },
+ {
+  "id": "D13_AC16",
+  "literal": "Somewhere in this town there is a Power Spot. You have to go there by teleport. At {NAME}'s level it's still impossible!",
+  "final": "Somewhere in this city there's a Power Spot. The only way there is to teleport. You're not at that level yet, {NAME}!",
+  "note": ""
+ },
+ {
+  "id": "D13_AC5D",
+  "literal": "Your Psi Level has gone up a lot! A little more and you can go to the Power Spot. Just a little more, so do your best!",
+  "final": "Your Psi Level has really gone up! You're almost able to reach the Power Spot. Just a little more, so hang in there!",
+  "note": ""
+ },
+ {
+  "id": "D13_AC9D",
+  "literal": "At {NAME}'s level, you should be able to teleport already. Have you tried going to the Power Spot?",
+  "final": "At your level, {NAME}, you should be able to teleport by now. Have you been to the Power Spot yet?",
+  "note": ""
+ },
+ {
+  "id": "D13_ACD0",
+  "literal": "You're the owner of deep vibrations. Somehow I feel something!",
+  "final": "Your vibrations run so deep. I can really feel something from you!",
+  "note": ""
+ },
+ {
+  "id": "D13_ACFF",
+  "literal": "Psychic power is an ability everyone has, so why doesn't everyone notice it? It's strange, isn't it?",
+  "final": "Everyone has psychic power, so why doesn't anybody notice it? Isn't that strange?",
+  "note": ""
+ },
+ {
+  "id": "D13_AD3A",
+  "literal": "Your aura is very beautiful! But it's still not as much as mine…",
+  "final": "Your aura is so beautiful! Not quite as beautiful as mine, though…",
+  "note": ""
+ },
+ {
+  "id": "D13_AD68",
+  "literal": "Hey, hey, try sending me some vision by telepathy!",
+  "final": "Hey, hey! Send me a vision by telepathy!",
+  "note": ""
+ },
+ {
+  "id": "D13_AD8A",
+  "literal": "I've started to understand the visions you're thinking of! But don't send me too-strange visions, okay?",
+  "final": "I'm starting to pick up the visions you're thinking of! But don't send me anything too weird, okay?",
+  "note": ""
+ },
+ {
+  "id": "D13_ADC6",
+  "literal": "Shall I tell you about my lover? He wraps me in great love. Humans call him 'the universe.'",
+  "final": "Shall I tell you who my sweetheart is? He wraps me up in a great big love. Humans call him the universe.",
+  "note": "Kept her odd 'humans call him' (にんげんは) for the mystic flavor. 'Sweetheart' over 'lover' to stay PG."
+ },
+ {
+  "id": "D13_AE0D",
+  "literal": "Let's do a Mind Trip together sometime. Won't you try a session inside consciousness?",
+  "final": "Let's take a Mind Trip together sometime. How about a little session, mind to mind?",
+  "note": "セッション may be a music-style jam session. Options: 'jam session in the world of consciousness' (long), 'session, mind to mind' (chosen, short and PG)."
+ },
+ {
+  "id": "D13_AE40",
+  "literal": "You mustn't use psychic power for bad things! Though you're not the kind of person who'd do that anyway.",
+  "final": "You mustn't use psychic powers for bad things! Not that you're the type to do that, of course.",
+  "note": ""
+ },
+ {
+  "id": "D13_AE80",
+  "literal": "Your eyes have become beautiful lately. Looking at someone's eyes, you can understand their heart. Try gazing steadily into my eyes.",
+  "final": "Your eyes have grown so beautiful lately. The eyes show you a person's heart, you know. Gaze deep into mine.",
+  "note": ""
+ },
+ {
+  "id": "D13_AEC8",
+  "literal": "Let's meet in a dream sometime.",
+  "final": "Let's meet in a dream sometime.",
+  "note": ""
+ },
+ {
+  "id": "D13_AEE0",
+  "literal": "At last, you too are a Psi Master!",
+  "final": "You're finally a Psi Master!",
+  "note": ""
+ },
+ {
+  "id": "D13_AEF5",
+  "literal": "Have you tried to FEEL the moving ornament over there?",
+  "final": "Have you tried to FEEL that moving figurine over there?",
+  "note": "おきもの = ornament or figurine. Chose 'figurine'; check against the Salon graphics if possible."
+ },
+ {
+  "id": "D13_AF15",
+  "literal": "If someone asks you to show them your Psi Power, showing them is the etiquette in this City.",
+  "final": "In this City, if someone asks to see your Psi Power, it's good manners to show them.",
+  "note": ""
+ },
+ {
+  "id": "D13_AF47",
+  "literal": "Your spoon bending has sharpness!",
+  "final": "Your spoon bending is so sharp!",
+  "note": "きれ = crispness, sharpness of technique."
+ },
+ {
+  "id": "D13_AF63",
+  "literal": "I hear {NAME} became able to twist spoons.",
+  "final": "I hear you can twist spoons now, {NAME}.",
+  "note": ""
+ },
+ {
+  "id": "D13_AF83",
+  "literal": "I feel like I've met you somewhere sometime!",
+  "final": "I feel like we've met before, somewhere, sometime!",
+  "note": ""
+ },
+ {
+  "id": "D13_AFA2",
+  "literal": "Have you tried to FEEL the gum vending machine over there?",
+  "final": "Have you tried to FEEL the gum machine over there?",
+  "note": ""
+ },
+ {
+  "id": "D13_AFC0",
+  "literal": "Is it true that {NAME} became able to break spoons?",
+  "final": "{NAME}, is it true you can snap spoons in two now?",
+  "note": ""
+ },
+ {
+  "id": "D13_AFE6",
+  "literal": "You seem to be in very good form. I envy you!",
+  "final": "You seem to be in great form. I'm so jealous!",
+  "note": "すいぶん is a typo for ずいぶん in the original."
+ },
+ {
+  "id": "D13_B004",
+  "literal": "Have you tried to FEEL the synthesizer over there?",
+  "final": "Have you tried to FEEL the synthesizer over there?",
+  "note": ""
+ },
+ {
+  "id": "D13_B021",
+  "literal": "{NAME} also looks like they can become a Psi Master soon!",
+  "final": "You're almost ready to be a Psi Master, {NAME}!",
+  "note": ""
+ },
+ {
+  "id": "D13_B03F",
+  "literal": "Space looks like it will warp with your vibrations. As expected!",
+  "final": "Your vibrations could warp space itself. Just what I'd expect from you!",
+  "note": ""
+ },
+ {
+  "id": "D13_B064",
+  "literal": "I played too many games at Psi Land! If you get carried away you use too much Psi Power, so you'd better be careful too, {NAME}!",
+  "final": "I went overboard on the games at Psi Land! Get carried away and you'll use up too much Psi Power, so be careful, {NAME}!",
+  "note": ""
+ },
+ {
+  "id": "D13_B0AD",
+  "literal": "You haven't played the games yet? I see… At {NAME}'s level, maybe you can't control the game machines yet.",
+  "final": "You haven't tried the games yet? I see… At your level, {NAME}, you probably can't control the machines yet.",
+  "note": "Read as: the Psi Land machines are worked by psychic power, so a low level can't run them."
+ },
+ {
+  "id": "D13_B0ED",
+  "literal": "Have you played the race game at Psi Land? It's also psychic power training, so isn't it good to try it once in a while?",
+  "final": "Have you played the race game at Psi Land? It's good psychic training too, so why not give it a go now and then?",
+  "note": ""
+ },
+ {
+  "id": "D13_B134",
+  "literal": "Right now I'm drinking quietly alone… Sorry, but could you not bother me?",
+  "final": "I'm having a quiet drink by myself… Sorry, but would you mind leaving me be?",
+  "note": ""
+ },
+ {
+  "id": "D13_B163",
+  "literal": "Have you played the card game at Psi Land? In that game, when you play the 1 and 5 is what matters! If you use Clairvoyance properly you can win, though.",
+  "final": "Have you played the card game at Psi Land? The key is when to play your 1 and 5! Use Clairvoyance right and you'll win.",
+  "note": "Assumes 1 and 5 are cards in your hand. Worth a check against the card game's rules in chunk D."
+ },
+ {
+  "id": "D13_B1AA",
+  "literal": "{NAME}, when using psychic power, you should picture only the vision of success!",
+  "final": "{NAME}, when you use ESP, picture nothing but a vision of success!",
+  "note": ""
+ },
+ {
+  "id": "D13_B1E3",
+  "literal": "Have you played the panel game at Psi Land? You can't win unless you use Precognition properly!",
+  "final": "Have you played the panel game at Psi Land? You can't win unless you use Precognition properly!",
+  "note": ""
+ },
+ {
+  "id": "D13_B213",
+  "literal": "Will you drink with me?",
+  "final": "Care to join me for a drink?",
+  "note": ""
+ },
+ {
+  "id": "D13_B223",
+  "literal": "The sound of the synthesizer suits my current mood.",
+  "final": "That synthesizer sound really suits my mood right now.",
+  "note": ""
+ },
+ {
+  "id": "D13_B243",
+  "literal": "Well, I guess I'll go play games again.",
+  "final": "Well, guess I'll go play some more games.",
+  "note": ""
+ },
+ {
+  "id": "D13_B25E",
+  "literal": "Your vibes have become quite Esper-like.",
+  "final": "Your vibes are starting to feel like a real Esper's.",
+  "note": ""
+ },
+ {
+  "id": "D13_B279",
+  "literal": "If Guru tests you while traveling and you fail, your points drop a lot, so be careful. If you concentrate your will, he becomes harder to meet!",
+  "final": "If Guru tests you on the road and you fail, you'll lose a lot of points, so watch out! Wish hard and you'll meet him less often!",
+  "note": "ねんじれば あいずらくなる: 'if you will it (念じる), he gets harder to run into'. Possibly a real mechanic (holding a button while traveling?); worth a check in-game."
+ },
+ {
+  "id": "D13_B2BD",
+  "literal": "When your level goes up, your points return to 0 once.",
+  "final": "When your level goes up, your points reset to 0.",
+  "note": ""
+ },
+ {
+  "id": "D13_B2DD",
+  "literal": "Do your best!",
+  "final": "Good luck!",
+  "note": ""
+ },
+ {
+  "id": "D13_B2E8",
+  "literal": "The weather is nice, so it feels good!",
+  "final": "The weather's so nice, it feels wonderful!",
+  "note": ""
+ },
+ {
+  "id": "D13_B2FE",
+  "literal": "That's the way!",
+  "final": "That's the spirit!",
+  "note": ""
+ },
+ {
+  "id": "D13_B30B",
+  "literal": "You seem to be in very good form!",
+  "final": "Looks like you're in great form!",
+  "note": ""
+ },
+ {
+  "id": "D13_B321",
+  "literal": "When {NAME} is using psychic power, you have a really good face!",
+  "final": "You get such a wonderful look on your face when you use your psychic powers, {NAME}!",
+  "note": ""
+ },
+ {
+  "id": "D13_B352",
+  "literal": "Aren't you a little tired?",
+  "final": "Aren't you a little tired?",
+  "note": ""
+ },
+ {
+  "id": "D13_B369",
+  "literal": "Don't be too impatient, relax and do it!",
+  "final": "Don't rush it. Just relax and take your time!",
+  "note": ""
+ },
+ {
+  "id": "D13_B384",
+  "literal": "I want to quickly reach vibrations like {NAME}'s too!",
+  "final": "I wish my vibrations were as strong as yours, {NAME}!",
+  "note": ""
+ },
+ {
+  "id": "D13_B3AC",
+  "literal": "I want to become a Psi Master too!",
+  "final": "I want to be a Psi Master too!",
+  "note": ""
+ },
+ {
+  "id": "D13_B3C4",
+  "literal": "When using Psi Power, succeeding on the first try gives higher points. You can't try 5 times or more.",
+  "final": "When you use Psi Power, you score more points if you succeed on the first try. And you can't try more than five times.",
+  "note": "5かい いじょうは トライできない strictly means 'not 5 or more' (so 4 max), but colloquially often 'no more than 5'. Chose 'more than five'; please verify the real try limit in-game."
+ },
+ {
+  "id": "D13_B405",
+  "literal": "When your level goes up, Psi Events increase!",
+  "final": "Raise your level and you'll find more Psi Events!",
+  "note": ""
+ },
+ {
+  "id": "D13_B41F",
+  "literal": "I think you should go back to your own room once in a while and save.",
+  "final": "I think you should head back to your room to save now and then.",
+  "note": ""
+ },
+ {
+  "id": "D13_B447",
+  "literal": "Making an object appear with psychokinesis is called an 'apport,' isn't it.",
+  "final": "Making an object appear with Psychokinesis is called an \"apport.\"",
+  "note": "アポーツ = apport, the parapsychology term."
+ },
+ {
+  "id": "D13_B46F",
+  "literal": "Doing psychic power training while bathing in the sunlight feels good too, doesn't it.",
+  "final": "Doing psychic training while soaking up the sunshine feels great, doesn't it?",
+  "note": ""
+ },
+ {
+  "id": "D13_B4A4",
+  "literal": "{NAME}, have you ever done nensha? It's making film get exposed using psychokinesis without pressing the shutter!",
+  "final": "{NAME}, have you ever tried thoughtography? It's using Psychokinesis to expose film without pressing the shutter!",
+  "note": "ねんしゃ = 念写, nensha, known in English as thoughtography (psychic photography)."
+ },
+ {
+  "id": "D13_B4EA",
+  "literal": "If you looked at the Earth from space, the Earth would probably look like nothing but one small star.",
+  "final": "Seen from space, I bet the Earth looks like just one tiny planet.",
+  "note": "ほし here = planet (the Earth); 'star' would read oddly."
+ },
+ {
+  "id": "D13_B51F",
+  "literal": "They say that when Psi Power is working, your brain waves are in an alpha-wave state. You can tell if you examine them with a brain-wave meter.",
+  "final": "When Psi Power is at work, your brain waves go into an alpha state, they say. You can see it on a brain-wave meter.",
+  "note": "アルフアーは じょうたい = alpha-wave (アルファー波) state, written in kana."
+ },
+ {
+  "id": "D13_B567",
+  "literal": "I hear when your level goes up you can go to the Power Spot. I haven't been there yet either.",
+  "final": "I hear you can go to the Power Spot once your level is high enough. I've never been there myself.",
+  "note": ""
+ },
+ {
+  "id": "D13_B599",
+  "literal": "It seems if you can go to the Power Spot, you can challenge the final Psi Event. But it seems very difficult.",
+  "final": "They say if you can reach the Power Spot, you can take on the final Psi Event. But I hear it's really tough.",
+  "note": ""
+ },
+ {
+  "id": "D13_B5DD",
+  "literal": "Your vibrations are always good!",
+  "final": "Your vibrations are always so good!",
+  "note": ""
+ },
+ {
+  "id": "D13_B5F3",
+  "literal": "Did you know, {NAME}, that there's an airship hangar in this park?",
+  "final": "{NAME}, did you know there's an airship hangar in this park?",
+  "note": ""
+ },
+ {
+  "id": "D13_B621",
+  "literal": "Even at places you've FELT once, when you come back or when your level goes up, it's good to try FEEL once more.",
+  "final": "Even if you've already used FEEL somewhere, try it again when you come back or after your level goes up!",
+  "note": ""
+ },
+ {
+  "id": "D13_B662",
+  "literal": "You can also make flowers bloom with psychic power. {NAME}, once your level goes up a little more, you should try it!",
+  "final": "With psychic power, you can even make flowers bloom. Once your level's a bit higher, give it a try, {NAME}!",
+  "note": "ちょうのうりよく (small yo missing) is a typo in the original."
+ },
+ {
+  "id": "D13_B6A7",
+  "literal": "At {NAME}'s level, it seems you could make flowers bloom from buds. Show me by making the park's flowers bloom. FEEL the flower bed!",
+  "final": "At your level, {NAME}, you should be able to make buds bloom. Show me with the park's flowers. Just FEEL the flower bed!",
+  "note": ""
+ },
+ {
+  "id": "D13_B6F1",
+  "literal": "Isn't it necessary to meditate once in a while? Your vibrations will rise!",
+  "final": "Don't you think you need to meditate now and then? It'll raise your vibrations!",
+  "note": ""
+ },
+ {
+  "id": "D13_B71F",
+  "literal": "The clouds floating in the sky are beautiful, aren't they. When you look at the clouds, you can feel the Earth's vibrations!",
+  "final": "Aren't the clouds floating in the sky lovely? Watching them, you can feel the Earth's vibrations!",
+  "note": ""
+ },
+ {
+  "id": "D13_B760",
+  "literal": "Be careful of using too much Psi Power!",
+  "final": "Be careful not to use too much Psi Power!",
+  "note": ""
+ },
+ {
+  "id": "D13_B77B",
+  "literal": "Psychic power will surely become the new science of the 21st century!",
+  "final": "Psychic power is sure to be the new science of the 21st century!",
+  "note": ""
+ },
+ {
+  "id": "D13_B7A5",
+  "literal": "It seems your consciousness has begun to awaken!",
+  "final": "Looks like your consciousness is awakening!",
+  "note": ""
+ },
+ {
+  "id": "D13_B7BC",
+  "literal": "Resting once in a while is necessary too!",
+  "final": "You need to rest once in a while!",
+  "note": ""
+ },
+ {
+  "id": "D13_B7D2",
+  "literal": "You have now reached the highest level!",
+  "final": "You've reached the very highest level now!",
+  "note": ""
+ },
+ {
+  "id": "D13_B7EC",
+  "literal": "I see…",
+  "final": "I see…",
+  "note": ""
+ },
+ {
+  "id": "D13_B7F8",
+  "literal": "Let's meet again.",
+  "final": "Until we meet again.",
+  "note": ""
+ },
+ {
+  "id": "D13_B808",
+  "literal": "…",
+  "final": "…",
+  "note": "Original is a long row of ellipses; one … character per the brief."
+ },
+ {
+  "id": "D13_B813",
+  "literal": "Well then.",
+  "final": "Well then.",
+  "note": ""
+ },
+ {
+  "id": "D13_B81C",
+  "literal": "Hmm…",
+  "final": "Hmm…",
+  "note": ""
+ },
+ {
+  "id": "D13_B827",
+  "literal": "The vibrations…",
+  "final": "Those vibrations…",
+  "note": ""
+ },
+ {
+  "id": "D13_B838",
+  "literal": "I see… (so that's it)",
+  "final": "So that's how it is…",
+  "note": "Distinct from B7EC なるほど ('I see…') on purpose."
+ },
+ {
+  "id": "D13_B843",
+  "literal": "I understood {NAME}'s vibrations well.",
+  "final": "I have a good sense of your vibrations now, {NAME}.",
+  "note": ""
+ },
+ {
+  "id": "D13_B862",
+  "literal": "Don't forget the vibrations you have now! By the time we next meet, build up more power balance. Do you understand?",
+  "final": "Don't forget the vibrations you have now! Work on your power balance before we meet again. Understood?",
+  "note": "B862 to BB3D read as a stern veteran's verdicts after you show your Psi Power (success group, then failure group). Voiced stern-but-fair without naming a speaker."
+ },
+ {
+  "id": "D13_B8A4",
+  "literal": "Oh, your vibrations were quite good! But that said, overconfidence is forbidden. Return to the beginner's mind. This is what matters!",
+  "final": "Oh-ho, quite good vibrations! Even so, beware of overconfidence. Keep a beginner's mind. That is what matters!",
+  "note": "しょしんに かえる = 初心に返る, 'return to your beginner's spirit'."
+ },
+ {
+  "id": "D13_B8E7",
+  "literal": "Good, that's the way! Training your Mind Power until you reach the state of nothingness is what matters.",
+  "final": "Good, keep it up! What matters is training your Mind Power until you reach a state of no-mind.",
+  "note": "む の きょうち = 無の境地. Options: 'state of nothingness', 'emptiness', 'no-mind' (chosen, the usual Zen rendering)."
+ },
+ {
+  "id": "D13_B91A",
+  "literal": "Your vibrations weren't bad! But compared to me, still not yet…",
+  "final": "Your vibrations weren't bad! But next to mine, you've still got a long way to go…",
+  "note": ""
+ },
+ {
+  "id": "D13_B94A",
+  "literal": "Good, quite good! But if only you had a bit more composure…",
+  "final": "Good, quite good! But I'd like to see a little more composure…",
+  "note": "よゆう = room to spare, composure. Chose 'composure'."
+ },
+ {
+  "id": "D13_B978",
+  "literal": "It seems you've gotten a good grasp of the feeling. Keep it up at this pace!",
+  "final": "Looks like you've really got the feel of it now. Keep it up!",
+  "note": ""
+ },
+ {
+  "id": "D13_B99F",
+  "literal": "Good, good! Don't forget the feeling you have now!",
+  "final": "Good, very good! Don't forget that feeling!",
+  "note": ""
+ },
+ {
+  "id": "D13_B9B9",
+  "literal": "Yes, that's it! The rest is to succeed constantly. Do it relaxed!",
+  "final": "Yes, that's it! Now you just need to succeed every time. Stay relaxed!",
+  "note": ""
+ },
+ {
+  "id": "D13_B9EA",
+  "literal": "Hmm… what's wrong? With this you can't be called an Esper!",
+  "final": "Hmm… what's wrong? You can't call yourself an Esper like this!",
+  "note": ""
+ },
+ {
+  "id": "D13_BA13",
+  "literal": "What were those vibrations just now? I didn't feel anything at all!",
+  "final": "What were those vibrations? I didn't feel a thing!",
+  "note": ""
+ },
+ {
+  "id": "D13_BA3D",
+  "literal": "Your vibrations were a little disordered! Do something like meditation at the School.",
+  "final": "Your vibrations were a bit scattered! Go meditate at the School or something.",
+  "note": ""
+ },
+ {
+  "id": "D13_BA6B",
+  "literal": "Oh? What was that just now… With that, you'll be called an amateur!",
+  "final": "Eh? What was that just now… Keep that up and people will call you an amateur!",
+  "note": ""
+ },
+ {
+  "id": "D13_BA99",
+  "literal": "Huh? Is that you using Psi Power? {NAME}'s power isn't stable! If you don't do it with better balance…",
+  "final": "Huh? Is that you using Psi Power? Your power is unsteady, {NAME}! You need better balance…",
+  "note": ""
+ },
+ {
+  "id": "D13_BADF",
+  "literal": "Hey, hey! You mustn't do it carelessly! Doing it seriously is what matters!",
+  "final": "Now, now! You can't just do it any old way! What matters is taking it seriously!",
+  "note": ""
+ },
+ {
+  "id": "D13_BB09",
+  "literal": "Your vibrations are bad! Wouldn't it be better to enroll in the School once more?",
+  "final": "Your vibrations are poor! Maybe you should enroll in the School all over again?",
+  "note": ""
+ },
+ {
+  "id": "D13_BB3D",
+  "literal": "Oh, quite something! You managed to graduate from the School with that!",
+  "final": "My, how impressive! And you actually graduated from the School like that?",
+  "note": "Sarcastic (it sits in the failure group). ほう たいしたもんだ is mock praise."
+ }
+]

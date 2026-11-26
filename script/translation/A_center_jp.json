@@ -1,0 +1,602 @@
+[
+ {
+  "id": "D04_875B",
+  "jp": "じしつに　もどって　やすみなさい。",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 17
+ },
+ {
+  "id": "D04_876D",
+  "jp": "コンピュータが　はなしかけてきた！\n「おはよう！　さあ\n　コンピュータルームへ　いきなさい。\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 47
+ },
+ {
+  "id": "D04_879D",
+  "jp": "コンピュータが　はなしかけてきた！\n「ねるまえに　めいそうを　やろう。",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 35
+ },
+ {
+  "id": "D04_87C1",
+  "jp": "マインドレベルが　かなり　いいみたいだね！\nきょうは　このスクールで　トレーニングする\nないようを　しょうかいするよ。\nコンピュータを　フイールしてごらん。\n\n\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 81
+ },
+ {
+  "id": "D04_8813",
+  "jp": "だいたい　トレーニングないようは　わかったかな？さあ　あしたからは　いよいよ\nほんかくてきな　トレーニングにはいるぞ！\nあしたからの　せいせきは　そつぎょうのときの\nきじゅんと　なるので　しんけんに　やるように！\n\nなお　くんれんの　データを　きろくする\nサイカードを　へやから　さがしてくるように。\n\n",
+  "called_from": [
+   "training center: tests/analysis"
+  ],
+  "jp_bytes": 152
+ },
+ {
+  "id": "D04_88AC",
+  "jp": "コンピュータが　はなしかけてきた！\n「ごくろうさま。　ゆっくりやすみましょう………\n\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 43
+ },
+ {
+  "id": "D04_88D8",
+  "jp": "コンピュータが　はなしかけてきた！\n「おはよう。　さあ　トレーニングデータを\n　にゅうりょくする　サイカードを　さがしなさい。\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 64
+ },
+ {
+  "id": "D04_8919",
+  "jp": "メッセージが　ながれてきたぞ！\n「サイカードを　さがしなさい…………\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 35
+ },
+ {
+  "id": "D04_893D",
+  "jp": "コンピュータが　はなしかけてきた！\n「あしたは　ねんりきの　トレーニングです。\n　きょうは　ゆっくり　やすみなさい……………\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 63
+ },
+ {
+  "id": "D04_897D",
+  "jp": "コンピュータが　はなしかけてきた！\n「おはよう　コンピュータルームにいきなさい。\n\nそのまえに　きのうの　トレーニングの　けっかを\nみたければ　コンピュータを　フイールしなさい。\n\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 91
+ },
+ {
+  "id": "D04_89D9",
+  "jp": "コンピュータが　はなしかけてきた！\n「あしたは　よちの　トレーニングです。\n　きょうは　ゆっくり　やすみなさい……………\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 61
+ },
+ {
+  "id": "D04_8A17",
+  "jp": "たしかに　きみのバイブを　かんじとったぞ！\nさあ　あしたは　いよいよ　そつぎょうけんていだ！そこで　あすの　けんていに　ひつような　　\nけんていようの　プレートを　シューターで\nおくるので　よちをつかって　とってくるんだ！\n\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 113
+ },
+ {
+  "id": "D04_8A89",
+  "jp": "ちょっと　けっかが　いまひとつだったね…………\nこれでは　けんていしけんを　うけさせられないぞ！もういっかい　トレーニングしてみよう。\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 68
+ },
+ {
+  "id": "D04_8ACE",
+  "jp": "メッセージが　ながれてきたぞ！\n「シューターをフイールしなさい………",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 34
+ },
+ {
+  "id": "D04_8AF1",
+  "jp": "{NAME}さん　こんにちは！\nさあ　これから　ちょうのうりょくの\nかいはつトレーニングを　はじめましょう。\nこのゲームは　エスパーキヨタのかんしゅうにより\nたのしみながら　ちょうのうりょくが　かいはつされるように　シミュレートされています。\nここは　ちょうのうりょくかいはつセンターです\nここで　{NAME}さんは　さまざまな　トレーニングを　することになります。\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 180
+ },
+ {
+  "id": "D04_8BA6",
+  "jp": "ここでは　ちょっかんが　だいじです\nなにか　かんじたら　フイールコマンドを\nつかってみましょう。\nもし　なにもかんじないときは　コンピュータを\nフイールして　じょうほうを　きくことも\nだいじです。\nそれでは　エスパーになるための　トレーニングを\nはじめることにしましょう。",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 136
+ },
+ {
+  "id": "D04_8C2F",
+  "jp": "ここは　じぶんの　へやです。",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 14
+ },
+ {
+  "id": "D04_8C3E",
+  "jp": "なにも　かんじないぞ！",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 11
+ },
+ {
+  "id": "D04_8C4A",
+  "jp": "これは　コンピュータだ！",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 12
+ },
+ {
+  "id": "D04_8C57",
+  "jp": "メッセージが　ながれてきたぞ！\n　「まず　コンピュータルームにいきなさい…………",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 40
+ },
+ {
+  "id": "D04_8C80",
+  "jp": "ここは　コンピュータルームだ。",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 15
+ },
+ {
+  "id": "D04_8C90",
+  "jp": "こんにちは　エスパーキヨタです。\n{NAME}が　エスパーになれるように\nぼくが　ガイドやくを　つとめよう。\nこれは　あくまでシミュレーションだけど\nこのせかいに　はいりこむことが　だいじだぞ！\nトレーニングは　まず　それからだ！\nイメージできるせかいは　すべて　げんじつの\nせかいに　おきかわる　ものなんだ。\nすべては　イメージが　つくっているんだ！\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 175
+ },
+ {
+  "id": "D04_8D40",
+  "jp": "きょうから　{NAME}は　ここで　さまざまな\nちょうのうりょく　かいはつトレーニングを\nつんでいくことになるんだ！\nとうし　ねんりき　よち　の　サイパワーを\nトレーニングすることになるぞ！　あせらずに\nおちついて　すすめることが　たいせつだ。\nとりあえず　きょうは　じしつに　もどって\nあしたからの　トレーニングに　そなえて\nゆっくり　やすもう。　それでは　またあおう！\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 185
+ },
+ {
+  "id": "D04_8DFA",
+  "jp": "コンピュータが　はなしかけてきた！\n「どの　カリキュラムを　おこなうかね？\n　メニューのなかから　えらびなさい……………",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 60
+ },
+ {
+  "id": "D04_8E37",
+  "jp": "コンピュータが　はなしかけてきた！\n「きょうの　レッスンはおわりです………………",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 40
+ },
+ {
+  "id": "D04_8E60",
+  "jp": "コンピュータが　はなしかけてきた！\n「あしたに　そなえて　ゆっくりやすみなさい………\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 43
+ },
+ {
+  "id": "D04_8E8C",
+  "jp": "メッセージが　ながれてきたぞ！\n　「はやく　コンピュータルームにいきなさい………",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 40
+ },
+ {
+  "id": "D04_8EB5",
+  "jp": "きょうは　リラクゼーションの　こうぎだよ\nしっかり　れんしゅうすれば\nマインドトリップも　じゆうじざいだ！\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 54
+ },
+ {
+  "id": "D04_8EEC",
+  "jp": "リラクゼーションは　できたかな？\nきょうの　レッスンは　これで　おわりだ。\nあしたは　ちょうのうりょくの　きそくんれんだ！\nあしたは　マインドパワーを　つかうから\nへやに　もどって　めいそう　してくるんだぞ！\n\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 106
+ },
+ {
+  "id": "D04_8F57",
+  "jp": "マインドレベルが　あがってきたね！\nおや　サイカードを　もっていないのかい？\nじぶんのへやにもどって　さがしてくるんだ！\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 61
+ },
+ {
+  "id": "D04_8F95",
+  "jp": "さあ　きょうから　ほんかくてきな　トレーニングをはじめるぞ！　きょうは　とうしの　くんれんだ！\n5かいで　1セット　に　なっているぞ。\nきょうから　トレーニングけっかが　きろくされる\nので　しっかり　やるように。\nそれでは　コンピュータを　フイールしよう。\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 129
+ },
+ {
+  "id": "D04_9017",
+  "jp": "メッセージだ！\n「きみは　もう　めいそうを　やったかな…………",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 31
+ },
+ {
+  "id": "D04_9037",
+  "jp": "いしきの　バイブレーションを\nあげるために　めいそうを　おこないます…………\nまず　へやの　しょうめいを　おとしてください。\nがめんに　マインドパターンがひょうじされますからゆったりとした　きぶんで　みつめます。\nイメージを　できるだけ　ひろげます…………\nリラクゼーションができたら\nＡボタンを　おしてください…………\n\n",
+  "called_from": [
+   "training center: tests/analysis"
+  ],
+  "jp_bytes": 162
+ },
+ {
+  "id": "D04_90DA",
+  "jp": "サイカードを　みつけたぞ！　さあ　このカードに\nトレーニングのデータを　にゅうりょくするための\nライターを　フイールしてみよう。\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 65
+ },
+ {
+  "id": "D04_911C",
+  "jp": "いきなり　メッセージがながれてきたぞ！\n「ちゃんと　めいそうを　してください…………",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 42
+ },
+ {
+  "id": "D04_9147",
+  "jp": "サイカードを　{NAME}は\nコンピュータに　さしこんだ！\n\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 29
+ },
+ {
+  "id": "D04_9165",
+  "jp": "これから　とうしの　トレーニングをはじめます\n5しゅるいの　カードが　ひょうじされたあとに\nうえのほうから　ふせたカードが　でてきます。\nいしきを　しゅうちゅうし\nふせた　カードのしゅるいを　とうしして\nこれだとおもうカードをえらび　Ａボタンをおしますあたったときや　はずれたときの　いしきの\nじょうたいを　かんじることが　たいせつです……\nなお　へいきん　ヒットすうは　4かいです。\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 193
+ },
+ {
+  "id": "D04_9227",
+  "jp": "とうしの　のうりょくが　すこしあがったみたいだねこの　トレーニングは　くりかえすことがだいじだ！やりかたを　くふうして　なんどもやってみよう。\nむりして　やりすぎるのもよくないので\nつかれたら　いちど　へやにもどって\nめいそうを　やってからくるのもいいぞ！\n",
+  "called_from": [
+   "training center: tests/analysis"
+  ],
+  "jp_bytes": 129
+ },
+ {
+  "id": "D04_92A9",
+  "jp": "{NAME}は　サイコライターをみつけた！",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 19
+ },
+ {
+  "id": "D04_92BD",
+  "jp": "メッセージが　ながれてきたぞ！\n「サイコライターを\n　みつけて　フイールしなさい。",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 41
+ },
+ {
+  "id": "D04_930E",
+  "jp": "ずいぶん　エスパーどが　あがってきたね。\nきょうは　ねんりき　の　トレーニングだ！\nでは　カードを　コンピュータにさしこめ。\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 63
+ },
+ {
+  "id": "D04_93B3",
+  "jp": "どうしたんだい？\nきょうのレッスンデータを　きろくしてこないと\nつぎの　トレーニングが　できないぞ！\nじぶんのへやに　もどって\nサイコライターを　さがしだして\nデータを　かきかえてくるんだ！\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 96
+ },
+ {
+  "id": "D04_9414",
+  "jp": "サイカードを　{NAME}は　さしこんだ！\nあたらしい　トレーニングデータが　はいっている\n\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 45
+ },
+ {
+  "id": "D04_9442",
+  "jp": "サイカードを　{NAME}は　さしこんだ！\nあたらしい　データが　はいっていないぞ\n\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 41
+ },
+ {
+  "id": "D04_946C",
+  "jp": "これから　ねんりきの　トレーニングをはじめます\nがめんに　ランプがひょうじされますので\nランプが　つくような　ビジョンをうかべます\nいしきを　しゅうちゅうし　Ａボタンをおします。\nねんりきが　はたらくと　ランプがつきます。\nなお　へいきん　ヒットすうは　20かいです。\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 135
+ },
+ {
+  "id": "D04_94F4",
+  "jp": "ねんりきの　のうりょくが　すこしあがったね\nこの　トレーニングも　くりかえすことがだいじだ！やりかたを　くふうして　なんどもやってみよう。\n",
+  "called_from": [
+   "training center: tests/analysis"
+  ],
+  "jp_bytes": 70
+ },
+ {
+  "id": "D04_953B",
+  "jp": "ドアに　サイロックがかかって　でれないぞ！",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 21
+ },
+ {
+  "id": "D04_9551",
+  "jp": "このドアは　サイロックがかかっている………",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 21
+ },
+ {
+  "id": "D04_9567",
+  "jp": "ずいぶん　エスパーどが　あがってきたね。\nきょうは　よち　の　トレーニングだ！\nでは　カードを　コンピュータにさしこめ。\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 61
+ },
+ {
+  "id": "D04_95A5",
+  "jp": "これから　よちの　トレーニングをはじめます\nがめんに　5つのランプがひょうじされます。\nそのうち　1つが　これから　ひかりますので\nどれがひかるか　よちのうりょくを　つかって\nカーソルで　えらび　Ａボタンをおしてください。\nなお　へいきん　ヒットすうは　4かいです。\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 134
+ },
+ {
+  "id": "D04_962C",
+  "jp": "よちの　のうりょくが　すこしあがったようだね\nこの　トレーニングも　くりかえすことがだいじだ！やりかたを　くふうして　なんどもやってみよう。\n",
+  "called_from": [
+   "training center: tests/analysis"
+  ],
+  "jp_bytes": 71
+ },
+ {
+  "id": "D04_9674",
+  "jp": "シューターだ！",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 7
+ },
+ {
+  "id": "D04_967C",
+  "jp": "けっかは　どうだったかな？\nへいきんは　エスパーどが　60てん\nとうし　ねんりき　よちは　それぞれ20てんだ。\nへいきんちを　コンスタントに　だせるように\nなることが　とても　たいせつなことなんだ！\nサイパワーを　ためすために　またやってみよう。\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 124
+ },
+ {
+  "id": "D04_96F9",
+  "jp": "どうしたんだい　けんていプレートがないと\nそつぎょうテストは　うけることができないぞ！\nよち　をつかって　とってこなくちゃだめだぞ。\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 67
+ },
+ {
+  "id": "D04_97E3",
+  "jp": "さあ　さいしょは　とうし　の　テストだ！\nおちついて　やることが　だいじだぞ。\n1かい　せいこうさせると　1てん　だぞ！\nきみの　バイブレーションは　ととのったかな！",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 83
+ },
+ {
+  "id": "D04_9837",
+  "jp": "つぎに　ねんりき　の　テストを　おこなう！\nバイブレーションが　みだれているなら\nはじめから　やりなおしたほうが　いいぞ！\nてんすうの　はいぶんは\n15　16　で　1てん\n17　18　で　2てん　というように\n15いじょうの　せいこうかいすうが　2づつ\nふえるごとに　てんすうが　1づつふえていく。\nでは　このまま　テストを　つづけるかい？",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 170
+ },
+ {
+  "id": "D04_98E2",
+  "jp": "うーん…………\nもうちょっとだったね。\nもういっかい　さいしょから　トライするかい？",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 42
+ },
+ {
+  "id": "D04_990D",
+  "jp": "バイブレーションが　みだれてきたぞ！\nいちど　こきゅうを　ととのえてから　きなさい。\nボタンを　おすと　はじまるぞ…………\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 62
+ },
+ {
+  "id": "D04_994C",
+  "jp": "さいごは　よち　の　テストだぞ！\nごうかくの　きじゅんは　トータルで\n17てん　いじょう　ひつようだぞ。\n1かい　せいこうさせると　1てんだ！\nこのまま　テストを　つづけるかい？",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 89
+ },
+ {
+  "id": "D04_99A6",
+  "jp": "いよいよ　そつぎょうテストだぞ！\n{NAME}の　マインドレベルなら　だいじょうぶだ\nゆったりとした　きもちで　ちょうせんするんだ！\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 65
+ },
+ {
+  "id": "D04_B9B8",
+  "jp": "<N><N><N>の　マインドレベルなら　だいじょうぶだ\nゆったりとした　きもちで　ちょうせんするんだ！\n",
+  "called_from": [
+   "shared engine code"
+  ],
+  "jp_bytes": 47
+ },
+ {
+  "id": "D04_99E8",
+  "jp": "おめでとう　{V}{V}ポイントで　ごうかくしたぞ！\nぎりぎりの　せいせきだったが　{NAME}を\nエスパーと　にんていし　そつぎょうをみとめる。\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 68
+ },
+ {
+  "id": "D04_9A2D",
+  "jp": "おめでとう　{V}{V}ポイントで　ごうかくしたぞ！\nせいせきは　ゆうしゅうだったぞ。　{NAME}を\nエスパーと　にんていし　そつぎょうをみとめる。\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 70
+ },
+ {
+  "id": "D04_9A74",
+  "jp": "おめでとう　{V}{V}ポイントで　ごうかくしたぞ！\nばつぐんの　せいせきだったね。　{NAME}を\nエスパーと　にんていし　そつぎょうをみとめる。\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 69
+ },
+ {
+  "id": "D04_9B3F",
+  "jp": "レベルが　あがれば　ぼくがコンタクトしている\nうちゅういしきたい　ゼネフの　ビジョンを\nかんじることが　できるように　なるかもしれない。つかれたら　たまに　じぶんのへやにもどって\nめいそうや　セーブをすることが　たいせつだ。\nつぎの　レベルまでの　ポイントも　きけるぞ！\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 136
+ },
+ {
+  "id": "D04_9BC8",
+  "jp": "バイブをあげたいときには　ここにもどってきて\nトレーニングを　おこなうのが　いいだろう。\nきろくをみれば　パワーのかくにんができるぞ！\nさあ　{NAME}の　あらたなるちょうせんだ！\nレベルが　あがったら　またあおう！！\n\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 110
+ },
+ {
+  "id": "D04_9C37",
+  "jp": "では　いままでの　トレーニングけっかを\nぶんせきしよう。　せいせきが　わるかったら\nトレーニングの　せっとモード　を　やるんだぞ！\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 66
+ },
+ {
+  "id": "D04_9C7A",
+  "jp": "さあ　それでは\nいまの　けっかを　ぶんせき　してみよう！\n\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 30
+ },
+ {
+  "id": "D04_9C99",
+  "jp": "{NAME}　どうだい　ちょうしは？\nきほんの　トレーニングも　わすれちゃだめだぞ！\n\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 42
+ },
+ {
+  "id": "D04_9CC4",
+  "jp": "{NAME}さんが　つぎに　レベルアップするには\nサイポイントが\n{V}{V}{V}{V}{V}{V}ひつようです。\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 45
+ },
+ {
+  "id": "D04_9CF2",
+  "jp": "{NAME}さんの　レベルは\nインフイニテイ。　つまり　むげんだいなのです。\nパワースポットはもうたいけんしましたか？！\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 59
+ },
+ {
+  "id": "D04_9D2E",
+  "jp": "これから　そつぎょうテストを　はじめます。\nとうし　ねんりき　よち　の　じゅんばんに\nしゅつだいされます。　17てんで　ごうかくです。それぞれの　サイパワーのバランスが　だいじです。エスパーキヨタが　{NAME}さんの　パワーを\nはんていします。　それでは　はじめましょう。\n",
+  "called_from": [
+   "training center main logic"
+  ],
+  "jp_bytes": 136
+ },
+ {
+  "id": "D04_9EED",
+  "jp": "トレーニングりょうが　すくないですね。\nトライすうが　すくないと　せいかくな\nデータぶんせきには　なりません。",
+  "called_from": [
+   "training center: tests/analysis"
+  ],
+  "jp_bytes": 55
+ },
+ {
+  "id": "D04_9F25",
+  "jp": "トータルでは　{V}{V}{V}{V}のパワーが　すぐれていますきょうは　あまり　トレーニングをやっていませんねきほんのトレーニングも　しっかりやりましょう。",
+  "called_from": [
+   "training center: tests/analysis"
+  ],
+  "jp_bytes": 71
+ },
+ {
+  "id": "D04_9F6D",
+  "jp": "トータルでは　{V}{V}{V}{V}のパワーが　すぐれていますきょうは　{V}{V}{V}{V}のちょうしが　いいようですね！パワーバランスを　とることが　だいじです。",
+  "called_from": [
+   "training center: tests/analysis"
+  ],
+  "jp_bytes": 69
+ }
+]

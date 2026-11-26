@@ -1,0 +1,278 @@
+[
+ {
+  "id": "D01_8A6F",
+  "literal": "There are 5 Psi Card insertion slots. Please use clairvoyance on the place where tomorrow's lesson data is. Choose the place you think it is with the cursor and confirm with the A Button.",
+  "final": "There are five Psi Card slots. Please use Clairvoyance to find the one holding tomorrow's lesson data. Choose it with the cursor, then press the A Button.",
+  "note": ""
+ },
+ {
+  "id": "D01_8AD2",
+  "literal": "Clairvoyance success! The data has been written onto the Psi Card!",
+  "final": "Clairvoyance success! The data is now on your Psi Card!",
+  "note": ""
+ },
+ {
+  "id": "D01_8AF2",
+  "literal": "Clairvoyance failure! Will you try again? However, the data's location will change.",
+  "final": "Clairvoyance failed! Would you like to try again? The data will move to a different slot, though.",
+  "note": ""
+ },
+ {
+  "id": "D01_8D38",
+  "literal": "There are 5 Chute outlets! It's necessary to foresee the place where the exam plate will fall! With the cursor, let's choose the place you feel is the one!",
+  "final": "The Chute has five outlets! Time to use Precognition and sense where the Exam Plate will drop. Pick the spot that feels right with the cursor!",
+  "note": "Plain-form narration (zo), so written as the player's inner voice. yochi made explicit as Precognition to match the success/fail lines after it."
+ },
+ {
+  "id": "D01_8D8F",
+  "literal": "Precognition success!",
+  "final": "Precognition success!",
+  "note": ""
+ },
+ {
+  "id": "D01_8D9B",
+  "literal": "Precognition failure! Will you try again?",
+  "final": "Precognition failed! Would you like to try again?",
+  "note": ""
+ },
+ {
+  "id": "D01_8FE1",
+  "literal": "It's necessary to undo the door's Psi Lock using psychokinesis. While willing the door to open, please press the A Button.",
+  "final": "You must release the door's Psi Lock with Psychokinesis. Please press the A Button while willing the door to open.",
+  "note": ""
+ },
+ {
+  "id": "D01_9026",
+  "literal": "The Psi Lock came off and the door opened!",
+  "final": "The Psi Lock gives way and the door opens!",
+  "note": ""
+ },
+ {
+  "id": "D01_903D",
+  "literal": "Psychokinesis failure! Will you try again?",
+  "final": "Psychokinesis failed! Would you like to try again?",
+  "note": ""
+ },
+ {
+  "id": "D01_9462",
+  "literal": "Well then, let's practice starting from the basic posture. Make the posture you think is most comfortable. Then, staying like that, put strength into your whole body! When you feel you can't bear it any more, release the strength from your whole body all at once. This is the relax pose! Now, let's practice once more. When you can do it properly, let's go on with the A Button.",
+  "final": "Let's start by practicing the basic posture. Get into whatever position feels most comfortable. Now, staying just like that, tense up your whole body! When you can't hold it any longer, let all that tension go at once. That's the relaxation pose! Okay, let's practice it once more. When you've got it, press the A Button to move on.",
+  "note": "rirakkusu no poozu: 'relaxation pose' to tie in with the glossary's relaxation."
+ },
+ {
+  "id": "D01_9510",
+  "literal": "Hey! It's no good if you don't practice properly! Do it once more, properly!",
+  "final": "Hey now, that's no good! You need to practice properly. Try it again, and really give it your all!",
+  "note": ""
+ },
+ {
+  "id": "D01_9538",
+  "literal": "Could you do the relax pose? Next is practice of the breathing method. Breathing is the entrance for tripping. First, intending to take energy into your body, slowly and deeply breathe in. Hold your breath like that for a little while... and then, a bit more slowly than when you breathed in, breathe out little by little. Without hurrying, repeating it many times is important! Now, let's practice along with the screen. To stop, press the B Button.",
+  "final": "Did you get the relaxation pose down? Next, let's practice breathing. Breathing is the doorway to a Mind Trip. First, breathe in slowly and deeply, as if you're drawing energy into your body. Hold your breath for a moment… then breathe out bit by bit, a little slower than you breathed in. Don't rush, and repeat it again and again. That's the key! Now let's practice along with the screen. Press the B Button when you want to stop.",
+  "note": "toripu rendered as the glossary's Mind Trip."
+ },
+ {
+  "id": "D01_9624",
+  "literal": "Did you feel the awakening of consciousness at least a little? That sensation is extremely important. Now, next is power-image practice! When you press the A Button, a ball is displayed. Stare intently at that ball without looking away. After a while the ball will start to blink! When the blinking starts, close your eyes. Then concentrate your consciousness on the ball's afterimage that you see when you close your eyes! Feeling the power the ball holds is important. To stop, press the B Button.",
+  "final": "Did you feel your mind begin to awaken, even a little? That feeling is very important. Now, next up is Power Image practice! Press the A Button and an orb will appear. Stare at it steadily without looking away. After a while, the orb will start to blink! When it does, close your eyes. Then focus your mind on the afterimage of the orb you see with your eyes closed! The key is to feel the orb's power. Press the B Button when you want to stop.",
+  "note": "tama: chose 'orb' over 'ball' for a little mystique. Change both lesson strings together if 'ball' is preferred (9624, 986E)."
+ },
+ {
+  "id": "D01_9718",
+  "literal": "Let's practice the basic posture. Make the posture you think is most comfortable. Then, staying like that, put strength into your whole body! When you feel you can't bear it any more, release the strength from your whole body all at once. This is the relax pose! Now, let's practice once more. When you can do it properly, let's finish with the A Button.",
+  "final": "Let's practice the basic posture. Get into whatever position feels most comfortable. Now, staying just like that, tense up your whole body! When you can't hold it any longer, let all that tension go at once. That's the relaxation pose! Okay, let's practice it once more. When you've got it, press the A Button to finish.",
+  "note": "Kept word-for-word with D01_9462 apart from the opening and closing, as in the Japanese."
+ },
+ {
+  "id": "D01_97BF",
+  "literal": "First, intending to take energy into your body, slowly and deeply breathe in. Hold your breath like that for a little while... and then, a bit more slowly than when you breathed in, breathe out little by little. Without hurrying, repeating it many times is important! Now, let's practice along with the screen. To stop, press the B Button.",
+  "final": "First, breathe in slowly and deeply, as if you're drawing energy into your body. Hold your breath for a moment… then breathe out bit by bit, a little slower than you breathed in. Don't rush, and repeat it again and again. That's the key! Now let's practice along with the screen. Press the B Button when you want to stop.",
+  "note": "Matches the body of D01_9538."
+ },
+ {
+  "id": "D01_986E",
+  "literal": "When you press the A Button, a ball is displayed. Stare intently at that ball without looking away. After a while the ball will start to blink! When the blinking starts, close your eyes. Then concentrate your consciousness on the ball's afterimage that you see when you close your eyes! Feeling the power the ball holds is important. To stop, press the B Button.",
+  "final": "Press the A Button and an orb will appear. Stare at it steadily without looking away. After a while, the orb will start to blink! When it does, close your eyes. Then focus your mind on the afterimage of the orb you see with your eyes closed! The key is to feel the orb's power. Press the B Button when you want to stop.",
+  "note": "Matches the body of D01_9624."
+ },
+ {
+  "id": "D03_96B5",
+  "literal": "Your vibrations are quite disordered! Please concentrate a little more. Let's do the basic training thoroughly.",
+  "final": "Your vibrations are quite unsettled! Please concentrate a little harder, and keep up your basic training.",
+  "note": "Polite desu/masu with no opening quote: treated as the Center's computer."
+ },
+ {
+  "id": "D03_96F8",
+  "literal": "Your condition isn't very good, is it! Your Esper Rating seems a little low. Let's do our best in the training from here on.",
+  "final": "You don't seem to be in very good form. Your Esper Rating is a little low. Please do your best in the training ahead.",
+  "note": ""
+ },
+ {
+  "id": "D03_9738",
+  "literal": "Your condition is pretty good! Let's make sure your Esper Rating doesn't fall below 60. Let's continue training at this pace.",
+  "final": "You're in rather good form! Try not to let your Esper Rating drop below 60. Please keep training at this pace.",
+  "note": ""
+ },
+ {
+  "id": "D03_9779",
+  "literal": "Your vibrations are very good! Please don't forget the sensation you have now. Let's continue training at this pace.",
+  "final": "Your vibrations are very good! Please remember how this feels. Keep training at this pace.",
+  "note": ""
+ },
+ {
+  "id": "D03_97BD",
+  "literal": "Those were amazing vibrations! You probably felt something. Something unusual may happen around you...",
+  "final": "What amazing vibrations! You must have felt something. Something unusual may happen around you…",
+  "note": ""
+ },
+ {
+  "id": "D05_A5B1",
+  "literal": "Is it all right to save?",
+  "final": "May I save your progress?",
+  "note": ""
+ },
+ {
+  "id": "D05_A5C0",
+  "literal": "Saving has finished.",
+  "final": "Save complete.",
+  "note": ""
+ },
+ {
+  "id": "D05_A5D3",
+  "literal": "Will you continue training?",
+  "final": "Would you like to continue training?",
+  "note": ""
+ },
+ {
+  "id": "D05_A5E4",
+  "literal": "Without pressing the Reset button, please turn off the power.",
+  "final": "Please turn off the power without pressing RESET.",
+  "note": "Faithful to the Japanese ('without pressing'), which is the opposite of the usual NES 'hold RESET while turning off'. Worth checking in an emulator if the save survives either way."
+ },
+ {
+  "id": "D05_A671",
+  "literal": "\"Relaxation is the basis of psychic power development. Please practice it repeatedly... The meaning of relaxation is removing the tension of consciousness and body by your own power. While still tense, you cannot exert psychic power well. Now then, please receive Esper Kiyota's instruction...",
+  "final": "\"Relaxation is the foundation of psychic development. Please practice it again and again… To relax means to release the tension in your mind and body by your own will. While you are tense, you cannot use your psychic powers well. Now, please receive guidance from Esper Kiyota…",
+  "note": "Opens with a quote mark in the Japanese and never closes it, so no closing quote."
+ },
+ {
+  "id": "D07_86C6",
+  "literal": "All right, your level went up! The next level-up is when you reach {V}{V}{V}{V}{V}{V}!",
+  "final": "All right, your level went up! You'll level up again when you reach {V}{V}{V}{V}{V}{V} points!",
+  "note": "Added 'points': D04_9CC4 shows this six-wide field is a Psi Point count."
+ },
+ {
+  "id": "D07_86F2",
+  "literal": "Imagining is the basis of psychic power! If you can't imagine, you can't freely master Psi Power! It's important to imagine not only visually but with all five senses. Ultimately, imagery beyond the five senses is needed! When your level goes up, let's meet again!",
+  "final": "Visualizing is the foundation of psychic power! If you can't picture things, you'll never have full command of your Psi Power! Don't just picture how things look, picture them with all five senses. In the end, you'll need to picture beyond the five senses! See you again when you level up!",
+  "note": ""
+ },
+ {
+  "id": "D07_878E",
+  "literal": "All things are vibrating! It's important to feel that oscillation, that is, vibrations, close at hand! When you tune your consciousness to the vibrations, you can feel various mysterious worlds, like hearing light and seeing sound! When your level goes up, let's meet again!",
+  "final": "Everything in the world is vibrating! It's important to feel those vibrations all around you. When you tune your mind to them, you can sense all sorts of wondrous things, like hearing light and seeing sound! See you again when you level up!",
+  "note": "shindou tsumari baibureeshon ('oscillation, in other words vibrations') collapses to one word in English."
+ },
+ {
+  "id": "D07_8820",
+  "literal": "Come to think of it, in a vision I felt, around 1993 quite a number of espers will appear! Depending on training, {NAME} too will awaken as an Esper, and eventually become able to talk with me by telepathy! When your level goes up, let's meet again!",
+  "final": "Oh, that reminds me. In one of my visions, a great many Espers appear around 1993! With enough training, {NAME}, you could awaken as an Esper too, and someday talk with me by telepathy! See you again when you level up!",
+  "note": ""
+ },
+ {
+  "id": "D07_88AE",
+  "literal": "In a vision I felt, around 2013 psychic power and science will become one. Psychic power will come to be put inside the frame of common sense. From here, a new evolution of humankind begins. {NAME} will experience it too! When your level goes up, let's meet again!",
+  "final": "In one of my visions, psychic power and science become one around 2013. Psychic power will become part of common sense. From there, a new evolution of humankind begins. And you'll live to see it, {NAME}! See you again when you level up!",
+  "note": ""
+ },
+ {
+  "id": "D07_8950",
+  "literal": "Time isn't proceeding linearly from past to future! Past and future are all contained in the present. When you concentrate your consciousness, you can feel the grains of time! When you tune your consciousness into the grains, you can feel various times! When your level goes up, let's meet again!",
+  "final": "Time doesn't run in a straight line from past to future! The past and the future are all part of the present. Focus your mind, and you can feel the grains of time! Tune your mind into a grain, and you can sense all kinds of times! See you again when you level up!",
+  "note": "jikan no tsubu: 'grains of time' (could also be 'particles of time'; grains felt warmer and plainer)."
+ },
+ {
+  "id": "D07_89F1",
+  "literal": "{NAME}, do you believe in space aliens? I've made contact a number of times. Whether you believe or not is up to you, though. In a vision I felt, around 2080 humankind will encounter life forms of other celestial bodies on a global scale! When your level goes up, let's meet again!",
+  "final": "{NAME}, do you believe in aliens? I've made contact a few times myself. Whether you believe it or not is up to you, of course. In one of my visions, around 2080, the whole world meets life from other planets! See you again when you level up!",
+  "note": ""
+ },
+ {
+  "id": "D07_8A92",
+  "literal": "Earth's population will keep increasing until about 8 billion people, and after that will probably decrease... When it has decreased to about 100 million people, humankind will become one, beyond the flesh! The Earth itself becomes one conscious entity. And then an evolution beyond the flesh begins... When your level goes up, let's meet again!",
+  "final": "The world's population will keep growing to about 8 billion, and after that it will shrink… When it falls to around 100 million, humanity will rise beyond the body and become one! The Earth itself will become a single consciousness. Then an evolution beyond the flesh will begin… See you again when you level up!",
+  "note": "80 oku = 8 billion, 1 oku = 100 million. Kept the numbers as is; the tone stays mystical rather than grim."
+ },
+ {
+  "id": "D07_8B3D",
+  "literal": "I'm in contact with a cosmic conscious entity called Zenef. This Zenef is not an alien, nor a ghost, nor a god. To compare, it's a pattern of life having evolved. You could probably say it's our future form. But Zenef is also still in the middle of evolution! When your level goes up, let's meet again!",
+  "final": "I'm in contact with a cosmic consciousness called Zenef. Zenef isn't an alien, a ghost, or a god. You could call it a pattern that life has evolved into. You might even say it's what we'll become someday. But Zenef is still evolving, too! See you again when you level up!",
+  "note": ""
+ },
+ {
+  "id": "D07_8BDD",
+  "literal": "The state in which several Zenefs became one and evolved, humankind has replaced with the word 'universe', you could say! The universe isn't something outside yourself, it's connected through {NAME}'s consciousness. In other words, {NAME} is the universe itself! When your level goes up, let's meet again!",
+  "final": "When several Zenefs join and evolve as one, you could say that's what humanity calls the universe! The universe isn't something outside of you. It's connected through your mind, {NAME}. In other words, {NAME}, you are the universe itself! See you again when you level up!",
+  "note": ""
+ },
+ {
+  "id": "D07_8C7F",
+  "literal": "{NAME}, you did well to persevere this far! As a result of passing the tough training, your level seems to have risen to the ultimate! I will certify {NAME} as a Psi Master. If it's {NAME}, by concentrating your consciousness you should already be able to teleport! Well then, I'll be waiting at the Power Spot ahead of you, so succeed at teleportation and come to where I am!",
+  "final": "{NAME}, you've worked so hard to get this far! You've made it through tough training, and your level has reached its peak! I now name you a Psi Master, {NAME}. If you focus your mind, {NAME}, you should already be able to teleport! I'll go on ahead and wait for you at the Power Spot. Teleport there and come find me!",
+  "note": ""
+ },
+ {
+  "id": "D07_99CF",
+  "literal": "{NAME}, you teleported here well! This is the entrance to the Power Spot. You feel strong vibrations, right! Now, finally, I'll test {NAME}'s psychic power. This door has a Psi Lock on it!",
+  "final": "{NAME}, nice teleporting! This is the entrance to the Power Spot. You can feel the strong vibrations, can't you? Now, for the final step, I'll test your psychic power, {NAME}. This door is sealed with a Psi Lock!",
+  "note": "saikikku pawaa isn't in the glossary: used plain 'psychic power' to keep it apart from Psi Power."
+ },
+ {
+  "id": "D07_9A50",
+  "literal": "Open it using Psi Power! When you open this door, I'll recognize {NAME} as a true Esper! Press the A Button while willing strongly. If you succeed {V}{V} times, the door opens! Tune your vibrations and let's begin!",
+  "final": "Use your Psi Power to open it! When you open this door, I'll recognize you as a true Esper, {NAME}! Focus your will hard and press the A Button. Succeed {V}{V} times and the door will open! Steady your vibrations, and let's begin!",
+  "note": ""
+ },
+ {
+  "id": "D07_9ACF",
+  "literal": "Master {NAME}, that was splendid! However, this doesn't mean everything is over... A session with the world of consciousness has neither beginning nor end. From this instant, everything begins!",
+  "final": "Master {NAME}, that was splendid! But this isn't the end of everything… Your session with the world of consciousness has no beginning and no end. From this moment on, everything begins!",
+  "note": ""
+ },
+ {
+  "id": "D07_9B3E",
+  "literal": "This door is the entrance to the Mind World! If Master {NAME} can reach the other side of the door... you can receive my vision. However, if your vibrations are disturbed even a little, you probably won't be able to reach it. Press the A Button while willing. If you succeed {V}{V} times, the door opens. Well then, let's meet again within consciousness!",
+  "final": "This door is the entrance to the Mind World! If you can reach the other side, Master {NAME}… you'll be able to receive my vision. But if your vibrations waver even a little, you'll never make it there. Focus your will and press the A Button. Succeed {V}{V} times and the door will open. I'll see you again in the world of consciousness!",
+  "note": "ishiki no naka de mata aou ('let's meet again inside consciousness'): used the glossary's 'world of consciousness' so it reads naturally."
+ },
+ {
+  "id": "D07_9C45",
+  "literal": "The vibrations have gotten quite strong! It's the last door to the Mind World! This one too opens if you succeed {V}{V} times!",
+  "final": "The vibrations are much stronger now! This is the last door to the Mind World! It opens after {V}{V} successes, too!",
+  "note": "Kiyota has signed off in D07_9B3E and D07_9D2F names him in the third person, so I read D07_9C45 to 9D2F as the player's inner voice. Wording works for either speaker."
+ },
+ {
+  "id": "D07_9C89",
+  "literal": "Psi Power wasn't enough... After raising your vibrations, let's try challenging it once more.",
+  "final": "Not enough Psi Power… Raise your vibrations, then give it another try.",
+  "note": ""
+ },
+ {
+  "id": "D07_9CC0",
+  "literal": "All right, success! There are 5 doors over there! Use clairvoyance on the door for going to the Mind World!",
+  "final": "All right, it worked! There are five doors ahead! Use Clairvoyance to find the one that leads to the Mind World!",
+  "note": ""
+ },
+ {
+  "id": "D07_9CFB",
+  "literal": "All right, success! I feel some kind of vibration! Let's try to feel which door it is.",
+  "final": "All right, it worked! Some kind of vibration is coming through! Try to sense which door it is.",
+  "note": ""
+ },
+ {
+  "id": "D07_9D2F",
+  "literal": "All right, success! ........ ........ Some tremendous vibration seems to have spread through the space! A vision from Kiyota is coming...",
+  "final": "All right, it worked!\n……………\n……………\nAn incredible vibration is spreading through the air! A vision from Kiyota is coming…",
+  "note": "Kept the two lines of ellipses with real line breaks, so the first page holds the pause just like the Japanese."
+ }
+]

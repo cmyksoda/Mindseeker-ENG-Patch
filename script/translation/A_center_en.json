@@ -1,0 +1,452 @@
+[
+ {
+  "id": "D04_875B",
+  "literal": "Go back to your own room and rest.",
+  "final": "Go back to your room and get some rest.",
+  "note": ""
+ },
+ {
+  "id": "D04_876D",
+  "literal": "The computer spoke to me! \"Good morning! Now, go to the Computer Room.",
+  "final": "The computer is talking to me!\n\"Good morning! Now, please head to the Computer Room.",
+  "note": ""
+ },
+ {
+  "id": "D04_879D",
+  "literal": "The computer spoke to me! \"Let's do meditation before sleeping.",
+  "final": "The computer is talking to me!\n\"Let's do some meditation before bed.",
+  "note": ""
+ },
+ {
+  "id": "D04_87C1",
+  "literal": "Your Mind Level seems quite good! Today I'll introduce the contents of the training at this School. Try FEELing the computer.",
+  "final": "Your Mind Level looks pretty good! Today I'll show you what we'll be training on here at the School. Go ahead and FEEL the computer.",
+  "note": "Speaker read as Kiyota (plain, friendly ~ね / ~よ)."
+ },
+ {
+  "id": "D04_8813",
+  "literal": "Do you roughly understand the training contents? Now, from tomorrow, at last, we enter full-scale training! Your results from tomorrow become the standard at graduation, so do it seriously! Also, go search your room for the Psi Card that records the training data.",
+  "final": "So, you've got the gist of the training? Starting tomorrow, the real training begins! Your results from then on count toward graduation, so give it your all! Oh, and go find the Psi Card in your room. It records your training data.",
+  "note": ""
+ },
+ {
+  "id": "D04_88AC",
+  "literal": "The computer spoke to me! \"Thank you for your hard work. Let's rest well...",
+  "final": "The computer is talking to me!\n\"Good work today. Have a nice, long rest…",
+  "note": ""
+ },
+ {
+  "id": "D04_88D8",
+  "literal": "The computer spoke to me! \"Good morning. Now, search for the Psi Card to input training data.",
+  "final": "The computer is talking to me!\n\"Good morning. Now, please find the Psi Card for recording your training data.",
+  "note": ""
+ },
+ {
+  "id": "D04_8919",
+  "literal": "A message came flowing in! \"Search for the Psi Card...",
+  "final": "A message is coming through!\n\"Please find the Psi Card…",
+  "note": ""
+ },
+ {
+  "id": "D04_893D",
+  "literal": "The computer spoke to me! \"Tomorrow is Psychokinesis training. Rest well today...",
+  "final": "The computer is talking to me!\n\"Tomorrow is Psychokinesis training. Please rest well tonight…",
+  "note": ""
+ },
+ {
+  "id": "D04_897D",
+  "literal": "The computer spoke to me! \"Good morning, go to the Computer Room. Before that, if you want to see the results of yesterday's training, FEEL the computer.",
+  "final": "The computer is talking to me!\n\"Good morning. Please go to the Computer Room. But first, if you'd like to see yesterday's training results, FEEL the computer.",
+  "note": ""
+ },
+ {
+  "id": "D04_89D9",
+  "literal": "The computer spoke to me! \"Tomorrow is Precognition training. Rest well today...",
+  "final": "The computer is talking to me!\n\"Tomorrow is Precognition training. Please rest well tonight…",
+  "note": ""
+ },
+ {
+  "id": "D04_8A17",
+  "literal": "I surely sensed your vibes! Now, tomorrow at last is the Graduation Exam! So I'll send the exam plate needed for tomorrow's exam by the Chute, so use Precognition and go get it!",
+  "final": "I picked up your vibes, all right! Tomorrow is the big day: your Graduation Exam! I'll send the Exam Plate you need through the Chute, so use Precognition to go get it!",
+  "note": "そつぎょうけんてい = Graduation Exam, けんていようの プレート = Exam Plate (glossary)."
+ },
+ {
+  "id": "D04_8A89",
+  "literal": "The results were a bit not quite there... With this I can't let you take the exam! Let's try training once more.",
+  "final": "Your results were a bit short of the mark… I can't let you take the exam like this! Let's try training one more time.",
+  "note": ""
+ },
+ {
+  "id": "D04_8ACE",
+  "literal": "A message came flowing in! \"FEEL the Chute...",
+  "final": "A message is coming through!\n\"Please FEEL the Chute…",
+  "note": ""
+ },
+ {
+  "id": "D04_8AF1",
+  "literal": "Hello, {NAME}! Now, let's begin training to develop psychic powers. This game, under the supervision of Esper Kiyota, is simulated so that psychic powers are developed while having fun. This is the Psychic Development Center. Here {NAME} will do various training.",
+  "final": "Hello, {NAME}! Let's begin the training that will develop your psychic powers. Supervised by Esper Kiyota, this game is a simulation that grows your psychic powers while you have fun. This is the Psychic Development Center. Here, {NAME}, you will take on all kinds of training.",
+  "note": "Polite system/narrator voice (です/ます)."
+ },
+ {
+  "id": "D04_8BA6",
+  "literal": "Here, intuition is important. If you sense something, try using the FEEL command. If you feel nothing, it's also important to FEEL the computer and ask for information. Well then, let's begin the training to become an Esper.",
+  "final": "Intuition is the key here. When you sense something, try the FEEL command. If you sense nothing, it also helps to FEEL the computer and ask for information. Now, let's begin your training to become an Esper.",
+  "note": ""
+ },
+ {
+  "id": "D04_8C2F",
+  "literal": "This is your own room.",
+  "final": "This is your room.",
+  "note": "Polite です, so read as system description rather than inner voice; じぶんの へや = your room (glossary じしつ). Alt: \"This is my room.\""
+ },
+ {
+  "id": "D04_8C3E",
+  "literal": "I don't feel anything!",
+  "final": "I don't feel a thing!",
+  "note": ""
+ },
+ {
+  "id": "D04_8C4A",
+  "literal": "This is a computer!",
+  "final": "It's a computer!",
+  "note": ""
+ },
+ {
+  "id": "D04_8C57",
+  "literal": "A message came flowing in! \"First, go to the Computer Room...",
+  "final": "A message is coming through!\n\"First, please go to the Computer Room…",
+  "note": ""
+ },
+ {
+  "id": "D04_8C80",
+  "literal": "This is the Computer Room.",
+  "final": "This is the Computer Room.",
+  "note": ""
+ },
+ {
+  "id": "D04_8C90",
+  "literal": "Hello, I'm Esper Kiyota. I will serve as guide so that {NAME} can become an Esper. This is only a simulation, but entering into this world is important! Training starts with that! Every world you can imagine is something that gets replaced by the real world. Everything is made by images!",
+  "final": "Hello, I'm Esper Kiyota! I'll be your guide on the road to becoming an Esper, {NAME}. This is only a simulation, but you need to throw yourself into this world! Training starts there! Any world you can picture can become the real world. Everything is shaped by the images in your mind!",
+  "note": "イメージできる せかいは すべて げんじつの せかいに おきかわる: 'every world you can imagine can be swapped into reality'. Chose 'can become the real world' for warmth."
+ },
+ {
+  "id": "D04_8D40",
+  "literal": "From today, {NAME} will build up various psychic development training here! You'll train the Psi Powers of Clairvoyance, Psychokinesis, Precognition! Without rushing, it's important to proceed calmly. For now, today, go back to your room and rest well to prepare for training from tomorrow. Well then, see you again!",
+  "final": "From today on, {NAME}, you'll do all kinds of psychic training here! You'll train three Psi Powers: Clairvoyance, Psychokinesis and Precognition! Don't rush. Taking it calmly is what counts. For now, head back to your room and get a good rest for tomorrow's training. See you then!",
+  "note": ""
+ },
+ {
+  "id": "D04_8DFA",
+  "literal": "The computer spoke to me! \"Which curriculum will you do? Choose from among the menu...",
+  "final": "The computer is talking to me!\n\"Which course will you take? Please choose from the menu…",
+  "note": "カリキュラム rendered 'course' (shorter, friendlier than 'curriculum')."
+ },
+ {
+  "id": "D04_8E37",
+  "literal": "The computer spoke to me! \"Today's lesson is over...",
+  "final": "The computer is talking to me!\n\"Today's lessons are over…",
+  "note": ""
+ },
+ {
+  "id": "D04_8E60",
+  "literal": "The computer spoke to me! \"Rest well in preparation for tomorrow...",
+  "final": "The computer is talking to me!\n\"Please rest well and be ready for tomorrow…",
+  "note": ""
+ },
+ {
+  "id": "D04_8E8C",
+  "literal": "A message came flowing in! \"Quickly go to the Computer Room...",
+  "final": "A message is coming through!\n\"Please hurry to the Computer Room…",
+  "note": ""
+ },
+ {
+  "id": "D04_8EB5",
+  "literal": "Today is a lecture on relaxation. If you practice firmly, Mind Trip is also freely at will!",
+  "final": "Today's lecture is on relaxation. Practice it well, and you'll be able to Mind Trip wherever you like!",
+  "note": ""
+ },
+ {
+  "id": "D04_8EEC",
+  "literal": "Were you able to relax? Today's lesson ends with this. Tomorrow is basic training of psychic powers! Tomorrow you'll use Mind Power, so go back to your room and meditate!",
+  "final": "Did you manage to relax? That's all for today's lesson. Tomorrow is basic psychic training! You'll be using Mind Power, so go back to your room and meditate!",
+  "note": ""
+ },
+ {
+  "id": "D04_8F57",
+  "literal": "Your Mind Level has been rising! Oh, don't you have the Psi Card? Go back to your own room and search for it!",
+  "final": "Your Mind Level is rising! Hey, don't you have your Psi Card? Go back to your room and look for it!",
+  "note": ""
+ },
+ {
+  "id": "D04_8F95",
+  "literal": "Now, from today we start full-scale training! Today is Clairvoyance training! 5 times makes 1 set. From today the training results will be recorded, so do it properly. Then, let's FEEL the computer.",
+  "final": "Okay, today the real training begins! Today we're working on Clairvoyance! One set is 5 tries. Your results will be recorded from now on, so give it your all. Now, go FEEL the computer.",
+  "note": ""
+ },
+ {
+  "id": "D04_9017",
+  "literal": "It's a message! \"Have you already done meditation...",
+  "final": "A message!\n\"Have you meditated yet…",
+  "note": ""
+ },
+ {
+  "id": "D04_9037",
+  "literal": "To raise the vibration of consciousness, we will do meditation... First, lower the lighting of the room. A Mind Pattern will be displayed on the screen, so gaze at it with a relaxed feeling. Spread the image as much as possible... When you've been able to relax, press the A Button...",
+  "final": "To raise the vibrations of your consciousness, let us meditate… First, please dim the lights in your room. A Mind Pattern will appear on the screen. Gaze at it with a calm, easy feeling. Let the image spread out as far as it can… Once you feel relaxed, please press the A Button…",
+  "note": "'Dim the lights in your room' means the player's real room. マインドパターン is not in the glossary; used 'Mind Pattern' to match Mind Level/Mind Power."
+ },
+ {
+  "id": "D04_90DA",
+  "literal": "I found the Psi Card! Now, let's try FEELing the writer for inputting training data into this card.",
+  "final": "I found the Psi Card! Now I should FEEL the Psycho Writer that puts training data onto it.",
+  "note": "jp says just ライター; used 'Psycho Writer' so it matches 92A9/92BD/93B3. Alt: 'the Writer'."
+ },
+ {
+  "id": "D04_911C",
+  "literal": "Suddenly a message came flowing in! \"Please do meditation properly...",
+  "final": "Suddenly, a message comes through!\n\"Please meditate properly…",
+  "note": ""
+ },
+ {
+  "id": "D04_9147",
+  "literal": "{NAME} inserted the Psi Card into the computer!",
+  "final": "{NAME} inserted the Psi Card into the computer!",
+  "note": ""
+ },
+ {
+  "id": "D04_9165",
+  "literal": "We will now begin Clairvoyance training. After 5 kinds of cards are displayed, a face-down card comes out from the top. Concentrate your consciousness, see through the kind of the face-down card, choose the card you think it is and press the A Button. It's important to feel the state of your consciousness when you hit and when you miss... The average number of hits is 4.",
+  "final": "Now we will begin Clairvoyance training. Five kinds of cards will be shown, then a face-down card will come down from the top. Focus your mind and see through to which card it is, then choose it and press the A Button. Notice how your mind feels when you hit and when you miss… The average is 4 hits.",
+  "note": ""
+ },
+ {
+  "id": "D04_9227",
+  "literal": "It seems your Clairvoyance ability went up a little. In this training repeating is important! Devise your method and try it many times. Overdoing it isn't good either, so when tired, it's also good to go back to your room once and come after doing meditation!",
+  "final": "Looks like your Clairvoyance has improved a little! The key to this training is repetition! Try different approaches and keep at it. Don't push too hard, though. If you get tired, it's fine to go back to your room and meditate before coming back!",
+  "note": ""
+ },
+ {
+  "id": "D04_92A9",
+  "literal": "{NAME} found the Psycho Writer!",
+  "final": "{NAME} found the Psycho Writer!",
+  "note": ""
+ },
+ {
+  "id": "D04_92BD",
+  "literal": "A message came flowing in! \"Find the Psycho Writer and FEEL it.",
+  "final": "A message is coming through!\n\"Please find the Psycho Writer and FEEL it.",
+  "note": ""
+ },
+ {
+  "id": "D04_930E",
+  "literal": "Your Esper Rating has really gone up. Today is Psychokinesis training! Then, insert the card into the computer.",
+  "final": "Your Esper Rating has really gone up! Today it's Psychokinesis training! Now, put your card in the computer.",
+  "note": ""
+ },
+ {
+  "id": "D04_93B3",
+  "literal": "What's wrong? If you don't come back having recorded today's lesson data, you can't do the next training! Go back to your own room, find the Psycho Writer, and rewrite the data!",
+  "final": "What's the matter? You can't do the next training until you record today's lesson data! Go back to your room, find the Psycho Writer, and update your data!",
+  "note": ""
+ },
+ {
+  "id": "D04_9414",
+  "literal": "{NAME} inserted the Psi Card! New training data is in it.",
+  "final": "{NAME} inserted the Psi Card! It has new training data on it.",
+  "note": ""
+ },
+ {
+  "id": "D04_9442",
+  "literal": "{NAME} inserted the Psi Card! New data isn't in it!",
+  "final": "{NAME} inserted the Psi Card! There's no new data on it!",
+  "note": ""
+ },
+ {
+  "id": "D04_946C",
+  "literal": "We will now begin Psychokinesis training. A lamp will be displayed on the screen, so float a vision of the lamp lighting. Concentrate your consciousness and press the A Button. When Psychokinesis works, the lamp lights. The average number of hits is 20.",
+  "final": "Now we will begin Psychokinesis training. A lamp will appear on the screen. Hold a vision of the lamp lighting up, focus your mind, and press the A Button. When your Psychokinesis works, the lamp will light. The average is 20 hits.",
+  "note": ""
+ },
+ {
+  "id": "D04_94F4",
+  "literal": "Your Psychokinesis ability went up a little. In this training too repeating is important! Devise your method and try it many times.",
+  "final": "Your Psychokinesis has improved a little! The key to this training is repetition, too! Try different approaches and keep at it.",
+  "note": ""
+ },
+ {
+  "id": "D04_953B",
+  "literal": "A Psi Lock is on the door and I can't get out!",
+  "final": "There's a Psi Lock on the door. I can't get out!",
+  "note": ""
+ },
+ {
+  "id": "D04_9551",
+  "literal": "This door has a Psi Lock on it...",
+  "final": "This door has a Psi Lock on it…",
+  "note": ""
+ },
+ {
+  "id": "D04_9567",
+  "literal": "Your Esper Rating has really gone up. Today is Precognition training! Then, insert the card into the computer.",
+  "final": "Your Esper Rating has really gone up! Today it's Precognition training! Now, put your card in the computer.",
+  "note": ""
+ },
+ {
+  "id": "D04_95A5",
+  "literal": "We will now begin Precognition training. 5 lamps will be displayed on the screen. One of them will light from now, so using Precognition ability, choose which lights with the cursor and press the A Button. The average number of hits is 4.",
+  "final": "Now we will begin Precognition training. Five lamps will appear on the screen, and one of them is about to light up. Use your Precognition to sense which one, pick it with the cursor, and press the A Button. The average is 4 hits.",
+  "note": ""
+ },
+ {
+  "id": "D04_962C",
+  "literal": "It seems your Precognition ability went up a little. In this training too repeating is important! Devise your method and try it many times.",
+  "final": "Your Precognition has improved a little! The key to this training is repetition, too! Try different approaches and keep at it.",
+  "note": ""
+ },
+ {
+  "id": "D04_9674",
+  "literal": "It's the Chute!",
+  "final": "It's the Chute!",
+  "note": ""
+ },
+ {
+  "id": "D04_967C",
+  "literal": "How were the results? The average Esper Rating is 60 points; Clairvoyance, Psychokinesis, Precognition are 20 points each. Becoming able to produce the average value constantly is a very important thing! Let's try again to test your Psi Power.",
+  "final": "How did it go? An average Esper Rating is 60 points, with 20 each for Clairvoyance, Psychokinesis and Precognition. Learning to hit the average every time is what really matters! Try again and test your Psi Power.",
+  "note": ""
+ },
+ {
+  "id": "D04_96F9",
+  "literal": "What's wrong? Without the Exam Plate you can't take the Graduation Exam! You have to use Precognition and go get it.",
+  "final": "What's wrong? You can't take the Graduation Exam without the Exam Plate! You've got to use Precognition to go get it.",
+  "note": ""
+ },
+ {
+  "id": "D04_97E3",
+  "literal": "Now, first is the Clairvoyance test! Doing it calmly is important. Succeed once and it's 1 point! Are your vibrations in order?",
+  "final": "First up is the Clairvoyance test! Stay calm, that's what counts. Each success is worth 1 point! Are your vibrations in tune?",
+  "note": ""
+ },
+ {
+  "id": "D04_9837",
+  "literal": "Next we'll do the Psychokinesis test! If your vibrations are disturbed, you'd better redo it from the start! The point allocation: 15, 16 gives 1 point, 17, 18 gives 2 points, and so on: every time successes of 15 or more increase by 2, the score increases by 1. Then, will you continue the test as is?",
+  "final": "Next is the Psychokinesis test! If your vibrations are out of tune, you'd better start over from the top! Here's the scoring:\n15 or 16 hits: 1 point\n17 or 18 hits: 2 points\nEvery 2 more hits adds 1 point. So, want to keep going with the test?",
+  "note": "Uses \\n for the score table. 'start over from the top' = はじめから やりなおす, read as restarting the exam; presumably the YES/NO that comes after decides."
+ },
+ {
+  "id": "D04_98E2",
+  "literal": "Hmm... It was just a little more. Will you try once more from the start?",
+  "final": "Hmm… So close! Want to try again from the start?",
+  "note": ""
+ },
+ {
+  "id": "D04_990D",
+  "literal": "Your vibrations have become disturbed! Steady your breathing once, then come. Pressing the button starts it...",
+  "final": "Your vibrations are getting jumbled! Steady your breathing, then come back. Press a button to begin…",
+  "note": ""
+ },
+ {
+  "id": "D04_994C",
+  "literal": "Last is the Precognition test! The standard for passing is 17 points or more total. Succeed once and it's 1 point! Will you continue the test as is?",
+  "final": "Last of all is the Precognition test! To pass, you need at least 17 points in total. Each success is worth 1 point! Want to keep going with the test?",
+  "note": ""
+ },
+ {
+  "id": "D04_99A6",
+  "literal": "At last it's the Graduation Exam! With {NAME}'s Mind Level, it's all right. Take the challenge with a relaxed feeling!",
+  "final": "At last, it's the Graduation Exam! With your Mind Level, {NAME}, you'll do just fine. Relax and give it your best shot!",
+  "note": ""
+ },
+ {
+  "id": "D04_B9B8",
+  "literal": "(<N><N><N>)'s Mind Level, it's all right. Take the challenge with a relaxed feeling!",
+  "final": "With a Mind Level like yours, you'll do just fine. Relax and give it your best shot!",
+  "note": "Mis-detected fragment: file 0x099C8 is inside D04_99A6 (0x099B6), starting at the 2nd of its 4 name bytes, so this is 99A6's tail. jp has a raw 3-wide <N> run, not {NAME}, so I left the name out to keep tokens clean. Probably should not be inserted separately at all."
+ },
+ {
+  "id": "D04_99E8",
+  "literal": "Congratulations, you passed with {V}{V} points! It was a borderline result, but I certify {NAME} as an Esper and approve graduation.",
+  "final": "Congratulations! You passed with {V}{V} points! It was close, but {NAME}, I now certify you as an Esper. You've graduated!",
+  "note": ""
+ },
+ {
+  "id": "D04_9A2D",
+  "literal": "Congratulations, you passed with {V}{V} points! The results were excellent. I certify {NAME} as an Esper and approve graduation.",
+  "final": "Congratulations! You passed with {V}{V} points! Excellent work! {NAME}, I now certify you as an Esper. You've graduated!",
+  "note": ""
+ },
+ {
+  "id": "D04_9A74",
+  "literal": "Congratulations, you passed with {V}{V} points! The results were outstanding. I certify {NAME} as an Esper and approve graduation.",
+  "final": "Congratulations! You passed with {V}{V} points! Outstanding results! {NAME}, I now certify you as an Esper. You've graduated!",
+  "note": "Three graduation tiers: ぎりぎり (barely) / ゆうしゅう (excellent) / ばつぐん (outstanding). Kept the tiers distinct."
+ },
+ {
+  "id": "D04_9B3F",
+  "literal": "If your level goes up, you may become able to feel visions of Zenef, the cosmic consciousness I'm in contact with. When tired, it's important to occasionally go back to your room and meditate or save. You can also ask about points to the next level!",
+  "final": "As your level rises, you may start to sense visions from Zenef, the cosmic consciousness I'm in contact with. When you get tired, go back to your room now and then to meditate or save. You can also ask how many points you need for the next level!",
+  "note": "ゼネフの ビジョン read as visions sent by Zenef ('from'); 'of Zenef' (visions showing Zenef) is the other reading."
+ },
+ {
+  "id": "D04_9BC8",
+  "literal": "When you want to raise your vibes, it's good to come back here and do training. If you look at the records you can confirm your power! Now, {NAME}'s new challenge! When your level goes up, let's meet again!!",
+  "final": "Whenever you want to raise your vibes, come back here and train. Check your records to see how your power is doing! Now, {NAME}, a new challenge begins! When your level goes up, come see me again!!",
+  "note": ""
+ },
+ {
+  "id": "D04_9C37",
+  "literal": "Then, let's analyze the training results so far. If the results are bad, do the training's Set Mode!",
+  "final": "Now, let's analyze your training results so far. If your scores are low, practice in Set Mode!",
+  "note": "せっとモード appears nowhere else in the script. Took it as a menu option ('Set Mode', practice in sets of 5, cf. 8F95). Please check against the actual menu."
+ },
+ {
+  "id": "D04_9C7A",
+  "literal": "Well then, let's analyze the current results!",
+  "final": "All right, then! Let's analyze how you did just now!",
+  "note": ""
+ },
+ {
+  "id": "D04_9C99",
+  "literal": "{NAME}, how's your condition? Don't forget basic training either!",
+  "final": "{NAME}, how are you doing? Don't forget your basic training, okay?",
+  "note": ""
+ },
+ {
+  "id": "D04_9CC4",
+  "literal": "For {NAME} to level up next, {V}{V}{V}{V}{V}{V} Psi Points are needed.",
+  "final": "To reach the next level, {NAME} needs {V}{V}{V}{V}{V}{V} more Psi Points.",
+  "note": ""
+ },
+ {
+  "id": "D04_9CF2",
+  "literal": "{NAME}'s level is Infinity. In other words, it is infinite. Have you experienced the Power Spot yet?!",
+  "final": "{NAME}'s level is Infinity. In other words, there is no limit! Have you tried the Power Spot yet?!",
+  "note": ""
+ },
+ {
+  "id": "D04_9D2E",
+  "literal": "We will now begin the Graduation Exam. Questions will be given in the order Clairvoyance, Psychokinesis, Precognition. Pass with 17 points. The balance of each Psi Power is important. Esper Kiyota will judge {NAME}'s power. Then, let's begin.",
+  "final": "We will now begin the Graduation Exam. The tests come in this order: Clairvoyance, Psychokinesis, Precognition. 17 points is a pass. Balance among your Psi Powers is important. Esper Kiyota will judge your power, {NAME}. Now, let us begin.",
+  "note": ""
+ },
+ {
+  "id": "D04_9EED",
+  "literal": "The amount of training is small. If tries are few, it won't be an accurate data analysis.",
+  "final": "You haven't trained very much. With so few tries, the data can't be analyzed accurately.",
+  "note": ""
+ },
+ {
+  "id": "D04_9F25",
+  "literal": "In total, the power of {V}{V}{V}{V} is excellent. Today you haven't done much training. Do basic training firmly too.",
+  "final": "Overall, your strongest power is {V}{V}{V}{V}. You haven't done much training today. Keep up your basic training too.",
+  "note": "{V}x4 is a 4-wide power-name field (kana like とうし/ねんりき/よち). Phrased so any word fits. Build note: English labels CLAIR./PRECOG are 6 wide."
+ },
+ {
+  "id": "D04_9F6D",
+  "literal": "In total, the power of {V}{V}{V}{V} is excellent. Today {V}{V}{V}{V}'s condition seems good! Taking power balance is important.",
+  "final": "Overall, your strongest power is {V}{V}{V}{V}. Today your {V}{V}{V}{V} is in fine form! Keeping your powers balanced is important.",
+  "note": "Same 4-wide field caveat as 9F25."
+ }
+]

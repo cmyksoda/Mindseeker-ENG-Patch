@@ -1,0 +1,730 @@
+[
+ {
+  "id": "D02_BB24",
+  "jp": "{V}{V}{V}{V}　しっぱい！\nサイパワーの　つかいすぎだ！\nちょっと　ひとやすみしよう…………\n",
+  "called_from": [
+   "city mini-event (psi challenges)"
+  ],
+  "jp_bytes": 44
+ },
+ {
+  "id": "D08_B3B1",
+  "jp": "トライしますか",
+  "called_from": [
+   "Psi Land games"
+  ],
+  "jp_bytes": 7
+ },
+ {
+  "id": "D08_B3B9",
+  "jp": "あなたのばんよ！",
+  "called_from": [
+   "Psi Land games"
+  ],
+  "jp_bytes": 8
+ },
+ {
+  "id": "D08_B3C2",
+  "jp": "わたしのばんよ！",
+  "called_from": [
+   "Psi Land games"
+  ],
+  "jp_bytes": 8
+ },
+ {
+  "id": "D08_B3CB",
+  "jp": "わたしのかちよ！",
+  "called_from": [
+   "Psi Land games"
+  ],
+  "jp_bytes": 8
+ },
+ {
+  "id": "D08_B3D4",
+  "jp": "あなたってすごい",
+  "called_from": [
+   "Psi Land games"
+  ],
+  "jp_bytes": 8
+ },
+ {
+  "id": "D08_B3DD",
+  "jp": "つづけます？",
+  "called_from": [
+   "Psi Land games"
+  ],
+  "jp_bytes": 6
+ },
+ {
+  "id": "D08_B3E4",
+  "jp": "まけないわよ",
+  "called_from": [
+   "Psi Land games"
+  ],
+  "jp_bytes": 6
+ },
+ {
+  "id": "D08_B3EB",
+  "jp": "やったね！",
+  "called_from": [
+   "Psi Land games"
+  ],
+  "jp_bytes": 5
+ },
+ {
+  "id": "D08_B3F1",
+  "jp": "がんばってね！",
+  "called_from": [
+   "Psi Land games"
+  ],
+  "jp_bytes": 7
+ },
+ {
+  "id": "D08_B3F9",
+  "jp": "がっかりしないで",
+  "called_from": [
+   "Psi Land games"
+  ],
+  "jp_bytes": 8
+ },
+ {
+  "id": "D08_B402",
+  "jp": "キャーすごい！",
+  "called_from": [
+   "Psi Land games"
+  ],
+  "jp_bytes": 7
+ },
+ {
+  "id": "D08_B40A",
+  "jp": "ポイントぶそくよ",
+  "called_from": [
+   "Psi Land games"
+  ],
+  "jp_bytes": 8
+ },
+ {
+  "id": "D08_B548",
+  "jp": "ここは　サイランドです\nちょうのうりょくを　つかったゲームをたのしめます",
+  "called_from": [
+   "Psi Land games"
+  ],
+  "jp_bytes": 36
+ },
+ {
+  "id": "D08_B56D",
+  "jp": "なにも　かんじないぞ！\n",
+  "called_from": [
+   "Psi Land games"
+  ],
+  "jp_bytes": 12
+ },
+ {
+  "id": "D08_B57A",
+  "jp": "ようこそサイランドへ！\nわたしは　みなこョ\nここで　インストラクターをやっているの\nここのゲームは　サイパワーがひつようなのよ\nまけると　バイブレーションが　さがってしまうわ\nだから　プレイのやりすぎは　きんもつよ\nプレイしたいゲームを　えらんでね\n\n\n",
+  "called_from": [
+   "Psi Land games"
+  ],
+  "jp_bytes": 127
+ },
+ {
+  "id": "D08_B5FA",
+  "jp": "プレイシステムは　おわかりですか？\n",
+  "called_from": [
+   "Psi Land games"
+  ],
+  "jp_bytes": 18
+ },
+ {
+  "id": "D08_B60D",
+  "jp": "プレイしたいゲームをえらんでね\n",
+  "called_from": [
+   "Psi Land games"
+  ],
+  "jp_bytes": 16
+ },
+ {
+  "id": "D08_B61E",
+  "jp": "ようこそサイランドへ！\nプレイしたいゲームをえらんでね\n",
+  "called_from": [
+   "Psi Land games"
+  ],
+  "jp_bytes": 28
+ },
+ {
+  "id": "D08_B63B",
+  "jp": "これは　ねんりきをつかうゲームよ\nキャラを　さきにゴールさせたほうがかちよ\nねんじながら　ボタンをおしてね\nゲームをするには　サイポイントがひつようよ\nかてば　サイポイントが　ばいになるわ\nさあ　わたしがおあいてするわ！\n",
+  "called_from": [
+   "Psi Land games"
+  ],
+  "jp_bytes": 111
+ },
+ {
+  "id": "D08_B6AB",
+  "jp": "これは　とうしをつかったゲームなの。\nみなこ　が　さきにカードをふせてだすから\nあなたは　そのカードの　かずを　とうししてね！\nおおきな　かずのカードを　だしたほうが\nかちになるの。　ただし　5は1にまけるのよ。\nそれに　おなじかずのときは　あなたのまけよ！\n",
+  "called_from": [
+   "Psi Land games"
+  ],
+  "jp_bytes": 130
+ },
+ {
+  "id": "D08_B72E",
+  "jp": "そして　3かい　さきに　かったほうが\nそのラウンドの　しょうりしゃになるわ！\nあなたが　かてば　ポイントは　ばいになるの！\nでも　ゲームをするには　それなりの　ポイントが\nひつようだけど　あなたは　だいじょうぶかな？\nじゃあ　わたしが　おあいてするわ…………\n",
+  "called_from": [
+   "Psi Land games"
+  ],
+  "jp_bytes": 130
+ },
+ {
+  "id": "D08_B7B1",
+  "jp": "これは　よちをつかった　ゲームなの。\nじゅうじボタンをつかって　おんなのこのキャラを\nじょうげ　さゆうの　ゴールまで　うごかしてね！\nキャラを　うごかせるのは　かならずしも\nじゅうじボタンの　とおりとは　かぎらないわ。\nうごかせる　ほうこうを　よちしないとだめよ！\n",
+  "called_from": [
+   "Psi Land games"
+  ],
+  "jp_bytes": 133
+ },
+ {
+  "id": "D08_B837",
+  "jp": "ゴールパネルに　かかれている\nすうじの　ばいすうが　ポイントにかけられて\nあなたの　ポイントに　かさんされるのよ！\nでも　ゲームをするには　ポイントが\nひつようだけど　あなたは　だいじょうぶかな？\nわたしが　おうえんしてるから　ガンバッテネ！\n",
+  "called_from": [
+   "Psi Land games"
+  ],
+  "jp_bytes": 122
+ },
+ {
+  "id": "D08_B8B2",
+  "jp": "ざんねんだけど　あなたの　レベルでは　まだ\nプレイ　できないわよ！\n\n",
+  "called_from": [
+   "Psi Land games"
+  ],
+  "jp_bytes": 35
+ },
+ {
+  "id": "D09_B383",
+  "jp": "{V}{V}{V}{V}　しっぱい！\nサイパワーの　つかいすぎだ！\nちょっと　ひとやすみしよう…………\n",
+  "called_from": [
+   "city mini-event (psi challenges)"
+  ],
+  "jp_bytes": 44
+ },
+ {
+  "id": "D10_8000",
+  "jp": "このスプーンを　ねんりきで　まげてみよう\n",
+  "called_from": [
+   "city mini-event (psi challenges)"
+  ],
+  "jp_bytes": 21
+ },
+ {
+  "id": "D10_8016",
+  "jp": "このスプーンを　ねんりきで　ねじってみよう\n",
+  "called_from": [
+   "city mini-event (psi challenges)"
+  ],
+  "jp_bytes": 22
+ },
+ {
+  "id": "D10_802D",
+  "jp": "このスプーンを　ねんりきで　おってみよう\n",
+  "called_from": [
+   "city mini-event (psi challenges)"
+  ],
+  "jp_bytes": 21
+ },
+ {
+  "id": "D10_8043",
+  "jp": "ねんりきで　シンセサイザーを　えんそうしてみよう\n",
+  "called_from": [
+   "city mini-event (psi challenges)"
+  ],
+  "jp_bytes": 25
+ },
+ {
+  "id": "D10_805D",
+  "jp": "つぎにでるばしょを　よちしてみよう\n",
+  "called_from": [
+   "city mini-event (psi challenges)"
+  ],
+  "jp_bytes": 18
+ },
+ {
+  "id": "D10_8070",
+  "jp": "でてくる　ガムのいろを　とうししてみよう\n",
+  "called_from": [
+   "city mini-event (psi challenges)"
+  ],
+  "jp_bytes": 21
+ },
+ {
+  "id": "D10_8086",
+  "jp": "ふんすいを　ねんりきで　だしてみよう\n",
+  "called_from": [
+   "city mini-event (psi challenges)"
+  ],
+  "jp_bytes": 19
+ },
+ {
+  "id": "D10_809A",
+  "jp": "ふんすいの　でるばしょを　よちしてみよう\n",
+  "called_from": [
+   "city mini-event (psi challenges)"
+  ],
+  "jp_bytes": 21
+ },
+ {
+  "id": "D10_80B0",
+  "jp": "ふんすいの　こしょうかしょを　とうししてみよう\n",
+  "called_from": [
+   "city mini-event (psi challenges)"
+  ],
+  "jp_bytes": 24
+ },
+ {
+  "id": "D10_80C9",
+  "jp": "ねんりきで　はなをさかせてみよう\n",
+  "called_from": [
+   "city mini-event (psi challenges)"
+  ],
+  "jp_bytes": 17
+ },
+ {
+  "id": "D10_80DB",
+  "jp": "なにいろのひこうせんが　でてくるか　とうししよう\n",
+  "called_from": [
+   "city mini-event (psi challenges)"
+  ],
+  "jp_bytes": 25
+ },
+ {
+  "id": "D10_80F5",
+  "jp": "これを　ねんりきで　うごかしてください\n",
+  "called_from": [
+   "city mini-event (psi challenges)"
+  ],
+  "jp_bytes": 20
+ },
+ {
+  "id": "D10_810A",
+  "jp": "ねんりきで　ものをしゅつげんさせてください\n",
+  "called_from": [
+   "city mini-event (psi challenges)"
+  ],
+  "jp_bytes": 22
+ },
+ {
+  "id": "D10_8121",
+  "jp": "これを　ねんりきで　テレポートさせてください\n",
+  "called_from": [
+   "city mini-event (psi challenges)"
+  ],
+  "jp_bytes": 23
+ },
+ {
+  "id": "D10_8139",
+  "jp": "かくされたものを　とうししてください\n",
+  "called_from": [
+   "city mini-event (psi challenges)"
+  ],
+  "jp_bytes": 19
+ },
+ {
+  "id": "D10_814D",
+  "jp": "かくされたもののいろを　とうししてください\n",
+  "called_from": [
+   "city mini-event (psi challenges)"
+  ],
+  "jp_bytes": 22
+ },
+ {
+  "id": "D10_8164",
+  "jp": "{V}{V}{V}{V}　せいこう！\nポイントが　{V}{V}{V}{V}あがったぞ！\n",
+  "called_from": [
+   "city mini-event (psi challenges)"
+  ],
+  "jp_bytes": 28
+ },
+ {
+  "id": "D10_8181",
+  "jp": "{V}{V}{V}{V}　しっぱい！\nもういちど　トライしますか？\n",
+  "called_from": [
+   "city mini-event (psi challenges)"
+  ],
+  "jp_bytes": 26
+ },
+ {
+  "id": "D10_819C",
+  "jp": "{V}{V}{V}{V}　しっぱい！\nあと　{V}かい　です\n",
+  "called_from": [
+   "city mini-event (psi challenges)"
+  ],
+  "jp_bytes": 21
+ },
+ {
+  "id": "D10_81B2",
+  "jp": "{V}{V}{V}{V}　しっぱい！\nポイントが　{V}{V}{V}{V}さがってしまったぞ！\n",
+  "called_from": [
+   "city mini-event (psi challenges)"
+  ],
+  "jp_bytes": 32
+ },
+ {
+  "id": "D10_81D3",
+  "jp": "{NAME}さん。　わたしは　サイマスターの　グルーだ。　これから　きみの　サイパワーを　ためして\nみよう。\nスクールの　そつぎょうせいなら　できるはずだ！\nこれぐらいのことが　できないようでは　エスパー\nとは　いえないぞ！\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 111
+ },
+ {
+  "id": "D10_8243",
+  "jp": "{NAME}さん　また　あったね。\nそれでは　あなたの　サイパワーを　ためしてみよう\n\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 42
+ },
+ {
+  "id": "D10_826E",
+  "jp": "はいっ！　るんるんギャルの　しのぶよっ！\nさあ　チャンス！　このラウンドは\nポイントが　ばいになるからがんばってネ\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 58
+ },
+ {
+  "id": "D10_82A9",
+  "jp": "いまの　かんじ　すっごくいいわ！\nじゃあ　また　あなたのバイブが\nあがってきたら　おあいしましょっ！\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 51
+ },
+ {
+  "id": "D10_82DD",
+  "jp": "うーん………　ちょっとものたりなかったわね！\nでも　めげないでっ！　また　そのうち\nあえると　おもうから　そのときは　………ヨ！\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 65
+ },
+ {
+  "id": "D10_83C5",
+  "jp": "はいっ！　きゃぴきゃぴギャルの　しのぶよっ！\nぱんぱかぱーん！　なんと　すてきなあなたに\nボーナス　{V}{V}{V}{V}てん　どーんとしんていよっ！\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 69
+ },
+ {
+  "id": "D10_840B",
+  "jp": "{V}かいで　できないと　サイポイントがさがります\n",
+  "called_from": [
+   "city mini-event (psi challenges)"
+  ],
+  "jp_bytes": 24
+ },
+ {
+  "id": "D10_8422",
+  "jp": "\n",
+  "called_from": [
+   "shared engine code"
+  ],
+  "jp_bytes": 1
+ },
+ {
+  "id": "D10_8424",
+  "jp": "ねんりきで　あのひとを　ふりむかせてください\n",
+  "called_from": [
+   "city mini-event (psi challenges)"
+  ],
+  "jp_bytes": 23
+ },
+ {
+  "id": "D10_843C",
+  "jp": "つぎにとおる　くるまのいろを　よちしてください\n",
+  "called_from": [
+   "city mini-event (psi challenges)"
+  ],
+  "jp_bytes": 24
+ },
+ {
+  "id": "D10_8455",
+  "jp": "つぎに　ひとがでてくるばしょを　よちしてください\n",
+  "called_from": [
+   "city mini-event (psi challenges)"
+  ],
+  "jp_bytes": 25
+ },
+ {
+  "id": "D10_846F",
+  "jp": "ねんりきで　ふりむかせてください\n",
+  "called_from": [
+   "city mini-event (psi challenges)"
+  ],
+  "jp_bytes": 17
+ },
+ {
+  "id": "D10_8481",
+  "jp": "わたしは　ジエリコ　です。\n{NAME}さんの　サイパワーを　ためしましょう。\nよろしいですね。\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 47
+ },
+ {
+  "id": "D10_84B1",
+  "jp": "また　おあいしましたね。\nちょうしは　いかがですか。\nでは　あなたの　サイパワーを　ためしましょう。\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 51
+ },
+ {
+  "id": "D12_903E",
+  "jp": "ここは　サイサロンです\nスクールをそつぎょうした　エスパーのたまりばです",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 36
+ },
+ {
+  "id": "D12_9063",
+  "jp": "ここは　サイパークです\nシテイーの　いこいのばしょです",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 27
+ },
+ {
+  "id": "D12_908D",
+  "jp": "なにも　かんじないぞ！\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 12
+ },
+ {
+  "id": "D12_909A",
+  "jp": "ぼくは　エスパーありまです\nもしかしたら　きみは{NAME}さんじゃないの？\n\nやっぱりね！\nじつは　エスパーキヨタから　{NAME}さんのことはよくきいているよ。　かなり　そしつがあるってね\nところで　{NAME}さんの　めいしがわりに\nスプーンをまげてみせてよ？\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 128
+ },
+ {
+  "id": "D12_911B",
+  "jp": "すごいね！\nつよいバイブレーションをかんじたよ\n\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 25
+ },
+ {
+  "id": "D12_9135",
+  "jp": "きょうは　ちょうしがわるいみたいだね\n\n\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 21
+ },
+ {
+  "id": "D12_914B",
+  "jp": "{NAME}さん　ずいぶんちょうしがいいみたいだね\nまた　みんなに　スプーンまげをみせてあげてよ\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 47
+ },
+ {
+  "id": "D12_917B",
+  "jp": "{NAME}さん　ずいぶんちょうしがいいみたいだね\nこんどは　スプーンねじりをやってみせてよ\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 45
+ },
+ {
+  "id": "D12_91A9",
+  "jp": "{NAME}さん　ずいぶんちょうしがいいみたいだね\nこんどは　スプーンおりをやってみせてよ\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 44
+ },
+ {
+  "id": "D12_91EE",
+  "jp": "シンセサイザーがあるぞ！\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 13
+ },
+ {
+  "id": "D12_91FC",
+  "jp": "なにか　おきものがあるぞ！\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 14
+ },
+ {
+  "id": "D12_920B",
+  "jp": "ガムのはんばいきがあるぞ！\nひとつ　かってみよう\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 25
+ },
+ {
+  "id": "D12_923D",
+  "jp": "わたしはマミよ\nよろしくね\nきょねん　サイキックスクールを　そつぎょうしたのあら！　{NAME}さんも　そつぎょうせいなの\nじゃあ　わたしがせんぱいってわけね\nこのパークって　わたしとてもすきなのよね\nサイのトレーニングで　よくやるんだけど\nねんりきで　あそこのふんすいって　だせるのよね\n{NAME}さんも　いちどためしてみない\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 162
+ },
+ {
+  "id": "D12_92E0",
+  "jp": "さすがね！\nとてもつよい　サイパワーをかんじたわ\n\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 26
+ },
+ {
+  "id": "D12_92FB",
+  "jp": "ちょうしがあがったら　またやってみるといいわ\n\n\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 25
+ },
+ {
+  "id": "D12_9315",
+  "jp": "きょうの　バイブレーションは　いいみたいね\nわたし　ふんすいがみたいな\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 36
+ },
+ {
+  "id": "D12_933A",
+  "jp": "きょうは　わたしがふんすいを　だしてみるわ\n{NAME}さんは　でるばしょを　よちしてみせてね\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 46
+ },
+ {
+  "id": "D12_9369",
+  "jp": "あら{NAME}さん　ちょうどよかったわ\nふんすいが　こしょうしちゃったみたいなの\nとうしをつかって　わるいところをさがしてくれない\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 65
+ },
+ {
+  "id": "D12_93AB",
+  "jp": "{NAME}さんの　サイパワーを　みせてください\n\n\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 25
+ },
+ {
+  "id": "D12_93C5",
+  "jp": "かだんがあるぞ！\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 9
+ },
+ {
+  "id": "D12_93CF",
+  "jp": "ひこうせんの　かくのうこがあるぞ！\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 18
+ },
+ {
+  "id": "D12_93E2",
+  "jp": "さっき　バイブレーションをあわせたばしょだ\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 22
+ },
+ {
+  "id": "D12_93F9",
+  "jp": "じゅうじボタンで　いどうさきを　えらんでください\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 25
+ },
+ {
+  "id": "D12_9413",
+  "jp": "サイサロンへ　いどうちゅう\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 14
+ },
+ {
+  "id": "D12_9422",
+  "jp": "サイパークへ　いどうちゅう\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 14
+ },
+ {
+  "id": "D12_9431",
+  "jp": "サイランドへ　いどうちゅう\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 14
+ },
+ {
+  "id": "D12_9440",
+  "jp": "テレポートちゅう！\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 10
+ },
+ {
+  "id": "D12_944B",
+  "jp": "スクールへ　いどうちゅう\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 13
+ },
+ {
+  "id": "D12_9482",
+  "jp": "ここはサイキックシテイーです。\nあなたは　ここで　ちょうのうりょくの\nじっせん　トレーニングを　つむことになります。\nじぶんが　じっさいに　このせかいのなかに\nあたかも　はいりこんだかのように　イメージして\nトレーニングを　つむことが　たいせつです。\nあせらず　ゆったりしたきもちで　やりましょう。\nいままでと　おなじように　なにかをかんじたら\nフイールコマンドを　つかってみてください。\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 195
+ },
+ {
+  "id": "D12_9546",
+  "jp": "イベントに　せいこうすれば　ポイントが\nあがります。　また　ポイントが　いってい\nいじょうに　なると　サイレベルが　あがります。\nレベルが　あがれば　キヨタから\nちょうのうりょくにかんする　じょうほうを\nあなたは　きくことが　できるでしょう。\nそして　レベルが　さいだいち　まで\nあげることが　できたならば　いよいよ\nさいしゅうイベントに　ちょうせんです。\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 179
+ },
+ {
+  "id": "D12_95FA",
+  "jp": "さいしゅうイベントに　せいこうしたならば\n{NAME}さんは　エンデイングを　たいけんし\nしんの　エスパーと　なることでしょう！\nいまひかっている　ここが　センターです。\nいどうするには　じゅうじボタンを　つかって\nいどうさきを　えらび　Ａボタンをおします。\n",
+  "called_from": [
+   "Psychic City map / travel"
+  ],
+  "jp_bytes": 128
+ }
+]

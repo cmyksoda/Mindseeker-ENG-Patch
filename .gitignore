@@ -1,0 +1,14 @@
+project-notes/
+project-data/
+*.nes
+!dist/
+__pycache__/
+# Internal review pages for the artifact shelf, and the tools that need them
+tools/make_review.py
+tools/make_picks.py
+tools/make_boxfix.py
+tools/make_highlights.py
+tools/watch_text.py
+tools/lua/dump_state.lua
+tools/*_template.html
+dist/REPORT.md
